@@ -1,0 +1,27 @@
+{
+  "name": "macromap",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:news": "node scripts/test-news-lib.mjs",
+    "test:refresh": "node scripts/test-refresh-api.mjs",
+    "test:galaxy": "node scripts/test-galaxy.mjs",
+    "test:rules": "node scripts/test-news-rules.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.383.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.3.1"
+  }
+}
