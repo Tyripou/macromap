@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-24T19:09:10.537Z",
+  "updatedAt": "2026-09-24T23:53:01.815Z",
   "byFactor": {
     "nasdaq": [
+      {
+        "kind": "catalyst",
+        "headline": "VRME Stock Jumps As OpenWorld Merger And Blockchain Pivot Advance",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T18:52:32.000Z",
+        "source": "StocksToTrade",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://stockstotrade.com/news/verifyme-inc-vrme-news-2026_09_24-2/"
+      },
       {
         "kind": "catalyst",
         "headline": "Qualcomm slips even as it renews patent license agreement with Apple (QCOM:NASDAQ)",
@@ -31,16 +41,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : NASDAQ.",
         "link": "https://kalkinemedia.com/us/stocks/dividend/why-does-lindes-nasdaqlin-latest-dividend-cycle-matter-to-investors"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Alphabet C stock falls 3.8 percent ahead of the open",
-        "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T04:38:18.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
-        "why": "L'article évoque : Nasdaq, tech stocks, Alphabet.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-c-stock-falls-3-8-percent-ahead-of-the-open/70173648"
       }
     ],
     "oil": [
@@ -150,23 +150,23 @@
       },
       {
         "kind": "catalyst",
-        "headline": "Autodesk stock falls 1.12 percent after Q2 earnings beat",
+        "headline": "What Should CVS Stock Investors Be Watching Now?",
         "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T11:41:18.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : earnings, EPS, guidance.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/autodesk-stock-falls-1-12-percent-after-q2-earnings-beat/70177442"
+        "publishedAt": "2026-09-24T16:14:42.000Z",
+        "source": "Trefis",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
+        "why": "L'article évoque : earnings, EPS.",
+        "link": "https://www.trefis.com/stock/cvs/articles/616471/what-should-cvs-stock-investors-be-watching-now/2026-09-24"
       },
       {
         "kind": "catalyst",
-        "headline": "Elevance Health stock carries a USD 27 adjusted EPS outlook",
+        "headline": "Shuttle Pharmaceuticals Holdings, Inc. Q2 2026: Revenue $0 Net loss $(3.15M), EPS $(3.10) — 10-Q Summary",
         "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T11:40:13.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : earnings, EPS, guidance.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/elevance-health-stock-carries-a-usd-27-adjusted-eps-outlook/70177348"
+        "publishedAt": "2026-09-24T16:11:16.000Z",
+        "source": "TradingView",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : EPS.",
+        "link": "https://www.tradingview.com/news/tradingview:2e3c6885e52c9:0-shuttle-pharmaceuticals-holdings-inc-q2-2026-revenue-0-net-loss-3-15m-eps-3-10-10-q-summary/"
       }
     ],
     "gold": [
@@ -234,13 +234,13 @@
       },
       {
         "kind": "catalyst",
-        "headline": "ResMed Inc. (RMD) Stock Price, News, Quote & History",
+        "headline": "IBM Looks 4.2% Undervalued on GF Value™ as Dividend Remains Sustainable",
         "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T06:37:12.000Z",
-        "source": "Yahoo! Finance Canada",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "publishedAt": "2026-09-24T11:13:01.000Z",
+        "source": "GuruFocus",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : valuation.",
-        "link": "https://ca.finance.yahoo.com/quote/RMD/"
+        "link": "https://www.gurufocus.com/news/9095088/ibm-looks-42-undervalued-on-gf-value-as-dividend-remains-sustainable-ibm"
       }
     ],
     "fed": [
@@ -288,6 +288,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "🚨𝗝𝗨𝗦𝗧 𝗜𝗡: Franklin Templeton’s Head of Crypto Christopher Perkins says crypto is entering a new bull market.",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T14:23:01.000Z",
+        "source": "Moomoo",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : bull market.",
+        "link": "https://www.moomoo.com/community/feed/franklin-templeton-s-head-of-crypto-christopher-perkins-says-crypto-117326464286725"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Why Is S&P 500 Member Citizens Financial (NYSE:CFG) in Focus?",
         "date": "Sep 24, 2026",
         "publishedAt": "2026-09-24T13:45:15.000Z",
@@ -315,16 +325,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : S&P, equities.",
         "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/duke-energy-stock-heads-into-the-open-after-a-0-8-percent-s-and-p-500-drop/70173324"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Biogen stock adds 3.40 percent ahead of the open",
-        "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T04:03:00.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : US stocks, Nasdaq.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/biogen-stock-adds-3-40-percent-ahead-of-the-open/70172338"
       }
     ],
     "g-cb-demand": [
@@ -340,6 +340,16 @@
       }
     ],
     "usd": [
+      {
+        "kind": "catalyst",
+        "headline": "Bullish trends meet a buy-the-dip test",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T15:53:34.000Z",
+        "source": "Kitco",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : US Dollar, Dollar.",
+        "link": "https://www.kitco.com/opinion/2026-09-24/bullish-trends-meet-buy-dip-test"
+      },
       {
         "kind": "catalyst",
         "headline": "Newmont stock falls 4.0 percent at the close",
@@ -538,6 +548,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bullish clears longest-dated bitcoin options trade expiring in 2028",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T12:53:33.000Z",
+        "source": "TradingView",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : bitcoin, crypto.",
+        "link": "https://www.tradingview.com/news/cryptobriefing:7b6e5c86d094b:0-bullish-clears-longest-dated-bitcoin-options-trade-expiring-in-2028/"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Sequans sells 314 bitcoin, ends treasury strategy",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T11:19:22.000Z",
+        "source": "Mugglehead Investment Magazine",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : bitcoin, cryptocurrency.",
+        "link": "https://mugglehead.com/sequans-sells-remaining-bitcoin-treasury-exit/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Trump Crypto Portfolio Revealed: COIN, MSTR Trades Stand Out",
         "date": "Sep 24, 2026",
         "publishedAt": "2026-09-24T09:59:49.000Z",
@@ -548,6 +578,16 @@
       }
     ],
     "oil-geo": [
+      {
+        "kind": "catalyst",
+        "headline": "Carney’s mega deduction tax break is a boost to pipeline, South Bow executives say",
+        "date": "Sep 23, 2026",
+        "publishedAt": "2026-09-23T22:46:07.000Z",
+        "source": "The Globe and Mail",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : pipeline.",
+        "link": "https://www.theglobeandmail.com/business/article-mega-deduction-tax-break-prairie-connector-oil-pipeline-south-bow/"
+      },
       {
         "kind": "catalyst",
         "headline": "Enbridge Builds Pipeline Bypass Following Largest Spill in Wisconsin’s History",
@@ -562,6 +602,16 @@
     "oil-supply": [
       {
         "kind": "catalyst",
+        "headline": "Carney’s mega deduction tax break is a boost to pipeline, South Bow executives say",
+        "date": "Sep 23, 2026",
+        "publishedAt": "2026-09-23T22:46:07.000Z",
+        "source": "The Globe and Mail",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : oil exports.",
+        "link": "https://www.theglobeandmail.com/business/article-mega-deduction-tax-break-prairie-connector-oil-pipeline-south-bow/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Imperial Oil Chief Calls for Alberta to Reject Separatism",
         "date": "Sep 23, 2026",
         "publishedAt": "2026-09-23T14:18:12.000Z",
@@ -570,9 +620,122 @@
         "why": "L'article évoque : oil production.",
         "link": "https://www.rigzone.com/news/wire/imperial_oil_chief_calls_for_alberta_to_reject_separatism-23-sep-2026-184684-article/"
       }
+    ],
+    "btc-risk-appetite": [
+      {
+        "kind": "catalyst",
+        "headline": "Zhibao Technology Inc. Announces Proposed Strategic Partnership with DeSyn Protocol to Build Institutional-Grade BTCfi Infrastructure and Yield Ecosystem",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T19:16:35.000Z",
+        "source": "TMX Newsfile",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : NASDAQ, leverage.",
+        "link": "https://www.newsfilecorp.com/release/315962/Zhibao-Technology-Inc.-Announces-Proposed-Strategic-Partnership-with-DeSyn-Protocol-to-Build-InstitutionalGrade-BTCfi-Infrastructure-and-Yield-Ecosystem"
+      }
+    ],
+    "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Bullish trends meet a buy-the-dip test",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T15:53:34.000Z",
+        "source": "Kitco",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.kitco.com/opinion/2026-09-24/bullish-trends-meet-buy-dip-test"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Cardano (ADA) Surges 5% Amid News-Driven Rally",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T15:47:15.000Z",
+        "source": "CoinMarketCap",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://coinmarketcap.com/top-stories/6ab54a769b764f5d2ecb7563/"
+      }
     ]
   },
   "seen": [
+    "https://www.stocktitan.net/sec-filings/STUB/form-4-stub-hub-holdings-inc-insider-trading-activity-8a7c017dd2c9.html",
+    "https://www.bloomberg.com/news/articles/2026-09-24/citigroup-s-scott-sartorius-leaves-for-commerce-department?srnd=all",
+    "https://in.investing.com/news/stock-market-news/sequans-communications-receives-nyse-noncompliance-notice-93CH-5603826",
+    "https://www.mrt.com/news/education/article/permian-basin-small-biz-builder-grant-tx-utpb-22447873.php",
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/l3harris-technologies-stock-gets-a-usd-876-4-million-navy-contract/70179375",
+    "https://www.chron.com/business/article/energy-department-will-spend-2-billion-to-22446818.php",
+    "https://www.wkbn.com/news/national-world/ap-energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-aging-power-grid/",
+    "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
+    "https://www.greenpeace.org/usa/the-metals-company-ceo-claims-destructive-industry-is-only-picking-up-rocks/",
+    "https://www.tradingview.com/news/tradingview:36851fde4dcea:0-zhibao-technology-inc-zbao-signs-mou-with-desyn-on-btcfi-partnership/",
+    "https://www.newsfilecorp.com/release/315962/Zhibao-Technology-Inc.-Announces-Proposed-Strategic-Partnership-with-DeSyn-Protocol-to-Build-InstitutionalGrade-BTCfi-Infrastructure-and-Yield-Ecosystem",
+    "https://stockstotrade.com/news/verifyme-inc-vrme-news-2026_09_24-2/",
+    "https://seekingalpha.com/news/4646793-ppl-selected-for-up-to-71_5m-doe-grant-for-pennsylvania-transmission-upgrade",
+    "https://www.trefis.com/stock/cvs/articles/616471/what-should-cvs-stock-investors-be-watching-now/2026-09-24",
+    "https://www.tradingview.com/news/tradingview:2e3c6885e52c9:0-shuttle-pharmaceuticals-holdings-inc-q2-2026-revenue-0-net-loss-3-15m-eps-3-10-10-q-summary/",
+    "https://247wallst.com/investing/2026/09/24/webull-drops-6-as-selling-outlasts-its-insider-sale-headlines-robinhood-and-interactive-brokers-dip-2/",
+    "https://www.moomoo.com/news/post/1000187111/ppl-electric-utilities-selected-for-us-department-of-energy-grant",
+    "https://www.kitco.com/opinion/2026-09-24/bullish-trends-meet-buy-dip-test",
+    "https://coinmarketcap.com/top-stories/6ab54a769b764f5d2ecb7563/",
+    "https://energynews.pro/en/jobs/federal-government-affairs-intern-nisource-3690",
+    "https://www.datacenterdynamics.com/en/news/tower-semiconductor-to-establish-large-scale-optical-chip-hub-as-part-of-4bn-japanese-investment-pledge/",
+    "https://ng.investing.com/news/stock-market-news/ubs-cuts-edison-international-stock-price-target-on-wildfire-reform-93CH-2708339",
+    "https://www.moomoo.com/community/feed/franklin-templeton-s-head-of-crypto-christopher-perkins-says-crypto-117326464286725",
+    "https://www.coingecko.com/en/stocks/chaince-digital-holdings-inc-adr",
+    "https://ca.investing.com/news/stock-market-news/ubs-cuts-edison-international-stock-price-target-on-wildfire-reform-93CH-4852146",
+    "https://oceannews.com/news/defense/coast-guard-awards-tutor-perini-contract-to-rebuild-base-kodiak-fuel-pier/",
+    "https://www.tradingview.com/news/tradingview:bf0df3d6a66c2:0-teucrium-commodity-trust-resumes-accepting-redemptions-for-7rcc-spot-bitcoin-and-carbon-credit-futures-etf/",
+    "https://www.stocktitan.net/sec-filings/BTCK/8-k-teucrium-commodity-trust-reports-material-event-855a50625235.html",
+    "https://simplywall.st/stocks/us/commercial-services/nyse-br/broadridge-financial-solutions/news/did-digital-asset-push-just-shift-broadridge-financial-solut/amp",
+    "https://www.tradingview.com/news/cryptobriefing:7b6e5c86d094b:0-bullish-clears-longest-dated-bitcoin-options-trade-expiring-in-2028/",
+    "https://www.tradingview.com/news/tradingview:740f671a86348:0-big-digital-energy-converts-2-57-million-debt-into-shares-grants-resale-rights-to-endeavor/",
+    "https://www.foxbusiness.com/fox-news-food-drink/starbucks-close-250-stores-difficult-decision",
+    "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/chaince-digital-repurchases-and-cancels-warrants-for-us20-million-in-cash/2432208",
+    "https://www.tradingview.com/news/tradingview:7f937630520ac:0-streamex-corp-stex-secures-1m-institutional-gldy-allocation/",
+    "https://www.tradingview.com/news/tradingview:561ee7117c0d4:0-streamex-corp-stex-secures-initial-1m-gldy-allocation/",
+    "https://www.manilatimes.net/2026/09/24/tmt-newswire/globenewswire/streamex-corp-announces-institutional-investment-into-strategy-built-around-gldy/2432178",
+    "https://www.citybiz.co/article/908528/streamex-secures-initial-1m-institutional-allocation-for-gldy-based-strategy/",
+    "https://kalkinemedia.com/us/stocks/financial/why-is-broadridge-nysebr-bringing-its-digital-asset-platform-to-us-wealth-firms",
+    "https://www.insidernj.com/press-releases/new-jersey-food-council-selects-coca-cola-exec-jim-mcgreevy-as-next-president-ceo",
+    "https://www.investing.com/news/company-news/sequans-completes-bitcoin-sale-reports-80-product-revenue-growth-93CH-4914822",
+    "https://mugglehead.com/sequans-sells-remaining-bitcoin-treasury-exit/",
+    "https://pluang.com/en/news-feed/canaan-inc-pamerkan-solusi-hash-to-heat-di-konferensi-btchel",
+    "https://www.prnewswire.com/news-releases/canaan-inc-to-exhibit-at-btchel-conference-showcasing-hash-to-heat-solutions-from-district-networks-to-home-solutions-302888089.html",
+    "https://www.bloomberg.com/news/articles/2026-09-24/snb-s-martin-says-90-plan-would-be-good-amount-of-ubs-capital?srnd=all",
+    "https://www.gurufocus.com/news/9095088/ibm-looks-42-undervalued-on-gf-value-as-dividend-remains-sustainable-ibm",
+    "https://www.newsfilecorp.com/release/315842/Sequans-Completes-Bitcoin-Treasury-Exit-and-Emerges-with-a-Solid-Financial-Foundation",
+    "https://www.stocktitan.net/sec-filings/SQNS/6-k-sequans-communications-current-report-foreign-issuer-7e7292ff340b.html",
+    "https://sg.finance.yahoo.com/quote/KEEL/",
+    "https://www.stocktitan.net/news/IBM/ibm-expands-its-digital-banking-infrastructure-with-swift-wqm8trdjio4r.html",
+    "https://ca.finance.yahoo.com/quote/NET41771-USD/",
+    "https://cryptorank.io/news/feed/b739a-grayscale-renames-bitcoin-etf-into-ai-fund",
+    "https://www.ledger-enquirer.com/news/environment/article317343191.html",
+    "https://pluang.com/en/asset/usstock/CIFR/10904",
+    "https://www.coingecko.com/en/coins/digital-realty-trust-inc-rstock/hkd",
+    "https://www.knoxnews.com/story/opinion/columnists/2026/09/24/tva-is-taking-action-to-power-the-tennessee-valleys-future/91895442007/",
+    "https://cryptoslate.com/cardano-proposal-slashes-fees-by-55-but-it-comes-with-a-cost-for-small-pools/",
+    "https://www.investing.com/news/insider-trading-news/endeavor-blockchain-10-owner-buys-big-digital-energy-shares-for-4936-93CH-4914361",
+    "https://pluang.com/en/news-feed/etf-solana-as-spot-asal-as-net-inflow-13-juta-pada-23-september",
+    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/lm-funding-america-stock-faces-a-new-mining-test-after-a-940-miner-order/70171104",
+    "https://ca.finance.yahoo.com/quote/CAN/",
+    "https://ca.finance.yahoo.com/quote/BMNR/",
+    "https://www.reuters.com/legal/litigation/us-judge-dismisses-michigan-climate-lawsuit-against-oil-companies-2026-09-23/",
+    "https://sg.finance.yahoo.com/quote/BTDR/",
+    "https://www.theglobeandmail.com/business/article-mega-deduction-tax-break-prairie-connector-oil-pipeline-south-bow/",
+    "https://www.bitget.com/amp/news/detail/12560605865522",
+    "https://www.actionnewsnow.com/news/covering-california/pg-e-corporation-foundation-awards-1-million-in-wildfire-safety-grants/article_b88686c9-bad3-4fa4-95b0-532213bbfb50.html",
+    "https://www.newsfilecorp.com/release/315641/Zhibao-Technology-Inc.-Enters-into-NonBinding-Letter-of-Intent-to-Acquire-OnChain-Trading-Platform-MeVX",
+    "https://www.stocktitan.net/news/ZBAO/zhibao-technology-inc-enters-into-non-binding-letter-of-intent-to-9c69a66g0do9.html",
+    "https://www.tradingview.com/news/stocktwits:32edc9f98094b:0-avgo-stock-falls-premarket-china-reportedly-audits-broadcom-s-grip-on-state-backed-data-centers/",
+    "https://www.stocktitan.net/sec-filings/COIN/form-4-coinbase-global-inc-insider-trading-activity-49b9fdd99925.html",
+    "https://www.yahoo.com/news/us/articles/huntsville-city-council-vote-tva-143624135.html",
+    "https://au.finance.yahoo.com/quote/MARA/latest-news/",
+    "https://legis1.com/news/cooley-llp-lobbying-termination-ends-7-year",
+    "https://cryptorank.io/news/feed/cea9b-2291873",
+    "https://www.stocktitan.net/sec-filings/RNA/form-4-atrium-therapeutics-inc-insider-trading-activity-06c38c39dc44.html",
+    "https://mugglehead.com/silvia-inc-share-buyback-below-nav/",
+    "https://www.969wxbq.com/tdec-eastman-chemical-company-violated-air-pollution-permits/",
+    "https://www.gurufocus.com/news/9093181/oaktree-capital-group-oak-faces-valuation-challenges-amid-fiscal-concerns",
+    "https://www.fiercepharma.com/pharma/eli-lilly-ceo-touts-70-share-medicare-glp-1-program-reaches-700k-seniors",
     "https://seekingalpha.com/news/4646542-qualcomm-rises-as-it-renews-patent-license-agreement-with-apple",
     "https://www.schaeffersresearch.com/content/analysis/2026/09/24/howmet-aerospace-stock-poised-to-bounce-off-key-trendline",
     "https://ca.investing.com/news/stock-market-news/form-4-ge-vernova-llc-for-24-september-93CH-4852415",
@@ -893,34 +1056,6 @@
     "https://kalkinemedia.com/us/stocks/financial/why-is-bank-of-america-nysebac-in-focus-as-sector-rotation-shapes-the-us-session",
     "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-five-124000071.html",
     "https://kalkinemedia.com/us/stocks/infrastructure-and-real-estate/is-simon-property-group-nysespg-on-the-radar-as-oil-and-bond-yields-reshape-market-tone",
-    "https://kalkinemedia.com/us/stocks/infrastructure-and-real-estate/why-is-american-tower-nyseamt-in-focus-as-wall-street-weighs-ai-strength-and-rate-pressure",
-    "https://finance.yahoo.com/real-estate/articles/jll-rolls-nontraded-reit-focused-162952349.html",
-    "https://www.inkl.com/news/is-kimco-realty-stock-outperforming-the-dow",
-    "https://dailymemphian.com/section/business/article/66873/autozone-optimistic-about-2027-sales-and-inflation",
-    "https://seekingalpha.com/article/4948881-invesco-emerging-markets-local-debt-fund-q2-2026-commentary",
-    "https://www.marketbeat.com/instant-alerts/filing-equitable-holdings-inc-cuts-stock-position-in-jpmorgan-chase-co-jpm-2026-09-23/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/centerpoint-energy-stock-heads-into-the-open-after-a-0-6-percent-gain/70162757",
-    "https://www.theglobeandmail.com/business/article-canadas-big-six-banks-tokenized-deposits-digital-money-push/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/ebay-inc-stock-gains-1-8-percent-ahead-of-the-open/70162923",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/xcel-energy-stock-heads-into-the-open-after-a-0-7-percent-gain/70162529",
-    "https://www.cnbc.com/2026/09/23/morgan-stanley-investors-diversify-markets-equities-.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/northern-trust-stock-heads-into-the-open-after-a-3-10-percent-drop/70162118",
-    "https://www.theglobeandmail.com/investing/markets/stocks/AFL/pressreleases/4749501/life-insurance-stocks-q2-recap-benchmarking-aflac-nyseafl/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/federal-realty-stock-heads-into-the-open-after-a-0-25-percent-fall/70161498",
-    "https://www.tradingkey.com/news/market-movers/262180649-market-movers-rtx-20260922",
-    "https://www.benzinga.com/markets/equities/26/09/61937303/bitcoin-ethereum-xrp-dogecoin-gain-trump-iran-btc-support",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/realty-income-stock-heads-into-the-open-after-a-1-6-percent-drop/70160691",
-    "https://simplywall.st/stocks/us/insurance/nyse-hipo/hippo-holdings/news/3-us-insurance-stocks-built-to-earn-more-from-higher-rates",
-    "https://www.theglobeandmail.com/investing/markets/stocks/AMKR/pressreleases/4741026/power-integrations-penguin-solutions-photronics-amkor-and-teradyne-shares-are-soaring-what-you-need-to-know/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/ameriprise-financial-stock-falls-4-4-percent-ahead-of-the-open/70161071",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/millicom-stock-advances-0-90-percent-before-the-bell/70160925",
-    "https://simplywall.st/stocks/us/energy/nyse-nog/northern-oil-and-gas/news/3-us-energy-stocks-with-cash-flow-leverage-to-high-oil-price",
-    "https://simplywall.st/stocks/us/banks/nyse-pb/prosperity-bancshares/news/why-these-regional-bank-stocks-matter-as-the-fed-eases-disco/amp",
-    "https://www.bbntimes.com/financial/cac-40-edges-up-0-2-to-8-155-as-stmicroelectronics-and-luxury-stocks-offset-orange-slump",
-    "https://www.tradingview.com/news/benzinga:8d90a1902094b:0-quick-spark-booking-holdings-eyes-worst-month-since-june-2022/",
-    "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-northern-trust-ameriprise-203746620.html",
-    "https://www.investing.com/news/analyst-ratings/ubs-lowers-crh-stock-price-target-to-135-on-valuation-concerns-93CH-4911124",
-    "https://www.benzinga.com/news/travel/26/09/61932902/booking-holdings-worst-month-since-june-2022-etraveli-ai-agents",
-    "https://www.morningstar.com/company-reports/1500192-maintain-our-65-fair-value-estimate-for-us-bancorp-as-we-update-interest-rate-projections"
+    "https://kalkinemedia.com/us/stocks/infrastructure-and-real-estate/why-is-american-tower-nyseamt-in-focus-as-wall-street-weighs-ai-strength-and-rate-pressure"
   ]
 }
