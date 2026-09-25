@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-25T11:49:36.527Z",
+  "updatedAt": "2026-09-25T17:09:44.897Z",
   "byFactor": {
     "nasdaq": [
+      {
+        "kind": "catalyst",
+        "headline": "Taoping secures $5.5M in smart elevator project orders in China By Investing.com",
+        "date": "Sep 25, 2026",
+        "publishedAt": "2026-09-25T13:23:31.000Z",
+        "source": "Investing.com Nigeria",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : NASDAQ.",
+        "link": "https://ng.investing.com/news/stock-market-news/taoping-secures-55m-in-smart-elevator-project-orders-in-china-93CH-2708050"
+      },
       {
         "kind": "catalyst",
         "headline": "Amazon.com, Inc. (NASDAQ:AMZN) Stock Rated \"Moderate Buy\" by Wall Street Brokerages",
@@ -14,6 +24,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "State Street Corp Purchases 1,913,688 Shares of Galaxy Digital Inc. $GLXY",
+        "date": "Sep 25, 2026",
+        "publishedAt": "2026-09-25T07:57:25.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : NASDAQ.",
+        "link": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-1913688-shares-of-galaxy-digital-inc-glxy-2026-09-25/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Dexcom stock slips 2.01 percent ahead of the open",
         "date": "Sep 25, 2026",
         "publishedAt": "2026-09-25T01:50:34.000Z",
@@ -21,26 +41,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/dexcom-stock-slips-2-01-percent-ahead-of-the-open/70180197"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Keurig Dr Pepper stock heads into the open after a flat session",
-        "date": "Sep 25, 2026",
-        "publishedAt": "2026-09-25T01:33:03.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/keurig-dr-pepper-stock-heads-into-the-open-after-a-flat-session/70180128"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Myseum.AI Plans Tokenization of Nasdaq-Listed Common Stock",
-        "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T21:20:53.000Z",
-        "source": "The Globe and Mail",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.theglobeandmail.com/investing/markets/stocks/MYSE-Q/pressreleases/4788369/myseum-ai-plans-tokenization-of-nasdaq-listed-common-stock/"
       }
     ],
     "oil": [
@@ -150,6 +150,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "EnerSys stock falls 1.31 percent after strong quarterly results",
+        "date": "Sep 25, 2026",
+        "publishedAt": "2026-09-25T07:26:03.000Z",
+        "source": "AD HOC NEWS",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : earnings, quarterly results, EPS.",
+        "link": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/enersys-stock-falls-1-31-percent-after-strong-quarterly-results/70182254"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Newmont Corporation Q3FY26 Results: Earnings call set for October 22, 2026",
         "date": "Sep 25, 2026",
         "publishedAt": "2026-09-25T01:42:47.000Z",
@@ -157,16 +167,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Earnings.",
         "link": "https://scanx.trade/stock-market-news/companies/newmont-corporation-q3fy26-results-earnings-call-set-october-22-2026/51828800"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Campbell Soup Company stock falls 2.41 percent near yearly low",
-        "date": "Sep 25, 2026",
-        "publishedAt": "2026-09-25T01:14:00.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
-        "why": "L'article évoque : earnings, EPS.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/campbell-soup-company-stock-falls-2-41-percent-near-yearly-low/70179523"
       }
     ],
     "gold": [
@@ -352,6 +352,16 @@
     "usd": [
       {
         "kind": "catalyst",
+        "headline": "Cypherpunk Technologies Inc (Derivatives) to United States Dollar Price Today | Live CYPH to USD Converter & Exchange Rate | CryptoRank.io",
+        "date": "Sep 25, 2026",
+        "publishedAt": "2026-09-25T02:52:41.000Z",
+        "source": "CryptoRank",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Dollar.",
+        "link": "https://cryptorank.io/price/cypherpunk-technologies-inc-derivatives/usd"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bullish trends meet a buy-the-dip test",
         "date": "Sep 24, 2026",
         "publishedAt": "2026-09-24T15:53:34.000Z",
@@ -379,16 +389,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
         "why": "L'article évoque : U.S. dollar, dollar.",
         "link": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/newmont-stock-falls-4-0-percent-at-the-close/70170774"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wheaton Precious Metals Corp Stock (WPM) Moved Down by 5.08% on Sep 23: Facts Behind the Movement",
-        "date": "Sep 23, 2026",
-        "publishedAt": "2026-09-23T16:23:10.000Z",
-        "source": "TradingKey",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : U.S. dollar, dollar.",
-        "link": "https://www.tradingkey.com/news/market-movers/262183246-market-movers-wpm-20260923"
       }
     ],
     "bonds": [
@@ -756,9 +756,67 @@
         "why": "L'article évoque : ECB.",
         "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/banco-bilbao-vizcaya-argentaria-stock-slips-before-the-bell/70175530"
       }
+    ],
+    "dxy": [
+      {
+        "kind": "catalyst",
+        "headline": "Cypherpunk Technologies Inc (Derivatives) to United States Dollar Price Today | Live CYPH to USD Converter & Exchange Rate | CryptoRank.io",
+        "date": "Sep 25, 2026",
+        "publishedAt": "2026-09-25T02:52:41.000Z",
+        "source": "CryptoRank",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Dollar.",
+        "link": "https://cryptorank.io/price/cypherpunk-technologies-inc-derivatives/usd"
+      }
     ]
   },
   "seen": [
+    "https://kalkinemedia.com/ca/stocks/financial/why-is-bank-of-montreal-tsxbmo-making-digital-moves-now",
+    "https://txktoday.com/news/sau-receives-50000-gift-from-exxonmobil/",
+    "https://ng.investing.com/news/stock-market-news/taoping-secures-55m-in-smart-elevator-project-orders-in-china-93CH-2708050",
+    "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-joins-nextpredict-prediction-131603911.html",
+    "https://kalkinemedia.com/us/stocks/financial/whats-driving-the-buzz-around-broadridge-financial-solutions-inc-br-in-financial-stocks",
+    "https://sg.finance.yahoo.com/news/buy-cleanspark-clsk-stock-ai-112815058.html",
+    "https://www.stocktitan.net/sec-filings/ZEPP/form-4-zepp-health-corp-insider-trading-activity-df8abbf1ffb2.html",
+    "https://theedgemalaysia.com/node/818963",
+    "https://www.tuscaloosanews.com/story/news/local/2026/09/25/data-center-brookwood-approved/91929416007/",
+    "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-purchases-1913688-shares-of-galaxy-digital-inc-glxy-2026-09-25/",
+    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/enersys-stock-falls-1-31-percent-after-strong-quarterly-results/70182254",
+    "https://www.coingecko.com/en/coins/digital-realty-trust-inc-rstock/eur",
+    "https://cryptorank.io/price/cypherpunk-technologies-inc-derivatives/cny",
+    "https://cryptorank.io/price/cypherpunk-technologies-inc-derivatives/usd",
+    "https://www.ad-hoc-news.de/boerse/news/vorboerse/american-electric-power-stock-heads-into-the-open-after-a-0-7-percent-drop/70180145",
+    "https://www.ad-hoc-news.de/boerse/news/vorboerse/centerpoint-energy-stock-heads-into-the-open-after-a-flat-close/70180018",
+    "https://www.coingecko.com/en/coins/bp-plc-rstock/cad",
+    "https://www.summitdaily.com/news/a-20m-plan-involving-vail-resorts-that-would-transform-maggie-pond-near-breckenridge-ski-resort-has-sparked-concerns/",
+    "https://www.indexbox.io/blog/centerpoint-energy-awarded-50-million-doe-grant-to-modernize-greater-houston-grid/",
+    "https://www.prnewswire.com/news-releases/historic-announcement-centerpoint-energy-selected-to-receive-50-million-us-department-of-energy-grant-to-strengthen--modernize-greater-houstons-electric-grid-302889824.html",
+    "https://www.tradingview.com/news/tradingview:3349f445c82f5:0-centerpoint-energy-inc-cnp-secures-50m-doe-grant-for-grid-upgrades/",
+    "https://www.stocktitan.net/sec-filings/ALK/form-4-alaska-air-group-inc-insider-trading-activity-1728f2dd8e6d.html",
+    "https://tech.einnews.com/pr_news/944967407/landmark-fcc-case-could-rein-in-utility-barriers-to-rural-broadband-nationwide",
+    "https://www.wcpo.com/news/clermont-county-sues-duke-energy-over-coal-ash-waste-near-public-drinking-water-source",
+    "https://www.bloomberg.com/news/articles/2026-09-24/costco-posts-strong-quarterly-profit-on-tariff-refunds",
+    "https://www.bicmagazine.com/media/videos/peter-huntsman-on-building-scale-and-competitiveness-in-us/",
+    "https://www.bizjournals.com/houston/news/2026/09/24/centerpoint-energy-king-substation-doe-grant.html",
+    "https://www.stocktitan.net/sec-filings/INCY/form-4-incyte-corp-insider-trading-activity-43c17c332fcd.html",
+    "https://www.usnews.com/news/business/articles/2026-09-24/energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-aging-power-grid",
+    "https://pulse2.com/clean-energy-fuels-30-7-million/",
+    "https://simplywall.st/stocks/us/utilities/nyse-pcg/pge/news/pge-pcg-cut-by-ubs-as-california-wildfire-reform-delays-rais",
+    "https://ca.finance.yahoo.com/quote/CRWG/options/?date=1795132800&straddle=false&type=all",
+    "https://finance.biggo.com/news/6fc3a3ef-ed4e-4869-8012-8af679362c62",
+    "https://finance.biggo.com/news/70f82e90-59b3-46b2-bc3e-4d9b45a9c3ad",
+    "https://ktla.com/news/politics/ap-politics/ap-energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-aging-power-grid/",
+    "https://www.workboat.com/blue-ops-ramps-variant-7-usv-production-at-georgia-facility",
+    "https://www.tradingview.com/news/zacks:1a076d20d094b:0-government-commercial-markets-aid-icfi-amid-elevated-costs/",
+    "https://news.duke-energy.com/releases/doe-announces-50-million-selection-of-duke-energy-to-strengthen-grid-reliability-and-support-growing-communities-in-the-carolinas",
+    "https://www.moomoo.com/news/post/1000178423/digital-currency-x-technology-inc-announces-160-for-1-share",
+    "https://fox4kc.com/politics/ap-energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-aging-power-grid/",
+    "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/clean-energy-monetizes-30-7m-in-credits-from-rng-portfolio-44649",
+    "https://www.stocktitan.net/news/ONT/onterris-builds-momentum-in-national-brownfields-community-80as2os243e6.html",
+    "https://ca.finance.yahoo.com/quote/BTBT/",
+    "https://www.stocktitan.net/sec-filings/BTGO/form-3-bitgo-holdings-inc-initial-statement-of-beneficial-ownership-475b934c4058.html",
+    "https://georgetownvoice.com/2026/09/23/judge-dismisses-georgetown-from-former-aramark-employees-discrimination-lawsuit/",
+    "https://www.citybiz.co/article/908515/clean-energy-fuels-completes-30-7-million-tax-credit-sale-from-rng-portfolio/",
     "https://au.finance.yahoo.com/quote/GLW-USD/chart/",
     "https://www.marketbeat.com/instant-alerts/consensus-lamb-weston-nyse-lw-stock-now-rated-hold-by-sell-side-brokerages-2026-09-25/",
     "https://www.marketbeat.com/instant-alerts/consensus-truist-financial-corporation-nyse-tfc-stock-rated-hold-by-wall-street-brokerages-2026-09-25/",
@@ -1112,52 +1170,6 @@
     "https://www.gurufocus.com/news/9095268/yum-looks-176-undervalued-on-gf-value",
     "https://kalkinemedia.com/us/stocks/dividend/why-does-lindes-nasdaqlin-latest-dividend-cycle-matter-to-investors",
     "https://www.benzinga.com/trading-ideas/dividends/26/09/61968318/how-to-earn-500-a-month-from-costco-stock-ahead-of-q4-earnings-3",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/west-pharmaceutical-services-stock-gains-after-target-rises/70177346",
-    "https://www.investing.com/news/company-news/conagra-brands-declares-0175-quarterly-dividend-93CH-4915159",
-    "https://kalkinemedia.com/us/stocks/financial/what-does-the-ericsson-wallet-partnership-mean-for-fis-nysefis",
-    "https://www.marketscreener.com/news/conagra-brands-inc-announces-quarterly-dividend-payment-payable-december-3-2026-ce785adede88f62c",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/ball-corporation-stock-falls-1-92-percent-after-earnings-beat/70177559",
-    "https://247wallst.com/investing/2026/09/24/waste-management-returned-290-in-a-decade-these-4-stocks-share-its-boring-advantage/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/at-and-t-stock-carries-q2-growth-into-up-to-usd-10-billion-buybacks/70177533",
-    "https://www.cnbc.com/2026/09/24/imax-is-a-must-for-movie-theaters-making-the-stock-a-buy-morgan-stanley-says.html",
-    "https://www.stocktitan.net/sec-filings/IMCC/6-k-im-cannabis-corp-current-report-foreign-issuer-825c57d0328c.html",
-    "https://simplywall.st/stocks/us/software/nasdaq-inta/intapp/news/intapp-inta-lands-ai-client-win-is-the-stock-still-cheap",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/cummins-stock-faces-a-jpmorgan-target-cut-after-q2-growth/70177396",
-    "https://www.tikr.com/blog/boeing-clears-labor-overhangs-but-still-needs-10-billion-in-cash-flow-to-complete-its-turnaround",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/autodesk-stock-falls-1-12-percent-after-q2-earnings-beat/70177442",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/elevance-health-stock-carries-a-usd-27-adjusted-eps-outlook/70177348",
-    "https://www.stocktitan.net/overview/GNLX/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/teradyne-stock-falls-2-40-percent-despite-strong-q2-results/70177372",
-    "https://ca.finance.yahoo.com/news/servicenow-inc-now-attracting-investor-120002599.html",
-    "https://www.bloomberg.com/news/articles/2026-09-24/qualcomm-renews-global-licensing-pact-with-apple-starting-2027",
-    "https://www.marketscreener.com/news/bnp-paribas-upgrades-synopsys-to-neutral-from-underperform-price-target-is-420-ce785adedf8cf121",
-    "https://newsroom.bmo.com/2026-09-24-BMO-Launches-Its-First-Dedicated-Autocallable-ETF",
-    "https://www.marketscreener.com/news/mizuho-adjusts-price-target-on-federal-realty-investment-trust-to-117-from-130-maintains-outperfo-ce785adedf8df425",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/ge-healthcare-stock-trades-26-4-percent-below-its-yearly-high/70177311",
-    "https://www.marketbeat.com/instant-alerts/analyst-aevex-nyse-avex-upgraded-at-jefferies-financial-group-2026-09-24/",
-    "https://www.marketbeat.com/instant-alerts/estimates-what-is-keycorps-estimate-for-plexus-fy2026-earnings-2026-09-24/",
-    "https://www.marketscreener.com/news/rbc-lowers-price-target-on-union-pacific-to-326-from-339-keeps-outperform-rating-ce785adedf89f123",
-    "https://www.theglobeandmail.com/investing/markets/stocks/AMAT/pressreleases/4773856/the-zacks-analyst-blog-highlights-applied-materials-lam-research-and-kla/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/vici-properties-stock-falls-to-a-52-week-low-as-eps-misses/70177218",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-tree-stock-falls-1-63-percent-as-refunds-lift-eps/70177245",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/dupont-de-nemours-stock-reports-a-stronger-q2-2026/70177160",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-reports-growth-as-reimbursement-risk-rises/70176273",
-    "https://ca.investing.com/news/stock-market-news/krystal-biotech-stock-initiated-at-buy-by-goldman-sachs-93CH-4851427",
-    "https://ca.investing.com/news/stock-market-news/form-8k-lantern-pharma-inc-for-24-september-93CH-4851411",
-    "https://www.tradingview.com/news/tradingview:8d99db4c10b7a:0-news-corp-reports-1b-repurchase-program-493-7m-deployed-321-7m-bought-on-sep-23/",
-    "https://ca.investing.com/news/stock-market-news/goldman-sachs-assumes-madrigal-pharmaceuticals-stock-with-buy-rating-93CH-4851443",
-    "https://in.investing.com/news/stock-market-news/form-4-innovage-holding-corp-for-24-september-93CH-5604596",
-    "https://simplywall.st/stocks/us/healthcare/nasdaq-lnth/lantheus-holdings/news/lantheus-holdings-lnth-wins-fda-approval-for-bravnetsa-is-7",
-    "https://finance.yahoo.com/markets/stocks/articles/deckers-outdoor-deck-stock-may-101251198.html",
-    "https://dailycoin.com/trump-crypto-portfolio-coin-mstr-mara-cleanspark-trades/",
-    "https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Says-Diesel-Export-Ban-Would-Push-US-Gas-Prices-Higher.html",
-    "https://www.stocktitan.net/sec-filings/QSI/144-quantum-si-inc-sec-filing-46d8005c81dd.html",
-    "https://www.stocktitan.net/sec-filings/QSI/144-quantum-si-inc-sec-filing-42a1203adbf7.html",
-    "https://www.stocktitan.net/sec-filings/STUB/form-4-stub-hub-holdings-inc-insider-trading-activity-2b91cefa5704.html",
-    "https://www.investing.com/news/stock-market-news/l3harris-awarded-876-million-navy-contract-for-jammer-system-work-93CH-4914065",
-    "https://www.stocktitan.net/sec-filings/KTB/form-4-kontoor-brands-inc-insider-trading-activity-ac499f776cce.html",
-    "https://truthout.org/articles/enbridge-builds-pipeline-bypass-following-largest-spill-in-wisconsins-history/",
-    "https://247wallst.com/investing/2026/09/23/edison-international-pays-a-big-dividend-while-rebuilding-its-grid-can-it-afford-both/",
-    "https://www.tradingview.com/news/benzinga:f95aab260094b:0-medicare-lab-fee-changes-impact-billiontoone-caredx-differently/"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/west-pharmaceutical-services-stock-gains-after-target-rises/70177346"
   ]
 }
