@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T02:31:33.298Z",
+  "updatedAt": "2026-09-25T04:56:23.939Z",
   "byFactor": {
     "nasdaq": [
       {
@@ -24,6 +24,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Honeywell: Post-Spin Growth Story Is Just Getting Started (NASDAQ:HON)",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T19:15:08.000Z",
+        "source": "Seeking Alpha",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : NASDAQ.",
+        "link": "https://seekingalpha.com/article/4949551-honeywell-post-spin-growth-story-is-just-getting-started"
+      },
+      {
+        "kind": "catalyst",
         "headline": "VRME Stock Jumps As OpenWorld Merger And Blockchain Pivot Advance",
         "date": "Sep 24, 2026",
         "publishedAt": "2026-09-24T18:52:32.000Z",
@@ -31,16 +41,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://stockstotrade.com/news/verifyme-inc-vrme-news-2026_09_24-2/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Qualcomm slips even as it renews patent license agreement with Apple (QCOM:NASDAQ)",
-        "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T18:38:58.000Z",
-        "source": "Seeking Alpha",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : NASDAQ, Apple.",
-        "link": "https://seekingalpha.com/news/4646542-qualcomm-rises-as-it-renews-patent-license-agreement-with-apple"
       }
     ],
     "oil": [
@@ -66,6 +66,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Lam Research, Marvell Technology, Western Digital, FormFactor, and Penguin Solutions Shares Are Falling, What You Need To Know",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T18:28:00.000Z",
+        "source": "Yahoo Finance",
+        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
+        "why": "L'article évoque : crude oil, oil prices, crude.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-marvell-technology-western-232858881.html"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Why Is Occidental Petroleum (NYSE:OXY) Cutting Debt So Aggressively?",
         "date": "Sep 24, 2026",
         "publishedAt": "2026-09-24T16:57:44.000Z",
@@ -73,16 +83,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : crude, Petroleum.",
         "link": "https://kalkinemedia.com/us/stocks/oil-gas/why-is-occidental-petroleum-nyseoxy-cutting-debt-so-aggressively"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Skyworks Solutions and Universal Display Stocks Trade Down, What You Need To Know",
-        "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T16:38:45.000Z",
-        "source": "TradingView",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : crude oil, oil prices, crude.",
-        "link": "https://www.tradingview.com/news/stockstory:80cc761f9094b:0-skyworks-solutions-and-universal-display-stocks-trade-down-what-you-need-to-know/"
       }
     ],
     "spx": [
@@ -182,6 +182,26 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Wheaton Precious Metals (TSX:WPM) Stock Slips 5.42%: Spot Bullion Retracement, Hawkish Macro Pressures, and Streaming Multiple Compression Scrutinized",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T12:54:10.000Z",
+        "source": "kalkine.ca",
+        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
+        "why": "L'article évoque : Bullion.",
+        "link": "https://kalkine.ca/news/mining/wheaton-precious-metals-tsxwpm-stock-slips-542-spot-bullion-retracement-hawkish-macro-pressures-and-streaming-multiple-compression-scrutinized"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "International Tower Hill Mines (TSX:ITH) Stock Drops 5.26%: Livengood Gold Feasibility Pacing, Bulk-Tonnage Initial CapEx Hurdles, and Developer Multiple Scrutiny Weigh on Senti…",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T12:49:20.000Z",
+        "source": "kalkine.ca",
+        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
+        "why": "L'article évoque : Gold.",
+        "link": "https://kalkine.ca/news/mining/international-tower-hill-mines-tsxith-stock-drops-526-livengood-gold-feasibility-pacing-bulk-tonnage-initial-capex-hurdles-and-developer-multiple-scrutiny-weigh-on-sentiment"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Gold.com director Benjamin sells $1.74m in shares",
         "date": "Sep 23, 2026",
         "publishedAt": "2026-09-23T23:47:11.000Z",
@@ -189,26 +209,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : Gold.",
         "link": "https://za.investing.com/news/stock-market-news/goldcom-director-benjamin-sells-174m-in-shares-93CH-4473703"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Newmont stock falls 4.0 percent at the close",
-        "date": "Sep 23, 2026",
-        "publishedAt": "2026-09-23T23:32:00.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
-        "why": "L'article évoque : gold, gold prices.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/newmont-stock-falls-4-0-percent-at-the-close/70170774"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Court-ordered review puts Seabridge Gold (NYSE: SA) KSM project on a 90-day clock",
-        "date": "Sep 23, 2026",
-        "publishedAt": "2026-09-23T02:43:07.000Z",
-        "source": "Stock Titan",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Gold.",
-        "link": "https://www.stocktitan.net/sec-filings/SA/6-k-seabridge-gold-inc-current-report-foreign-issuer-fdefb6ee02a0.html"
       }
     ],
     "valuations": [
@@ -224,6 +224,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Monster Beverage (MNST) Stock at $44: Here's Why Investors Should Pause",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T19:53:00.000Z",
+        "source": "Currently.com",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : P/E.",
+        "link": "https://currently.att.yahoo.com/att/monster-beverage-mnst-stock-44-195300411.html"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Phillips 66 (PSX) Faces Bayway Labor Spotlight, Is The Stock Expensive?",
         "date": "Sep 24, 2026",
         "publishedAt": "2026-09-24T19:40:59.000Z",
@@ -234,23 +244,13 @@
       },
       {
         "kind": "catalyst",
-        "headline": "Valero Energy stock gains 2.26 percent as earnings reset valuation",
+        "headline": "LPL Financial (LPLA) Drops 7.5%. Is the Stock a Bargain After the Drop?",
         "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T16:19:13.000Z",
-        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-24T17:37:00.000Z",
+        "source": "Yahoo Finance",
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : valuation.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/valero-energy-stock-gains-2-26-percent-as-earnings-reset-valuation/70178584"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Trimble (TRMB) On FTSE Index Exit And GNSS Launches, Is The Undervalued Case Still Intact?",
-        "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T13:08:10.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : valuation.",
-        "link": "https://simplywall.st/stocks/us/software/nasdaq-trmb/trimble/news/trimble-trmb-on-ftse-index-exit-and-gnss-launches-is-the-und"
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-lpla-drops-7-213729295.html"
       }
     ],
     "fed": [
@@ -276,6 +276,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Piper Sandler, Houlihan Lokey, and Blackstone Shares Are Falling, What You Need To Know",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T16:48:31.000Z",
+        "source": "TradingView",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
+        "why": "L'article évoque : Federal Reserve.",
+        "link": "https://www.tradingview.com/news/stockstory:2b069a65a094b:0-piper-sandler-houlihan-lokey-and-blackstone-shares-are-falling-what-you-need-to-know/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "AT&T stock heads into the open after a 1.1 percent Nasdaq decline",
         "date": "Sep 24, 2026",
         "publishedAt": "2026-09-24T04:37:37.000Z",
@@ -283,16 +293,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : Federal Reserve.",
         "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/at-and-t-stock-heads-into-the-open-after-a-1-1-percent-nasdaq-decline/70173942"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "PACCAR stock falls 1.59 percent ahead of the open",
-        "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T03:37:22.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
-        "why": "L'article évoque : Federal Reserve.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/paccar-stock-falls-1-59-percent-ahead-of-the-open/70173086"
       }
     ],
     "equities": [
@@ -362,6 +362,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Wheaton Precious Metals (TSX:WPM) Stock Slips 5.42%: Spot Bullion Retracement, Hawkish Macro Pressures, and Streaming Multiple Compression Scrutinized",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T12:54:10.000Z",
+        "source": "kalkine.ca",
+        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
+        "why": "L'article évoque : U.S. Dollar, Dollar.",
+        "link": "https://kalkine.ca/news/mining/wheaton-precious-metals-tsxwpm-stock-slips-542-spot-bullion-retracement-hawkish-macro-pressures-and-streaming-multiple-compression-scrutinized"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Newmont stock falls 4.0 percent at the close",
         "date": "Sep 23, 2026",
         "publishedAt": "2026-09-23T23:32:00.000Z",
@@ -379,16 +389,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : U.S. dollar, dollar.",
         "link": "https://www.tradingkey.com/news/market-movers/262183246-market-movers-wpm-20260923"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Newmont Corporation Stock (NEM) Opened Down by 4.18% on Sep 23: Drivers Behind the Movement",
-        "date": "Sep 23, 2026",
-        "publishedAt": "2026-09-23T13:41:17.000Z",
-        "source": "TradingKey",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : U.S. dollar, dollar.",
-        "link": "https://www.tradingkey.com/news/market-movers/262182906-market-movers-nem-20260923"
       }
     ],
     "bonds": [
@@ -401,6 +401,16 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : bond yields, government bond.",
         "link": "https://www.bloomberg.com/news/articles/2026-09-25/goldman-s-moe-says-he-s-in-stronger-for-longer-camp-on-ai"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Fluence Energy, Richardson Electronics, Plug Power, Sunrun, and Methode Electronics Shares Plummet, What You Need To Know",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T22:48:02.000Z",
+        "source": "Yahoo Finance",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Treasury yield, bond yields.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-richardson-electronics-plug-224858146.html"
       },
       {
         "kind": "catalyst",
@@ -436,6 +446,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Fluence Energy, Richardson Electronics, Plug Power, Sunrun, and Methode Electronics Shares Plummet, What You Need To Know",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T22:48:02.000Z",
+        "source": "Yahoo Finance",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : 10-year Treasury, Treasury yield, 10-year.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-richardson-electronics-plug-224858146.html"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Microchip Technology, Skyworks Solutions, and Universal Display Shares Are Falling, What You Need To Know",
         "date": "Sep 24, 2026",
         "publishedAt": "2026-09-24T21:28:39.000Z",
@@ -446,23 +466,13 @@
       },
       {
         "kind": "catalyst",
-        "headline": "Skyworks Solutions and Universal Display Stocks Trade Down, What You Need To Know",
+        "headline": "Lam Research, Marvell Technology, Western Digital, FormFactor, and Penguin Solutions Shares Are Falling, What You Need To Know",
         "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T16:38:45.000Z",
-        "source": "TradingView",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "publishedAt": "2026-09-24T18:28:00.000Z",
+        "source": "Yahoo Finance",
+        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
         "why": "L'article évoque : 10-year Treasury, Treasury yield, 10-year.",
-        "link": "https://www.tradingview.com/news/stockstory:80cc761f9094b:0-skyworks-solutions-and-universal-display-stocks-trade-down-what-you-need-to-know/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Microchip Technology, Skyworks Solutions, and Universal Display Shares Are Falling, What You Need To Know",
-        "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T15:38:45.000Z",
-        "source": "TradingView",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
-        "why": "L'article évoque : 10-year U.S., Treasury yields, 10-year.",
-        "link": "https://www.tradingview.com/news/stockstory:28cfea68d094b:0-microchip-technology-skyworks-solutions-and-universal-display-shares-are-falling-what-you-need-to-know/"
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-marvell-technology-western-232858881.html"
       }
     ],
     "real-yields": [
@@ -578,6 +588,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "MARA Holdings Drops As JPMorgan Slashes Price Target",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T20:47:00.000Z",
+        "source": "StocksToTrade",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://stockstotrade.com/news/mara-holdings-inc-mara-news-2026_09_24/"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "UBS Sees Up to 45% Upside in Five AI Data Center Stocks, Led by Hut 8",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T18:24:43.000Z",
+        "source": "BigGo Finance",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://finance.biggo.com/news/f866e178-a5f0-40ea-a8e6-ab8d400c6520"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bullish clears longest-dated bitcoin options trade expiring in 2028",
         "date": "Sep 24, 2026",
         "publishedAt": "2026-09-24T12:53:33.000Z",
@@ -595,16 +625,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : bitcoin, cryptocurrency.",
         "link": "https://mugglehead.com/sequans-sells-remaining-bitcoin-treasury-exit/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Trump Crypto Portfolio Revealed: COIN, MSTR Trades Stand Out",
-        "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T09:59:49.000Z",
-        "source": "DailyCoin",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Bitcoin, Crypto, MSTR.",
-        "link": "https://dailycoin.com/trump-crypto-portfolio-coin-mstr-mara-cleanspark-trades/"
       }
     ],
     "oil-geo": [
@@ -684,9 +704,51 @@
         "why": "L'article évoque : stablecoin.",
         "link": "https://coinmarketcap.com/top-stories/6ab54a769b764f5d2ecb7563/"
       }
+    ],
+    "ecb-europe": [
+      {
+        "kind": "catalyst",
+        "headline": "Banco Bilbao Vizcaya Argentaria stock slips before the bell",
+        "date": "Sep 24, 2026",
+        "publishedAt": "2026-09-24T09:14:00.000Z",
+        "source": "AD HOC NEWS",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
+        "why": "L'article évoque : ECB.",
+        "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/banco-bilbao-vizcaya-argentaria-stock-slips-before-the-bell/70175530"
+      }
     ]
   },
   "seen": [
+    "https://www.ad-hoc-news.de/boerse/news/vorboerse/essex-property-trust-stock-holds-at-usd-273-47-before-the-bell/70180716",
+    "https://simplywall.st/stocks/ca/banks/tsx-bmo/bank-of-montreal-shares/news/bank-of-montreal-tsxbmo-backs-digital-dollar-deposits-and-ad/amp",
+    "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-richardson-electronics-plug-224858146.html",
+    "https://www.bloomberg.com/news/articles/2026-09-24/goldman-sachs-is-underweight-hyperscalers-on-debt-supply-surge",
+    "https://stockstotrade.com/news/mara-holdings-inc-mara-news-2026_09_24/",
+    "https://currently.att.yahoo.com/att/monster-beverage-mnst-stock-44-195300411.html",
+    "https://www.theglobeandmail.com/investing/markets/stocks/BMO/pressreleases/4786003/bank-of-canada-held-rates-at-225-heres-what-it-means-for-your-portfolio/",
+    "https://seekingalpha.com/article/4949551-honeywell-post-spin-growth-story-is-just-getting-started",
+    "https://finance.yahoo.com/markets/stocks/articles/lam-research-marvell-technology-western-232858881.html",
+    "https://finance.biggo.com/news/f866e178-a5f0-40ea-a8e6-ab8d400c6520",
+    "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-lpla-drops-7-213729295.html",
+    "https://www.theglobeandmail.com/investing/markets/stocks/BLNK/pressreleases/4783886/blink-charging-astec-lucid-united-parcel-service-and-graphic-packaging-holding-stocks-trade-down-what-you-need-to-know/",
+    "https://www.tradingview.com/news/stockstory:90e587080094b:0-gibraltar-titan-international-hyster-yale-materials-handling-greenbrier-and-boise-cascade-stocks-trade-down-what-you-need-to-know/",
+    "https://www.tradingview.com/news/stockstory:2b069a65a094b:0-piper-sandler-houlihan-lokey-and-blackstone-shares-are-falling-what-you-need-to-know/",
+    "https://www.theglobeandmail.com/investing/markets/stocks/HIMX/pressreleases/4783591/himax-power-integrations-macom-onsemi-and-microchip-technology-shares-are-falling-what-you-need-to-know/",
+    "https://www.tradingview.com/news/zacks:362cddd01094b:0-ge-aerospace-faces-margin-pressure-from-rising-costs-can-it-recover/",
+    "https://www.marketbeat.com/instant-alerts/analyst-td-cowen-raises-general-mills-nyse-gis-price-target-to-3300-2026-09-24/",
+    "https://www.investing.com/news/company-news/digital-currency-x-technology-implements-160for1-reverse-split-93CH-4915432",
+    "https://kalkine.ca/news/mining/vizsla-silver-corp-tsxvzla-stock-slips-563-panuco-execution-timelines-dilution-sensitivity-and-sector-wide-multiple-contraction-weigh-on-sentiment",
+    "https://www.marketbeat.com/instant-alerts/analyst-bank-of-america-nyse-bac-price-target-cut-to-7000-by-analysts-at-jefferies-financial-group-2026-09-24/",
+    "https://kalkine.ca/news/mining/wheaton-precious-metals-tsxwpm-stock-slips-542-spot-bullion-retracement-hawkish-macro-pressures-and-streaming-multiple-compression-scrutinized",
+    "https://www.stocktitan.net/news/DCX/digital-currency-x-technology-inc-announces-160-for-1-share-0lw7rp17wtep.html",
+    "https://kalkine.ca/news/mining/international-tower-hill-mines-tsxith-stock-drops-526-livengood-gold-feasibility-pacing-bulk-tonnage-initial-capex-hurdles-and-developer-multiple-scrutiny-weigh-on-sentiment",
+    "https://www.marketbeat.com/instant-alerts/analyst-hut-8-tse-hut-upgraded-to-strong-buy-at-ubs-group-2026-09-24/",
+    "https://www.investing.com/news/company-news/galaxy-digital-adds-100m-susds-to-treasury-approves-as-collateral-93CH-4913182",
+    "https://www.ad-hoc-news.de/boerse/news/vorboerse/banco-bilbao-vizcaya-argentaria-stock-slips-before-the-bell/70175530",
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-rises-0-66-percent-ahead-of-the-open/70172795",
+    "https://www.theglobeandmail.com/investing/markets/stocks/BTBT/pressreleases/4754663/analysts-opinions-are-mixed-on-these-financial-stocks-bit-digital-btbt-arthur-j-gallagher-co-ajg-and-citigroup-c/",
+    "https://www.marketbeat.com/instant-alerts/insider-daniel-kang-buys-6900-shares-of-defi-development-nasdaq-dfdv-stock-2026-09-23/",
+    "https://ca.finance.yahoo.com/quote/HCTI/",
     "https://scanx.trade/stock-market-news/companies/ellington-financial-reports-estimated-book-value-13-62-per-share/51828819",
     "https://www.ad-hoc-news.de/boerse/news/vorboerse/dte-energy-stock-heads-into-the-open-after-september-24-plan-news/70180017",
     "https://www.cnbc.com/2026/09/25/oracle-japan-shares-earnings.html",
@@ -1056,36 +1118,6 @@
     "https://scanx.trade/stock-market-news/companies/resources-connection-announce-q1fy27-results-october-7-2026/51750602",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/fastenal-co-stock-heads-into-the-open-after-a-0-87-percent-gain/70173655",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/adm-stock-heads-into-the-open-after-a-0-23-percent-drop/70173427",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-c-stock-falls-3-8-percent-ahead-of-the-open/70173648",
-    "https://www.tipranks.com/news/company-announcements/northern-trust-ceases-to-be-substantial-shareholder-in-idp-education?utm_source=marketbeat.com&utm_medium=referral",
-    "https://www.businesswire.com/news/home/20260923867127/en/Law-Offices-of-Frank-R.-Cruz-Encourages-Honeywell-Aerospace-Inc.-HONA-Shareholders-To-Inquire-About-Securities-Fraud-Class-Action",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/first-solar-stock-heads-into-the-open-after-a-4-42-percent-drop/70172852",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/welltower-stock-heads-into-the-open-after-a-1-02-percent-drop/70173514",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/keycorp-stock-heads-into-the-open-after-a-1-25-percent-drop/70172806",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/biogen-stock-adds-3-40-percent-ahead-of-the-open/70172338",
-    "https://www.globenewswire.com/news-release/2026/09/23/3367906/32719/en/robbins-llp-urges-avex-stockholders-to-contact-the-firm-for-information-about-the-class-action-against-aevex-corp.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/netapp-stock-rises-1-8-percent-ahead-of-the-open/70173037",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/motorola-solutions-stock-heads-into-the-open-after-a-0-82-percent-gain/70173063",
-    "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-jnj/johnson-johnson/news/can-johnson-johnson-jnj-justify-a-discount-to-cash-flow",
-    "https://www.ktvb.com/article/money/business/tractor-supply-co-200m-distribution-center-nampa/277-8bb1984b-ac92-452c-949b-50a3a1a18f55",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/synopsys-stock-heads-into-the-open-after-a-0-93-percent-gain/70173061",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/paccar-stock-falls-1-59-percent-ahead-of-the-open/70173086",
-    "https://www.bloomberg.com/news/articles/2026-09-24/gasoline-to-cost-more-if-us-diesel-ban-hits-morgan-stanley-says",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/tyler-technologies-stock-heads-into-the-open-after-a-1-1-percent-nasdaq/70172047",
-    "https://simplywall.st/stocks/us/real-estate/nyse-slg/sl-green-realty/news/should-earnings-estimate-upgrade-require-action-from-sl-gree",
-    "https://www.stocktitan.net/sec-filings/STUB/form-4-stub-hub-holdings-inc-insider-trading-activity-fcf43c16315f.html",
-    "https://www.stocktitan.net/sec-filings/STUB/form-4-stub-hub-holdings-inc-insider-trading-activity-08e883a90411.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/globe-life-stock-heads-into-the-open-after-a-1-59-percent-drop/70172725",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/steris-plc-stock-heads-into-the-open-after-closing-at-usd-208-79/70171956",
-    "https://simplywall.st/stocks/us/diversified-financials/nyse-spgi/sp-global/news/will-september-pmi-release-change-sp-global-stock-narrative",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/align-technology-stock-slips-3-34-percent-ahead-of-the-open/70172832",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/ppl-corporation-stock-heads-into-the-open-after-a-0-8-percent-drop/70172595",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/simply-good-foods-stock-falls-4-20-percent-as-sales-shrink/70171919",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/vistra-corp-stock-heads-into-the-open-after-a-1-1-percent-nasdaq-drop/70171742",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/jacobs-solutions-stock-heads-into-the-open-after-a-market-drop/70172476",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/truist-financial-stock-heads-into-the-open-after-a-2-23-percent-drop/70172368",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/host-hotels-and-resorts-stock-slips-0-1-percent-before-the-bell/70172248",
-    "https://pluang.com/en/news-feed/sempra-saham-manfaat-keamanan-untuk-utilitas-pertumbuhan-tinggi",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/j-m-smucker-stock-heads-into-the-open-after-a-1-0-percent-gain/70172081"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/alphabet-c-stock-falls-3-8-percent-ahead-of-the-open/70173648"
   ]
 }
