@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T12:49:52.281Z",
+  "updatedAt": "2026-09-26T16:22:42.478Z",
   "byFactor": {
     "nasdaq": [
       {
@@ -24,6 +24,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "1,502,726 Shares in Strive, Inc. $ASST Purchased by State Street Corp",
+        "date": "Sep 26, 2026",
+        "publishedAt": "2026-09-26T07:51:11.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : NASDAQ.",
+        "link": "https://www.marketbeat.com/instant-alerts/filing-1502726-shares-in-strive-inc-asst-purchased-by-state-street-corp-2026-09-26/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Scholastic Corp EVP Chris Lick Withholds 1,119 Shares for RSU Tax Payment",
         "date": "Sep 26, 2026",
         "publishedAt": "2026-09-26T06:21:57.000Z",
@@ -31,16 +41,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : NASDAQ.",
         "link": "https://kalkinemedia.com/us/news/announcements/scholastic-corp-evp-chris-lick-withholds-1119-shares-for-rsu-tax-payment"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Silvia, Inc. Financial Statements – NASDAQ:SVIAW",
-        "date": "Sep 25, 2026",
-        "publishedAt": "2026-09-25T22:53:42.000Z",
-        "source": "TradingView",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : NASDAQ.",
-        "link": "https://www.tradingview.com/symbols/NASDAQ-SVIAW/financials-overview/"
       }
     ],
     "oil": [
@@ -298,6 +298,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "McDonald’s Sell-Off Hits 30% as Big Mac Inflation Spurs Pushback",
+        "date": "Sep 26, 2026",
+        "publishedAt": "2026-09-26T13:18:13.000Z",
+        "source": "Yahoo Finance",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Wall Street, Sell-Off.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-sell-off-hits-30-130000443.html"
+      },
+      {
+        "kind": "catalyst",
         "headline": "AMD Hits $1 Trillion, Muse Spooks Subscription Stocks: This Week on Wall Street",
         "date": "Sep 26, 2026",
         "publishedAt": "2026-09-26T11:52:09.000Z",
@@ -325,16 +335,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://currently.att.yahoo.com/att/first-solar-fslr-keeps-hitting-001536412.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "1 Wall Street Analyst Just Called Netflix a Sell. Is It Time To Dump the Streaming Stock?",
-        "date": "Sep 25, 2026",
-        "publishedAt": "2026-09-25T20:11:58.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-analyst-just-203501682.html"
       }
     ],
     "g-cb-demand": [
@@ -404,6 +404,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Duke Energy (DUK) Hits a 52-Week Low as the 30-Year Treasury Reaches a 2004 High",
+        "date": "Sep 26, 2026",
+        "publishedAt": "2026-09-26T03:49:36.000Z",
+        "source": "Insider Monkey",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
+        "why": "L'article évoque : Treasury yield, bond yields, government bonds.",
+        "link": "https://www.insidermonkey.com/news/duke-energy-duk-hits-a-52-week-low-as-the-30-year-treasury-reaches-a-2004-high-1844498/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Western Digital, FormFactor, Penguin Solutions, Himax, and Power Integrations Shares Are Falling, What You Need To Know",
         "date": "Sep 25, 2026",
         "publishedAt": "2026-09-25T21:28:45.000Z",
@@ -421,19 +431,19 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : bond yields, government bond.",
         "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/unilever-stock-slips-0-31-percent-ahead-of-the-open/70180991"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Pool Corporation stock heads into the open after a 0.8 percent gain",
-        "date": "Sep 25, 2026",
-        "publishedAt": "2026-09-25T06:17:57.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Treasury yields, bond yields.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/pool-corporation-stock-heads-into-the-open-after-a-0-8-percent-gain/70181892"
       }
     ],
     "us10y": [
+      {
+        "kind": "catalyst",
+        "headline": "Duke Energy (DUK) Hits a 52-Week Low as the 30-Year Treasury Reaches a 2004 High",
+        "date": "Sep 26, 2026",
+        "publishedAt": "2026-09-26T03:49:36.000Z",
+        "source": "Insider Monkey",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
+        "why": "L'article évoque : Treasury yield, bond yields.",
+        "link": "https://www.insidermonkey.com/news/duke-energy-duk-hits-a-52-week-low-as-the-30-year-treasury-reaches-a-2004-high-1844498/"
+      },
       {
         "kind": "catalyst",
         "headline": "Western Digital, FormFactor, Penguin Solutions, Himax, and Power Integrations Shares Are Falling, What You Need To Know",
@@ -463,16 +473,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Treasury yields, bond yields.",
         "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/pool-corporation-stock-heads-into-the-open-after-a-0-8-percent-gain/70181892"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Texas Instruments stock slips 1.0 percent ahead of the open",
-        "date": "Sep 25, 2026",
-        "publishedAt": "2026-09-25T04:53:52.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Treasury yields, bond yield.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/texas-instruments-stock-slips-1-0-percent-ahead-of-the-open/70181292"
       }
     ],
     "real-yields": [
@@ -608,6 +608,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "1,502,726 Shares in Strive, Inc. $ASST Purchased by State Street Corp",
+        "date": "Sep 26, 2026",
+        "publishedAt": "2026-09-26T07:51:11.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.marketbeat.com/instant-alerts/filing-1502726-shares-in-strive-inc-asst-purchased-by-state-street-corp-2026-09-26/"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Key facts: Strategy Inc Class A (MSTR) vote Oct 28; daily dividends plan",
+        "date": "Sep 26, 2026",
+        "publishedAt": "2026-09-26T06:51:10.000Z",
+        "source": "TradingView",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : MSTR.",
+        "link": "https://www.tradingview.com/news/tradingview:8066d0e284c4d:0-key-facts-strategy-inc-class-a-mstr-vote-oct-28-daily-dividends-plan/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Strive's preferred stock funds $117M Bitcoin buys, now holding 25,000 BTC via innovative equity method.",
         "date": "Sep 25, 2026",
         "publishedAt": "2026-09-25T22:05:06.000Z",
@@ -625,26 +645,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.tradingview.com/news/cryptobriefing:d62fa432b094b:0-strive-ceo-matt-cole-criticizes-msci-s-bitcoin-exclusion-proposal/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "REALITY CHECK | Sequans is the Latest Bitcoin Treasury Firm to Sell All its Bitcoin",
-        "date": "Sep 25, 2026",
-        "publishedAt": "2026-09-25T12:54:19.000Z",
-        "source": "BitKE",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : Bitcoin, BTC, cryptocurrency.",
-        "link": "https://bitcoinke.io/2026/09/sequans-sells-all-its-bitcoin/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Sequans exits Bitcoin treasury after selling 314 BTC",
-        "date": "Sep 25, 2026",
-        "publishedAt": "2026-09-25T07:26:00.000Z",
-        "source": "grafa.com",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bitcoin, BTC, cryptocurrency.",
-        "link": "https://grafa.com/en/news/crypto/sequans-exits-bitcoin-treasury-after-selling-314-btc"
       }
     ],
     "oil-geo": [
@@ -746,6 +746,16 @@
     "btc-crypto-liquidity": [
       {
         "kind": "catalyst",
+        "headline": "SoFi Technologies (NASDAQ:SOFI) Stock Price Down 1.3% - Here's What Happened",
+        "date": "Sep 25, 2026",
+        "publishedAt": "2026-09-25T20:54:53.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.marketbeat.com/instant-alerts/price-sofi-technologies-nasdaq-sofi-stock-price-down-13-heres-what-happened-2026-09-25/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "SDEV Stock Pulls Back As Volatile Rally Cools",
         "date": "Sep 25, 2026",
         "publishedAt": "2026-09-25T16:51:12.000Z",
@@ -773,16 +783,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : stablecoin, Tether.",
         "link": "https://finance.yahoo.com/markets/crypto/articles/why-tether-bringing-usdt-back-065507519.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bullish trends meet a buy-the-dip test",
-        "date": "Sep 24, 2026",
-        "publishedAt": "2026-09-24T15:53:34.000Z",
-        "source": "Kitco",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.kitco.com/opinion/2026-09-24/bullish-trends-meet-buy-dip-test"
       }
     ],
     "ecb-europe": [
@@ -821,6 +821,24 @@
     ]
   },
   "seen": [
+    "https://finance.yahoo.com/markets/stocks/articles/mcdonald-sell-off-hits-30-130000443.html",
+    "https://finance.yahoo.com/economy/articles/dollar-general-ceo-warns-100k-124500400.html",
+    "https://www.marketbeat.com/instant-alerts/filing-1502726-shares-in-strive-inc-asst-purchased-by-state-street-corp-2026-09-26/",
+    "https://simplywall.st/stocks/us/healthcare/nyse-abt/abbott-laboratories/news/3-dividend-stocks-to-watch-as-high-rates-test-defensive-shar",
+    "https://www.tradingview.com/news/tradingview:8066d0e284c4d:0-key-facts-strategy-inc-class-a-mstr-vote-oct-28-daily-dividends-plan/",
+    "https://www.tradingview.com/symbols/FINRA-WETF6493130/profile/",
+    "https://kalkinemedia.com/ca/stocks/utility/can-fortis-inc-tsxfts-maintain-stability-as-rates-shift",
+    "https://www.insidermonkey.com/news/duke-energy-duk-hits-a-52-week-low-as-the-30-year-treasury-reaches-a-2004-high-1844498/",
+    "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-hits-52-034849950.html",
+    "https://www.fool.com/investing/2026/09/25/bank-of-america-says-stocks-are-overdue-for-a-pull/",
+    "https://www.marketbeat.com/instant-alerts/price-sofi-technologies-nasdaq-sofi-stock-price-down-13-heres-what-happened-2026-09-25/",
+    "https://www.merca20.com/while-mattel-sells-more-toys-its-profits-plummeted-in-2026-what-happened-to-the-toy-giant/",
+    "https://ng.investing.com/news/stock-market-news/midamerica-apartment-communities-stock-hits-52week-low-at-11667-93CH-2709965",
+    "https://www.tradingview.com/news/zacks:773dd7e79094b:0-wsbf-vs-tsbk-which-community-lender-is-the-better-buy/",
+    "https://stockstotrade.com/news/terawulf-inc-wulf-news-2026_09_25-2/",
+    "https://www.timothysykes.com/news/terawulf-inc-wulf-news-2026_09_25-2/",
+    "https://www.tradingview.com/news/zacks:5fc7a7917094b:0-ewbc-gains-17-7-in-6-months-how-should-you-play-the-stock-now/",
+    "https://www.reuters.com/business/morgan-stanley-changes-boe-rate-call-sees-hikes-nov-feb-2026-09-25/",
     "https://www.benzinga.com/markets/equities/26/09/62007539/amd-1-trillion-meta-muse-week-in-review",
     "https://www.intelligentinvestor.com.au/shares/nyse-avk/advent-convertible-and-income-fund/share-price",
     "https://www2.newsfilecorp.com/release/228325/Sequans-to-Participate-in-13th-Annual-ROTH-Technology-Conference-on-November-20th",
@@ -1202,24 +1220,6 @@
     "https://www.ad-hoc-news.de/boerse/news/vorboerse/banco-bilbao-vizcaya-argentaria-stock-slips-before-the-bell/70175530",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-rises-0-66-percent-ahead-of-the-open/70172795",
     "https://www.theglobeandmail.com/investing/markets/stocks/BTBT/pressreleases/4754663/analysts-opinions-are-mixed-on-these-financial-stocks-bit-digital-btbt-arthur-j-gallagher-co-ajg-and-citigroup-c/",
-    "https://www.marketbeat.com/instant-alerts/insider-daniel-kang-buys-6900-shares-of-defi-development-nasdaq-dfdv-stock-2026-09-23/",
-    "https://ca.finance.yahoo.com/quote/HCTI/",
-    "https://scanx.trade/stock-market-news/companies/ellington-financial-reports-estimated-book-value-13-62-per-share/51828819",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/dte-energy-stock-heads-into-the-open-after-september-24-plan-news/70180017",
-    "https://www.cnbc.com/2026/09/25/oracle-japan-shares-earnings.html",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/bunge-global-stock-heads-into-the-open-after-a-0-3-percent-drop/70180233",
-    "https://simplywall.st/stocks/us/real-estate/nyse-dlr/digital-realty-trust/news/digital-realty-trust-dlr-stock-may-be-a-bargain-as-ai-contro",
-    "https://simplywall.st/stocks/us/materials/nyse-hcc/warrior-met-coal/news/warrior-met-coal-hcc-tests-investor-patience-as-blue-creek-f",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/dexcom-stock-slips-2-01-percent-ahead-of-the-open/70180197",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/hubspot-stock-slips-1-89-percent-ahead-of-the-open/70180193",
-    "https://www.bloomberg.com/news/articles/2026-09-25/goldman-s-moe-says-he-s-in-stronger-for-longer-camp-on-ai",
-    "https://scanx.trade/stock-market-news/companies/newmont-corporation-q3fy26-results-earnings-call-set-october-22-2026/51828800",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/keysight-technologies-stock-holds-ahead-of-the-open/70179772",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/keurig-dr-pepper-stock-heads-into-the-open-after-a-flat-session/70180128",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/digital-realty-stock-heads-into-the-open-after-closing-at-usd-181-45/70180117",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/fair-isaac-stock-heads-into-the-open-after-a-1-4-percent-drop/70180112",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/kimco-realty-stock-slips-0-13-percent-ahead-of-the-open/70180100",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/pultegroup-stock-heads-into-the-open-after-a-1-9-percent-dip/70180074",
-    "https://investingnews.com/banyan-announces-franco-nevada-subscription-for-10-million-shares-in-previously-announced-financing/"
+    "https://www.marketbeat.com/instant-alerts/insider-daniel-kang-buys-6900-shares-of-defi-development-nasdaq-dfdv-stock-2026-09-23/"
   ]
 }
