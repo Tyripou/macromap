@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T23:37:33.509Z",
+  "updatedAt": "2026-09-27T05:17:36.680Z",
   "byFactor": {
     "nasdaq": [
       {
@@ -130,6 +130,16 @@
     "earnings": [
       {
         "kind": "catalyst",
+        "headline": "AnaptysBio (ANAB) Is Down 7.6% After Tax-Driven Earnings Surge Masks Underlying Cash Performance",
+        "date": "Sep 26, 2026",
+        "publishedAt": "2026-09-26T14:11:00.000Z",
+        "source": "Yahoo Finance",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Earnings.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/anaptysbio-anab-down-7-6-141113593.html"
+      },
+      {
+        "kind": "catalyst",
         "headline": "CarMax Stock Forecast: Used-Car Demand Faces Major Q2 Earnings Test",
         "date": "Sep 26, 2026",
         "publishedAt": "2026-09-26T13:02:06.000Z",
@@ -157,16 +167,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : earnings, quarterly results, EPS.",
         "link": "https://www.marketbeat.com/instant-alerts/consensus-monster-beverage-corporation-nasdaq-mnst-stock-has-consensus-target-price-of-5033-according-to-brokerages-2026-09-26/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wall Street Zen Upgrades Archer Daniels Midland (NYSE:ADM) to Strong-Buy",
-        "date": "Sep 26, 2026",
-        "publishedAt": "2026-09-26T05:23:46.000Z",
-        "source": "MarketBeat",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : earnings, EPS, guidance.",
-        "link": "https://www.marketbeat.com/instant-alerts/analyst-wall-street-zen-upgrades-archer-daniels-midland-nyse-adm-to-strong-buy-2026-09-26/"
       }
     ],
     "gold": [
@@ -746,6 +746,16 @@
     "btc-crypto-liquidity": [
       {
         "kind": "catalyst",
+        "headline": "SDEV Stock Climbs As Traders Target Volatile Breakout",
+        "date": "Sep 26, 2026",
+        "publishedAt": "2026-09-26T02:20:40.000Z",
+        "source": "StocksToTrade",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : Stablecoin.",
+        "link": "https://stockstotrade.com/news/stablecoin-development-corporation-sdev-news-2026_09_25-2/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "SoFi Technologies (NASDAQ:SOFI) Stock Price Down 1.3% - Here's What Happened",
         "date": "Sep 25, 2026",
         "publishedAt": "2026-09-25T20:54:53.000Z",
@@ -773,16 +783,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Stablecoin.",
         "link": "https://timothysykes.com/news/stablecoin-development-corporation-sdev-news-2026_09_25-3/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Why Is Tether Bringing USDT Back to Bitcoin Now? Morgan Stanley Offers a Clue",
-        "date": "Sep 25, 2026",
-        "publishedAt": "2026-09-25T07:20:01.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : stablecoin, Tether.",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/why-tether-bringing-usdt-back-065507519.html"
       }
     ],
     "ecb-europe": [
@@ -821,6 +821,27 @@
     ]
   },
   "seen": [
+    "https://www.detroitnews.com/picture-gallery/business/2026/09/27/richard-manoogian-detroit-businessman-philanthropist-art-collector/91969693007/",
+    "https://cryptonews.net/news/altcoins/33500050/",
+    "https://nypost.com/2026/09/26/business/costco-receives-184m-in-tariff-refunds/",
+    "https://www.opensecrets.org/federal-lobbying/clients/at-t-inc/agencies?client_id=160621&cycle=2019",
+    "https://finance.yahoo.com/markets/stocks/articles/anaptysbio-anab-down-7-6-141113593.html",
+    "https://finance.yahoo.com/markets/stocks/articles/pentagon-ai-shake-puts-hawkeye-131113950.html",
+    "https://cryptoticker.io/en/cardano-price-prediction-ada-breaks-resistance-030-next/",
+    "https://cleantechnica.com/2026/09/25/groups-sue-tva-over-clean-air-act-violations-at-kingston-site/",
+    "https://intersectmbo.org/news/intersect-weekly-update-130-sep-2-20266",
+    "https://kalkinemedia.com/us/news/announcements/timberland-bancorp-executive-reports-tax-withholding-on-vested-restricted-shares",
+    "https://www.insidermonkey.com/news/should-you-buy-wisdomtree-wt-stock-after-its-latest-crypto-move-1843874/?amp=1",
+    "https://www.opensecrets.org/federal-lobbying/industries/waste-management?category_id=E10&view=client_parent&view_totals_by=client_parent&year=2024",
+    "https://kalkinemedia.com/us/news/announcements/savara-inc-cco-braden-parker-withholds-29323-shares-for-rsu-tax-settlement",
+    "https://stockstotrade.com/news/stablecoin-development-corporation-sdev-news-2026_09_25-2/",
+    "https://www.opensecrets.org/federal-lobbying/clients/cemex-sab-de-cv/lobbyists?client_id=194647&cycle=2026",
+    "https://ca.finance.yahoo.com/news/moody-affirms-european-union-aaa-221610698.html",
+    "https://www.stocktitan.net/sec-filings/CYPH/form-4-cypherpunk-technologies-inc-insider-trading-activity-7af7d58ceaad.html",
+    "https://www.stocktitan.net/sec-filings/NPCE/form-4-neuro-pace-inc-insider-trading-activity-70cd301f9282.html",
+    "https://www.opensecrets.org/federal-lobbying/clients/danaher-corp/lobbyists?client_id=197044&cycle=2022",
+    "https://www.al.com/business/2026/09/data-center-company-confirms-32-billion-hyperscale-ai-factory-for-alabama.html",
+    "https://kalkinemedia.com/us/news/announcements/yuanbao-inc-director-han-xu-harley-revises-sec-ownership-report-on-tax-withholding-shares",
     "https://247wallst.com/companies/purr/",
     "https://simpleflying.com/delta-air-lines-cabin-only-exists-seat-couldnt-get-certified/",
     "https://finance.yahoo.com/markets/stocks/articles/equifax-efx-stock-still-looks-180933723.html",
@@ -1199,27 +1220,6 @@
     "https://www.marketbeat.com/instant-alerts/filing-9807-shares-in-amazoncom-inc-amzn-acquired-by-philadelphia-investment-partners-llc-2026-09-25/",
     "https://www.marketbeat.com/instant-alerts/filing-washington-trust-bank-sells-9518-shares-of-jpmorgan-chase-co-jpm-2026-09-25/",
     "https://www.marketbeat.com/instant-alerts/filing-jacobs-equity-llc-buys-new-position-in-amazoncom-inc-amzn-2026-09-25/",
-    "https://www.marketbeat.com/instant-alerts/filing-arthedge-capital-management-llc-purchases-84860-shares-of-amazoncom-inc-amzn-2026-09-25/",
-    "https://www.marketbeat.com/instant-alerts/filing-emerson-electric-co-emr-stake-increased-by-envestnet-asset-management-inc-2026-09-25/",
-    "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-makes-new-investment-in-txnm-energy-inc-txnm-2026-09-25/",
-    "https://finance.yahoo.com/markets/crypto/articles/why-tether-bringing-usdt-back-065507519.html",
-    "https://www.marketbeat.com/instant-alerts/filing-darden-restaurants-inc-dri-shares-acquired-by-qrg-capital-management-inc-2026-09-25/",
-    "https://www.marketbeat.com/instant-alerts/filing-mcdonalds-corporation-mcd-stock-acquired-by-envestnet-portfolio-solutions-inc-2026-09-25/",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/welltower-stock-rises-1-6-percent-ahead-of-the-open/70181365",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/iff-stock-heads-into-the-open-after-a-0-3-percent-gain/70181306",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/te-connectivity-stock-reports-13-8-percent-revenue-growth/70182015",
-    "https://www.benzinga.com/news/travel/26/09/61988801/us-airlines-oppose-more-china-us-flights-as-xi-jinping-pushes-for-expanded-air-links-report",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/lam-research-stock-slips-ahead-of-the-open/70181044",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/aptiv-plc-stock-falls-3-79-percent-ahead-of-the-open/70181929",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/unilever-stock-slips-0-31-percent-ahead-of-the-open/70180991",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/cboe-global-markets-stock-heads-into-the-open-after-a-1-9-percent-drop/70180917",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/pool-corporation-stock-heads-into-the-open-after-a-0-8-percent-gain/70181892",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/dupont-stock-heads-into-the-open-after-a-0-6-percent-drop/70181944",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/intercontinental-exchange-stock-adds-0-37-percent-ahead-of-the-open/70181651",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/deckers-outdoor-stock-falls-1-55-percent-ahead-of-the-open/70181675",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/rollins-stock-heads-into-the-open-after-a-6-43-percent-drop/70181850",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/simon-property-group-stock-slips-0-22-percent-ahead-of-the-open/70181830",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/paycom-software-stock-heads-into-the-open-after-a-0-19-percent-drop/70181737",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/mosaic-company-stock-heads-into-the-open-after-a-flat-session/70181522"
+    "https://www.marketbeat.com/instant-alerts/filing-arthedge-capital-management-llc-purchases-84860-shares-of-amazoncom-inc-amzn-2026-09-25/"
   ]
 }
