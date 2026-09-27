@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T16:57:16.440Z",
+  "updatedAt": "2026-09-27T21:19:57.433Z",
   "byFactor": {
     "nasdaq": [
       {
@@ -298,6 +298,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "S&P Global Expands into Onchain Finance with OpenZeppelin Deal",
+        "date": "Sep 27, 2026",
+        "publishedAt": "2026-09-27T20:17:41.000Z",
+        "source": "Insider Monkey",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : S&P.",
+        "link": "https://www.insidermonkey.com/news/sp-global-expands-into-onchain-finance-with-openzeppelin-deal-1843359/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Form 4 Dow Inc For: 27 September By Investing.com",
         "date": "Sep 27, 2026",
         "publishedAt": "2026-09-27T10:15:06.000Z",
@@ -325,16 +335,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Wall Street, equity.",
         "link": "https://www.marketbeat.com/instant-alerts/consensus-nvr-inc-nyse-nvr-stock-now-rated-hold-by-wall-street-analysts-2026-09-27/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wall Street Zen Upgrades Banc of California (NYSE:BANC) to Sell",
-        "date": "Sep 27, 2026",
-        "publishedAt": "2026-09-27T05:13:47.000Z",
-        "source": "MarketBeat",
-        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.marketbeat.com/instant-alerts/analyst-wall-street-zen-upgrades-banc-of-california-nyse-banc-to-sell-2026-09-27/"
       }
     ],
     "g-cb-demand": [
@@ -831,6 +831,18 @@
     ]
   },
   "seen": [
+    "https://www.insidermonkey.com/news/sp-global-expands-into-onchain-finance-with-openzeppelin-deal-1843359/",
+    "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says",
+    "https://yourvalley.net/tempe-independent/stories/tempe-may-ban-alpr-cameras,723355",
+    "https://www.reuters.com/world/asia-pacific/pakistan-finance-ministers-us-exim-talks-covered-financing-boeing-aircraft-2026-09-27/",
+    "https://finance.yahoo.com/markets/stocks/articles/aci-worldwide-aciw-expands-connetic-070959778.html",
+    "https://www.opensecrets.org/federal-lobbying/clients/cencora-inc/lobbyists?client_id=179433&cycle=2014",
+    "https://www.opensecrets.org/federal-lobbying/clients/abbvie-inc/hired_firms?client_id=191288&cycle=2026",
+    "https://www.bybit.com/en/price-prediction/asml-holding-nv-ondo-tokenized-stock/",
+    "https://www.moomoo.com/news/post/1000234834/terawulf-options-spot-on-on-september-25th-116-37k-contracts",
+    "https://www.opensecrets.org/federal-lobbying/agencies/Tennessee%20Valley%20Authority/lobbyists?agency_id=92.0&year=2026",
+    "https://www.reutersconnect.com/item/us-secretary-of-defense-robert-gates-looks-at-matv-vehicle-as-he-tours-the-harrison-street-facility-of-the-oshkosh-corp-in-wisconsin/dGFnOnJldXRlcnMuY29tLDIwMDk6bmV3c21sX0dNMUU1QkQwQklUMDE",
+    "https://www.reutersconnect.com/item/us-secretary-of-defense-robert-gates-looks-at-matv-vehicle-as-he-tours-the-harrison-street-facility-of-the-oshkosh-corp-in-wisconsin/dGFnOnJldXRlcnMuY29tLDIwMDk6bmV3c21sX0dNMUU1QkQwRVgxMDE",
     "https://247wallst.com/investing/2026/09/27/polaris-pays-a-5-15-yield-should-income-investors-trust-it-more-than-hasbro/",
     "https://www.fool.com/coverage/charts/2026/09/27/ford-motor-vs-general-motors-a-close-revenue-race/",
     "https://pluang.com/en/news-feed/dividen-hp-yang-menarik-apa-sumber-pendanaannya",
@@ -1218,18 +1230,6 @@
     "https://seekingalpha.com/news/4647268-high-beta-leads-sp-500-factors-in-rising-yield-environment-sp-global",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/northern-trust-stock-trades-11-05-percent-below-its-52-week-high/70184228",
     "https://247wallst.com/investing/cryptocurrency/2026/09/25/litecoin-cardano-stellar-and-chainlink-all-outperformed-bitcoin-this-week-which-rally-has-the-strongest-support/",
-    "https://www.xtb.com/int/market-analysis/news-and-research/us-open-wall-street-moves-higher-as-oil-slides-synopsys-shares-jump-on-hsbc-upgrade",
-    "https://finance.yahoo.com/markets/stocks/articles/qxo-qxo-slides-fading-rate-142855257.html",
-    "https://www.coingecko.com/en/coins/digital-realty-trust-inc-rstock/vnd",
-    "https://www.thestandard.com.hk/finance/article/343889/US-Fed-plans-to-raise-bank-oversight-thresholds-sources-say",
-    "https://finance.yahoo.com/markets/stocks/articles/p-g-vs-hershey-one-130546961.html",
-    "https://bitcoinke.io/2026/09/sequans-sells-all-its-bitcoin/",
-    "https://ffnews.com/news/streamex-secures-1m-institutional-allocation-for-gldy-tokenized-gold-strategy",
-    "https://kalkinemedia.com/us/stocks/artificial-intelligence/whats-behind-myseumais-myse-big-moment-in-ai-stocks",
-    "https://www.theglobeandmail.com/business/article-us-fed-plans-to-raise-thresholds-that-trigger-stricter-bank-oversight/",
-    "https://seekingalpha.com/news/4647048-fed-plans-to-boost-thresholds-for-bank-oversight-report",
-    "https://www.benzinga.com/real-estate/reit/26/09/61992066/jpmorgan-turns-contrarian-on-interest-rates-upgrades-3-reits",
-    "https://www.tradingview.com/news/zacks:f97ff4cc2094b:0-3-stocks-in-focus-that-declared-dividend-hikes-amid-economic-woes/",
-    "https://www.tradingview.com/news/zacks:0979e51a7094b:0-buy-3-ai-led-stocks-amid-solid-estimate-revisions-and-upside-potential/"
+    "https://www.xtb.com/int/market-analysis/news-and-research/us-open-wall-street-moves-higher-as-oil-slides-synopsys-shares-jump-on-hsbc-upgrade"
   ]
 }
