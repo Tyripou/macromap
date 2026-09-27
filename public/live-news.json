@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-09-27T05:17:36.680Z",
+  "updatedAt": "2026-09-27T12:01:04.725Z",
   "byFactor": {
     "nasdaq": [
+      {
+        "kind": "catalyst",
+        "headline": "Global X Blockchain ETF (NASDAQ:BKCH), Top Holdings",
+        "date": "Sep 27, 2026",
+        "publishedAt": "2026-09-27T08:40:00.000Z",
+        "source": "Benzinga",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : NASDAQ.",
+        "link": "https://www.benzinga.com/quote/BKCH/holdings"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Gevo, Inc. (NASDAQ:GEVO) Receives Average Rating of \"Hold\" from Brokerages",
+        "date": "Sep 27, 2026",
+        "publishedAt": "2026-09-27T08:16:52.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : NASDAQ.",
+        "link": "https://www.marketbeat.com/instant-alerts/consensus-gevo-inc-nasdaq-gevo-receives-average-rating-of-hold-from-brokerages-2026-09-27/"
+      },
       {
         "kind": "catalyst",
         "headline": "PURR Archives",
@@ -21,26 +41,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : NASDAQ.",
         "link": "https://kalkinemedia.com/us/stocks/value/cisco-systems-nasdaqcsco-in-focus-after-record-fiscal-revenue-and-ai-security-push"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Enphase Energy (NASDAQ:ENPH) Showcases AI Data Center Power Hardware As Solar Selling Resumes",
-        "date": "Sep 26, 2026",
-        "publishedAt": "2026-09-26T15:54:09.000Z",
-        "source": "Kalkine Media",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : NASDAQ.",
-        "link": "https://kalkinemedia.com/us/stocks/energy/enphase-energy-nasdaqenph-showcases-ai-data-center-power-hardware-as-solar-selling-resumes"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Southern Missouri Bancorp, Inc. (NASDAQ:SMBC) Stock Has Consensus Price Target of $83.67 According to Brokerages",
-        "date": "Sep 26, 2026",
-        "publishedAt": "2026-09-26T10:21:10.000Z",
-        "source": "MarketBeat",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : NASDAQ.",
-        "link": "https://www.marketbeat.com/instant-alerts/consensus-southern-missouri-bancorp-inc-nasdaq-smbc-stock-has-consensus-price-target-of-8367-according-to-brokerages-2026-09-26/"
       }
     ],
     "oil": [
@@ -130,6 +130,26 @@
     "earnings": [
       {
         "kind": "catalyst",
+        "headline": "PepsiCo Is Raising Some Chip Prices It Cut in February. Here’s What Its October 8 Earnings Need to Show",
+        "date": "Sep 27, 2026",
+        "publishedAt": "2026-09-27T09:12:09.000Z",
+        "source": "Yahoo Finance",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
+        "why": "L'article évoque : Earnings, EPS, guidance.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-raising-chip-prices-cut-093513203.html"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Transdigm Group Incorporated $TDG Stock Sold by Engineers Gate Manager LP",
+        "date": "Sep 27, 2026",
+        "publishedAt": "2026-09-27T07:21:25.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : earnings, EPS.",
+        "link": "https://www.marketbeat.com/instant-alerts/filing-transdigm-group-incorporated-tdg-stock-sold-by-engineers-gate-manager-lp-2026-09-27/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "AnaptysBio (ANAB) Is Down 7.6% After Tax-Driven Earnings Surge Masks Underlying Cash Performance",
         "date": "Sep 26, 2026",
         "publishedAt": "2026-09-26T14:11:00.000Z",
@@ -147,26 +167,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : Earnings, EPS.",
         "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262184809-carmax-stock-forecast-kmx-q2-earnings-used-car-demand-tradingkey"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "1% Undervalued? Arrow Electronics (ARW) Looks Fairly Valued On Raised Guidance",
-        "date": "Sep 26, 2026",
-        "publishedAt": "2026-09-26T11:53:41.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : EPS, Guidance.",
-        "link": "https://simplywall.st/stocks/us/tech/nyse-arw/arrow-electronics/news/1-undervalued-arrow-electronics-arw-looks-fairly-valued-on-r/amp"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Monster Beverage Corporation (NASDAQ:MNST) Stock Has Consensus Target Price of $50.33 According to Brokerages",
-        "date": "Sep 26, 2026",
-        "publishedAt": "2026-09-26T08:35:07.000Z",
-        "source": "MarketBeat",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : earnings, quarterly results, EPS.",
-        "link": "https://www.marketbeat.com/instant-alerts/consensus-monster-beverage-corporation-nasdaq-mnst-stock-has-consensus-target-price-of-5033-according-to-brokerages-2026-09-26/"
       }
     ],
     "gold": [
@@ -214,6 +214,26 @@
     "valuations": [
       {
         "kind": "catalyst",
+        "headline": "Guardant Health (GH) Stock Could Be Undervalued Despite Its 5x Run",
+        "date": "Sep 27, 2026",
+        "publishedAt": "2026-09-27T08:49:14.000Z",
+        "source": "Simply Wall Street",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : valuation, overvalued.",
+        "link": "https://simplywall.st/stocks/us/healthcare/nasdaq-gh/guardant-health/news/guardant-health-gh-stock-could-be-undervalued-despite-its-5x"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Apple Inc. $AAPL Stock Holdings Increased by Wedbush Fund Advisers LLC",
+        "date": "Sep 27, 2026",
+        "publishedAt": "2026-09-27T08:15:19.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : valuation.",
+        "link": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-stock-holdings-increased-by-wedbush-fund-advisers-llc-2026-09-27/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Equifax (EFX) Stock Still Looks Undervalued Despite Its 41% Slide",
         "date": "Sep 26, 2026",
         "publishedAt": "2026-09-26T18:15:25.000Z",
@@ -231,26 +251,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : valuations, overvalued.",
         "link": "https://simplywall.st/stocks/us/tech/nyse-arw/arrow-electronics/news/1-undervalued-arrow-electronics-arw-looks-fairly-valued-on-r/amp"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Is Tesla’s (TSLA) Stock Really Priced Like a Car Company?",
-        "date": "Sep 26, 2026",
-        "publishedAt": "2026-09-26T05:03:15.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : valuation, P/E.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-really-priced-050301615.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Sempra (SRE), Why Is It Back In Focus?",
-        "date": "Sep 26, 2026",
-        "publishedAt": "2026-09-26T02:35:29.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : P/E.",
-        "link": "https://simplywall.st/stocks/us/utilities/nyse-sre/sempra/news/sempra-sre-why-is-it-back-in-focus"
       }
     ],
     "fed": [
@@ -298,6 +298,26 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "Form 4 Dow Inc For: 27 September By Investing.com",
+        "date": "Sep 27, 2026",
+        "publishedAt": "2026-09-27T10:15:06.000Z",
+        "source": "Investing.com Canada",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
+        "why": "L'article évoque : Dow.",
+        "link": "https://ca.investing.com/news/stock-market-news/form-4-dow-inc-for-27-september-93CH-4854746"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "NVR, Inc. (NYSE:NVR) Stock Now Rated \"Hold\" by Wall Street Analysts",
+        "date": "Sep 27, 2026",
+        "publishedAt": "2026-09-27T08:07:51.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Wall Street, equity.",
+        "link": "https://www.marketbeat.com/instant-alerts/consensus-nvr-inc-nyse-nvr-stock-now-rated-hold-by-wall-street-analysts-2026-09-27/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Why Is PepsiCo's Stock Down 10% While the S&P 500 Is Up 13% in 2026? Here's the Only Answer I Can Think of.",
         "date": "Sep 26, 2026",
         "publishedAt": "2026-09-26T18:42:15.000Z",
@@ -315,26 +335,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Wall Street, Sell-Off.",
         "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-sell-off-hits-30-130000443.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "AMD Hits $1 Trillion, Muse Spooks Subscription Stocks: This Week on Wall Street",
-        "date": "Sep 26, 2026",
-        "publishedAt": "2026-09-26T11:52:09.000Z",
-        "source": "Benzinga",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.benzinga.com/markets/equities/26/09/62007539/amd-1-trillion-meta-muse-week-in-review"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wall Street Zen Upgrades Archer Daniels Midland (NYSE:ADM) to Strong-Buy",
-        "date": "Sep 26, 2026",
-        "publishedAt": "2026-09-26T05:23:46.000Z",
-        "source": "MarketBeat",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.marketbeat.com/instant-alerts/analyst-wall-street-zen-upgrades-archer-daniels-midland-nyse-adm-to-strong-buy-2026-09-26/"
       }
     ],
     "g-cb-demand": [
@@ -821,6 +821,62 @@
     ]
   },
   "seen": [
+    "https://news.stocktradersdaily.com/news_release/9/Avoiding_Lag:_Real-Time_Signals_in_JG_Movement_092626083002_1790469002.html",
+    "https://ca.investing.com/news/stock-market-news/form-4-dow-inc-for-27-september-93CH-4854746",
+    "https://www.tradingview.com/symbols/NYSE-HNGE/etfs/",
+    "https://www.benzinga.com/markets/tech/26/09/62011847/apple-hit-with-5-7-billion-patent-verdict-over-iphone-apple-watch-haptics",
+    "https://finance.yahoo.com/markets/stocks/articles/pepsico-raising-chip-prices-cut-093513203.html",
+    "https://www.thestate.com/news/article317399790.html",
+    "https://www.tradingview.com/symbols/FINRA-MTB5959359/profile/",
+    "https://simplywall.st/stocks/us/healthcare/nasdaq-gh/guardant-health/news/guardant-health-gh-stock-could-be-undervalued-despite-its-5x",
+    "https://www.roanoke-chowannewsherald.com/news/protesters-oppose-reopening-of-rivers-correctional-institution-14c299a3",
+    "https://www.benzinga.com/quote/BKCH/holdings",
+    "https://in.investing.com/news/stock-market-news/form-424b5-mt-bank-corp-for-27-september-93CH-5607775",
+    "https://in.investing.com/news/stock-market-news/form-4-seagate-technology-holdings-plc-for-27-september-93CH-5607776",
+    "https://www.marketbeat.com/instant-alerts/consensus-gevo-inc-nasdaq-gevo-receives-average-rating-of-hold-from-brokerages-2026-09-27/",
+    "https://www.investing.com/news/insider-trading-news/ajb-investment-fund-ii-increases-stake-in-jewett-cameron-trading-co-buys-2560-93CH-4918873",
+    "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-stock-holdings-increased-by-wedbush-fund-advisers-llc-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/consensus-nvr-inc-nyse-nvr-stock-now-rated-hold-by-wall-street-analysts-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-purchases-new-stake-in-royce-otc-micro-rmt-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-202623-shares-of-trustmark-corporation-trmk-acquired-by-bank-of-america-corp-de-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-newly-bought-by-university-of-wisconsin-foundation-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-crown-castle-inc-cci-stake-decreased-by-envestnet-asset-management-inc-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-stock-bought-by-nan-shan-life-insurance-co-ltd-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-amazoncom-inc-amzn-shares-newly-acquired-by-valueworks-llc-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-holdings-lowered-by-mitsubishi-ufj-trust-banking-corp-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-151842-shares-of-amazoncom-inc-amzn-acquired-by-lombard-odier-asset-management-europe-ltd-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-474381-shares-of-amazoncom-inc-amzn-purchased-by-livforsakringsbolaget-skandia-omsesidigt-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-trajan-wealth-llc-purchases-new-shares-in-apple-inc-aapl-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-regions-financial-corporation-rf-shares-bought-by-envestnet-asset-management-inc-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-state-street-corporation-stt-stock-acquired-by-envestnet-asset-management-inc-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-133738-shares-in-elmet-group-co-elmt-bought-by-state-street-corp-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-quantum-si-incorporated-qsi-shares-sold-by-state-street-corp-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-ring-energy-inc-rei-holdings-increased-by-state-street-corp-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-seaport-therapeutics-inc-sptx-shares-newly-acquired-by-state-street-corp-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-envestnet-asset-management-inc-sells-37008-shares-of-raymond-james-financial-inc-rjf-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-370726-wheels-up-experience-inc-up-shares-sold-by-state-street-corp-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-increases-stock-position-in-community-bancorp-inc-cmtv-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-makes-new-283-million-investment-in-hmh-holding-inc-hmh-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-makes-new-806-million-investment-in-medical-properties-trust-inc-mpt-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-newly-acquired-by-all-stars-investment-ltd-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-transdigm-group-incorporated-tdg-stock-sold-by-engineers-gate-manager-lp-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-425649-shares-in-six-flags-entertainment-corporation-fun-bought-by-bank-of-america-corp-de-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-hecla-mining-company-hl-stock-sold-by-engineers-gate-manager-lp-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-purchases-new-position-in-dime-community-bancshares-inc-dcom-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-254684-shares-in-national-beverage-corp-fizz-acquired-by-bank-of-america-corp-de-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-makes-new-988-million-investment-in-disc-medicine-inc-iron-2026-09-27/",
+    "https://www.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-buys-361-of-texas-pacific-land-stock-93CH-4918840",
+    "https://www.marketbeat.com/instant-alerts/filing-21970-shares-in-apple-inc-aapl-bought-by-first-bancorp-inc-me-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-newly-purchased-by-cooper-haims-advisors-llc-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-65334-shares-of-apple-inc-aapl-purchased-by-councilmark-asset-management-llc-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-472108-shares-in-apple-inc-aapl-acquired-by-castleark-management-llc-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-canada-pension-plan-investment-board-acquires-26489978-shares-of-apple-inc-aapl-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-qrg-capital-management-inc-lowers-position-in-general-mills-inc-gis-2026-09-27/",
+    "https://www.marketbeat.com/instant-alerts/filing-envestnet-portfolio-solutions-inc-acquires-48061-shares-of-copart-inc-cprt-2026-09-27/",
+    "https://www.opensecrets.org/federal-lobbying/clients/abbvie-inc/lobbyists?client_id=191288&cycle=2025",
+    "https://www.opensecrets.org/federal-lobbying/clients/halliburton-co/lobbyists?client_id=160668&cycle=2018",
+    "https://au.investing.com/news/stock-market-news/eni-sets-fuel-price-caps-in-italy-starting-september-28-93CH-4659543",
+    "https://cryptoticker.io/en/rain-token-enlivex-financing-terminated/",
     "https://www.detroitnews.com/picture-gallery/business/2026/09/27/richard-manoogian-detroit-businessman-philanthropist-art-collector/91969693007/",
     "https://cryptonews.net/news/altcoins/33500050/",
     "https://nypost.com/2026/09/26/business/costco-receives-184m-in-tariff-refunds/",
@@ -1164,62 +1220,6 @@
     "https://www.ad-hoc-news.de/boerse/news/vorboerse/centerpoint-energy-stock-heads-into-the-open-after-a-flat-close/70180018",
     "https://www.coingecko.com/en/coins/bp-plc-rstock/cad",
     "https://www.summitdaily.com/news/a-20m-plan-involving-vail-resorts-that-would-transform-maggie-pond-near-breckenridge-ski-resort-has-sparked-concerns/",
-    "https://www.indexbox.io/blog/centerpoint-energy-awarded-50-million-doe-grant-to-modernize-greater-houston-grid/",
-    "https://www.prnewswire.com/news-releases/historic-announcement-centerpoint-energy-selected-to-receive-50-million-us-department-of-energy-grant-to-strengthen--modernize-greater-houstons-electric-grid-302889824.html",
-    "https://www.tradingview.com/news/tradingview:3349f445c82f5:0-centerpoint-energy-inc-cnp-secures-50m-doe-grant-for-grid-upgrades/",
-    "https://www.stocktitan.net/sec-filings/ALK/form-4-alaska-air-group-inc-insider-trading-activity-1728f2dd8e6d.html",
-    "https://tech.einnews.com/pr_news/944967407/landmark-fcc-case-could-rein-in-utility-barriers-to-rural-broadband-nationwide",
-    "https://www.wcpo.com/news/clermont-county-sues-duke-energy-over-coal-ash-waste-near-public-drinking-water-source",
-    "https://www.bloomberg.com/news/articles/2026-09-24/costco-posts-strong-quarterly-profit-on-tariff-refunds",
-    "https://www.bicmagazine.com/media/videos/peter-huntsman-on-building-scale-and-competitiveness-in-us/",
-    "https://www.bizjournals.com/houston/news/2026/09/24/centerpoint-energy-king-substation-doe-grant.html",
-    "https://www.stocktitan.net/sec-filings/INCY/form-4-incyte-corp-insider-trading-activity-43c17c332fcd.html",
-    "https://www.usnews.com/news/business/articles/2026-09-24/energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-aging-power-grid",
-    "https://pulse2.com/clean-energy-fuels-30-7-million/",
-    "https://simplywall.st/stocks/us/utilities/nyse-pcg/pge/news/pge-pcg-cut-by-ubs-as-california-wildfire-reform-delays-rais",
-    "https://ca.finance.yahoo.com/quote/CRWG/options/?date=1795132800&straddle=false&type=all",
-    "https://finance.biggo.com/news/6fc3a3ef-ed4e-4869-8012-8af679362c62",
-    "https://finance.biggo.com/news/70f82e90-59b3-46b2-bc3e-4d9b45a9c3ad",
-    "https://ktla.com/news/politics/ap-politics/ap-energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-aging-power-grid/",
-    "https://www.workboat.com/blue-ops-ramps-variant-7-usv-production-at-georgia-facility",
-    "https://www.tradingview.com/news/zacks:1a076d20d094b:0-government-commercial-markets-aid-icfi-amid-elevated-costs/",
-    "https://news.duke-energy.com/releases/doe-announces-50-million-selection-of-duke-energy-to-strengthen-grid-reliability-and-support-growing-communities-in-the-carolinas",
-    "https://www.moomoo.com/news/post/1000178423/digital-currency-x-technology-inc-announces-160-for-1-share",
-    "https://fox4kc.com/politics/ap-energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-aging-power-grid/",
-    "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/clean-energy-monetizes-30-7m-in-credits-from-rng-portfolio-44649",
-    "https://www.stocktitan.net/news/ONT/onterris-builds-momentum-in-national-brownfields-community-80as2os243e6.html",
-    "https://ca.finance.yahoo.com/quote/BTBT/",
-    "https://www.stocktitan.net/sec-filings/BTGO/form-3-bitgo-holdings-inc-initial-statement-of-beneficial-ownership-475b934c4058.html",
-    "https://georgetownvoice.com/2026/09/23/judge-dismisses-georgetown-from-former-aramark-employees-discrimination-lawsuit/",
-    "https://www.citybiz.co/article/908515/clean-energy-fuels-completes-30-7-million-tax-credit-sale-from-rng-portfolio/",
-    "https://au.finance.yahoo.com/quote/GLW-USD/chart/",
-    "https://www.marketbeat.com/instant-alerts/consensus-lamb-weston-nyse-lw-stock-now-rated-hold-by-sell-side-brokerages-2026-09-25/",
-    "https://www.marketbeat.com/instant-alerts/consensus-truist-financial-corporation-nyse-tfc-stock-rated-hold-by-wall-street-brokerages-2026-09-25/",
-    "https://www.marketbeat.com/instant-alerts/consensus-camden-property-trust-nyse-cpt-stock-rated-hold-by-sell-side-analysts-2026-09-25/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/vulcan-materials-stock-falls-1-10-percent-after-q2-results/70183130",
-    "https://www.investing.com/news/analyst-ratings/wells-fargo-initiates-lennox-stock-at-equal-weight-on-rhvac-concerns-93CH-4917095",
-    "https://www.insidermonkey.com/news/jim-cramer-discussed-walmart-inc-wmts-strategy-to-navigate-through-current-slump-1842195/",
-    "https://simplywall.st/stocks/us/automobiles/nyse-tho/thor-industries/news/thor-industries-tho-stock-looks-about-right-on-its-36-five-y",
-    "https://simplywall.st/stocks/us/capital-goods/nyse-rtx/rtx/news/is-rtx-rtx-undervalued-after-fresh-engine-and-defense-wins",
-    "https://www.wpsdlocal6.com/news/tva-reports-multiple-record-highs-in-demand-during-historic-september-heat-dome/article_295354b2-ee61-4ea6-8a4b-34147ff5cf88.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/eaton-stock-trades-at-usd-440-as-q2-revenue-rises-21-4-percent/70182710",
-    "https://kalkine.ca/news/energy/suncor-energy-stock-can-its-247-dividend-and-integrated-model-drive-long-term-growth",
-    "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-eaton-084200235.html",
-    "https://prospect.org/2026/09/25/oct-2026-leon-black-is-not-very-interesting-cohan-review/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corporation-stock-reports-usd-4-21-billion-quarterly-revenue/70182576",
-    "https://simplywall.st/stocks/us/healthcare/nyse-lh/labcorp-holdings/news/labcorp-holdings-lh-after-investor-day-and-higher-guidance-i",
-    "https://www.marketbeat.com/instant-alerts/consensus-amazoncom-inc-nasdaq-amzn-stock-rated-moderate-buy-by-wall-street-brokerages-2026-09-25/",
-    "https://ca.finance.yahoo.com/news/zacks-industry-outlook-highlights-eaton-084200235.html",
-    "https://www.tradingview.com/news/zacks:c0e322600094b:0-zacks-industry-outlook-highlights-old-dominion-freight-line-arcbest-and-j-b-hunt-transport-services/",
-    "https://www.marketbeat.com/instant-alerts/consensus-the-boeing-company-nyse-ba-stock-now-rated-moderate-buy-by-sell-side-brokerages-2026-09-25/",
-    "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-old-083700563.html",
-    "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-travelers-082800457.html",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/idexx-laboratories-stock-heads-into-the-open-after-september-24-update/70181838",
-    "https://www.investing.com/news/analyst-ratings/hsbc-raises-chevron-stock-price-target-to-250-on-oil-sensitivity-93CH-4916771",
-    "https://www.ad-hoc-news.de/boerse/news/vorboerse/fastenal-co-stock-heads-into-the-open-after-a-0-4-percent-gain/70181679",
-    "https://www.marketbeat.com/instant-alerts/filing-9807-shares-in-amazoncom-inc-amzn-acquired-by-philadelphia-investment-partners-llc-2026-09-25/",
-    "https://www.marketbeat.com/instant-alerts/filing-washington-trust-bank-sells-9518-shares-of-jpmorgan-chase-co-jpm-2026-09-25/",
-    "https://www.marketbeat.com/instant-alerts/filing-jacobs-equity-llc-buys-new-position-in-amazoncom-inc-amzn-2026-09-25/",
-    "https://www.marketbeat.com/instant-alerts/filing-arthedge-capital-management-llc-purchases-84860-shares-of-amazoncom-inc-amzn-2026-09-25/"
+    "https://www.indexbox.io/blog/centerpoint-energy-awarded-50-million-doe-grant-to-modernize-greater-houston-grid/"
   ]
 }
