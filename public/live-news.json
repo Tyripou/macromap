@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T18:04:36.164Z",
+  "updatedAt": "2026-09-29T22:14:02.785Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -248,6 +248,16 @@
       }
     ],
     "equities": [
+      {
+        "kind": "catalyst",
+        "headline": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+        "date": "Sep 29, 2026",
+        "publishedAt": "2026-09-29T18:21:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street, S&P.",
+        "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal"
+      },
       {
         "kind": "catalyst",
         "headline": "PepsiCo plans to raise prices on sodas, chips and dip — and that has Wall Street worried",
@@ -555,6 +565,10 @@
     ]
   },
   "seen": [
+    "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
+    "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+    "https://www.benzinga.com/markets/equities/26/09/61939050/ai-is-dead-money-right-now-jurrien-timmer-says-could-a-productivity-miracle-still-be-coming",
+    "https://www.benzinga.com/markets/equities/26/09/61930818/nasdaq-record-banks-fall-oil-fifth-decline-whats-moving-markets-tuesday",
     "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
     "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
     "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
