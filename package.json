@@ -10,7 +10,8 @@
     "test:news": "node scripts/test-news-lib.mjs",
     "test:refresh": "node scripts/test-refresh-api.mjs",
     "test:galaxy": "node scripts/test-galaxy.mjs",
-    "test:rules": "node scripts/test-news-rules.mjs"
+    "test:rules": "node scripts/test-news-rules.mjs",
+    "test:rss": "node scripts/test-rss-lib.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.383.0",
