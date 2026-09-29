@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T09:48:25.432Z",
+  "updatedAt": "2026-09-29T18:04:36.164Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -24,6 +24,16 @@
       }
     ],
     "valuations": [
+      {
+        "kind": "catalyst",
+        "headline": "Blockchain.com targets $500 million IPO this year at up to $6 billion valuation",
+        "date": "Sep 29, 2026",
+        "publishedAt": "2026-09-29T10:13:40.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : valuation.",
+        "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation"
+      },
       {
         "kind": "catalyst",
         "headline": "Citigroup (C) Could Be 15% Undervalued As It Expands Citi Token Services",
@@ -53,16 +63,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
         "why": "L'article évoque : P/E.",
         "link": "https://pluang.com/en/news-feed/clorox-dividen-6-persen-dan-penilaian-murah-tak-mampu-percepat-pemulihan"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "AGNC's high 15% yield is risky amid rising rates and dividend sustainability concerns.",
-        "date": "Sep 28, 2026",
-        "publishedAt": "2026-09-28T13:27:37.000Z",
-        "source": "Pluang",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : valuation.",
-        "link": "https://pluang.com/en/news-feed/investasi-agnc-yield-tinggi-tapi-perangkap-dividen"
       }
     ],
     "nasdaq": [
@@ -110,6 +110,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin beats gold, surge to $100,000 in play",
+        "date": "Sep 29, 2026",
+        "publishedAt": "2026-09-29T11:34:55.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
+        "date": "Sep 29, 2026",
+        "publishedAt": "2026-09-29T10:14:41.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
         "date": "Sep 29, 2026",
         "publishedAt": "2026-09-29T09:45:31.000Z",
@@ -127,26 +147,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Strategy ($MSTR) and Bitmine ($BMNR) Add to Bitcoin (BTC) and Ethereum (ETH) Holdings Amid Iran Tensions and AI Uncertainty",
-        "date": "Sep 28, 2026",
-        "publishedAt": "2026-09-28T19:24:45.000Z",
-        "source": "Crowdfund Insider",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bitcoin, BTC, cryptocurrency.",
-        "link": "https://www.crowdfundinsider.com/2026/09/313883-strategy-mstr-and-bitmine-bmnr-add-to-bitcoin-btc-and-ethereum-eth-holdings-amid-iran-tensions-and-ai-uncertainty/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Behind MicroStrategy’s (MSTR.US) Addition of 1,665 BTC: The Capital Game of a $150 Million STRC Buyback",
-        "date": "Sep 28, 2026",
-        "publishedAt": "2026-09-28T13:24:44.000Z",
-        "source": "Moomoo",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bitcoin, BTC, cryptocurrency.",
-        "link": "https://www.moomoo.com/news/post/1000309323/behind-microstrategy-s-mstrus-addition-of-1665-btc-the-capital"
       }
     ],
     "middle-east": [
@@ -162,6 +162,16 @@
       }
     ],
     "gold": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin beats gold, surge to $100,000 in play",
+        "date": "Sep 29, 2026",
+        "publishedAt": "2026-09-29T11:34:55.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : gold.",
+        "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play"
+      },
       {
         "kind": "catalyst",
         "headline": "The restaking gold rush is over, and top protocols are barely making a profit",
@@ -314,6 +324,16 @@
     "btc-real-yields": [
       {
         "kind": "catalyst",
+        "headline": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+        "date": "Sep 29, 2026",
+        "publishedAt": "2026-09-29T10:28:51.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Treasury yield, 10-year.",
+        "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
         "date": "Sep 29, 2026",
         "publishedAt": "2026-09-29T09:06:11.000Z",
@@ -334,6 +354,16 @@
       }
     ],
     "us10y": [
+      {
+        "kind": "catalyst",
+        "headline": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+        "date": "Sep 29, 2026",
+        "publishedAt": "2026-09-29T10:28:51.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : 10-year Treasury, Treasury yield, 10-year.",
+        "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields"
+      },
       {
         "kind": "catalyst",
         "headline": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
@@ -407,16 +437,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Federal Reserve.",
         "link": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Jefferson, Discount Window Modernization and Treasury Market Functioning",
-        "date": "Sep 22, 2026",
-        "publishedAt": "2026-09-22T14:20:00.000Z",
-        "source": "Federal Reserve (discours)",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Federal Reserve.",
-        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm"
       }
     ],
     "bonds": [
@@ -439,16 +459,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : Treasury selloff, government bonds.",
         "link": "https://markets.financialcontent.com/stocks/article/stockstory-2026-9-28-digitalocean-uipath-ncino-blackline-and-pegasystems-stocks-trade-down-what-you-need-to-know"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Jefferson, Discount Window Modernization and Treasury Market Functioning",
-        "date": "Sep 22, 2026",
-        "publishedAt": "2026-09-22T14:20:00.000Z",
-        "source": "Federal Reserve (discours)",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Treasury Market.",
-        "link": "https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm"
       }
     ],
     "oil": [
@@ -545,6 +555,15 @@
     ]
   },
   "seen": [
+    "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
+    "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+    "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
+    "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
+    "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+    "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
+    "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+    "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
+    "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
     "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
     "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
     "https://kalkinemedia.com/us/stocks/financial/is-the-new-setup-at-intercontinental-exchange-nyseice-sustainable",
