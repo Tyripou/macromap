@@ -59,7 +59,7 @@ MacroMap affiche de vraies actualités qui se rafraîchissent automatiquement, s
 
 **Comment ça marche :**
 1. Une tâche planifiée GitHub Actions (`.github/workflows/refresh-news.yml`) se déclenche **toutes les 3h**.
-2. Elle exécute `scripts/refresh-news.mjs`, qui fait **2 appels** à Alpha Vantage (un topic "macro" + un topic "marchés", en rotation — 16 appels/jour sur les 25 gratuits), puis range chaque **nouvel** article dans les bons facteurs de MacroMap (Fed, DXY, CPI, BTC, etc.) **par mots-clés** (`scripts/news-rules.mjs`) : gratuit, instantané, sans IA ni clé supplémentaire.
+2. Elle exécute `scripts/refresh-news.mjs`, qui fait **2 appels** à Alpha Vantage (16 appels/jour sur les 25 gratuits), choisis en rotation dans un bassin de 11 filtres (`TOPIC_POOL` dans `scripts/news-lib.mjs`) : des thèmes généraux (économie, marchés, énergie, blockchain) et des filtres dédiés à un instrument précis via un ETF ou une paire suivie par Alpha Vantage — or (GLD), pétrole (USO), dollar (UUP), Nasdaq (QQQ), bitcoin (CRYPTO:BTC) — pour que ces facteurs reçoivent des news qui leur sont propres, pas seulement de la macro générale où ils apparaissent rarement. Chaque appel récupère jusqu'à 200 articles (gratuit : ça ne change rien au nombre d'appels). Chaque **nouvel** article est ensuite rangé dans les bons facteurs de MacroMap (Fed, DXY, CPI, BTC, etc.) **par mots-clés** (`scripts/news-rules.mjs`) : gratuit, instantané, sans IA ni clé supplémentaire. Le bassin tourne entièrement (les 11 filtres) en un peu moins de 2 jours, donc chaque instrument est interrogé plusieurs fois par semaine, bien avant que ses news affichées n'atteignent la limite de fraîcheur de 7 jours.
 3. Le résultat est **fusionné** avec `public/live-news.json` : les news déjà présentes sont conservées (7 jours max, 4 par facteur au plus, dédoublonnées par lien), donc une news ne disparaît pas au run suivant simplement parce qu'elle n'est plus dans les derniers articles renvoyés par l'API. Les articles déjà traités ne sont pas reclassés (liste `seen` dans le fichier).
 4. Le fichier est commité automatiquement sur le repo, ce qui déclenche un redéploiement Vercel.
 5. Le site relit ce fichier statique au chargement, **puis toutes les 10 minutes et au retour sur l'onglet** — un onglet laissé ouvert se met donc à jour tout seul après chaque redéploiement. **Aucun visiteur n'appelle jamais Alpha Vantage** : le quota gratuit est protégé quel que soit le trafic.
@@ -93,14 +93,23 @@ Cliquer dessus force une vérification immédiate côté navigateur.
 
 Certaines configurations Vercel (notamment le plan Hobby avec un auteur de commit qui n'est pas lié à ton compte) ignorent les commits du bot GitHub. Solution : dans Vercel → Project → Settings → Git → **Deploy Hooks**, crée un hook, puis ajoute son URL comme secret GitHub `VERCEL_DEPLOY_HOOK`. Le workflow le déclenchera alors lui-même après chaque commit. Ne l'ajoute pas si Vercel redéploie déjà seul (sinon deux déploiements par run).
 
+### Flux RSS publics (en plus d'Alpha Vantage, gratuits, sans clé)
+
+En plus d'Alpha Vantage, chaque run lit aussi 3 flux RSS publics (`RSS_FEEDS` dans `scripts/rss-lib.mjs`) — de simples requêtes HTTP vers des sites publics, sans clé, et qui ne comptent pas dans le quota Alpha Vantage :
+- **Fed — communiqués de politique monétaire** (déclarations et minutes du FOMC) : peu fréquent (environ toutes les 6 semaines) mais tombe pile sur les facteurs `fed` / `fomc`.
+- **Fed — tous les discours des gouverneurs** : plus fréquent, utile pour repérer un ton "hawkish" ou "dovish" (`rate-expectations`).
+- **CoinDesk — toutes les actualités** : très fréquent, et pas seulement du bitcoin : la plupart des articles évoquent aussi la Fed, le dollar, les rendements obligataires ou le pétrole quand ils touchent la crypto.
+
+Une panne d'un flux (site en maintenance, etc.) n'interrompt pas le run : les autres sources continuent de compter, exactement comme pour Alpha Vantage. Pour ajouter un autre flux RSS gratuit que tu aurais trouvé, ajoute une entrée `{ name, url }` à `RSS_FEEDS` — aucun autre changement nécessaire, le format est détecté automatiquement (CDATA ou texte brut).
+
 ### Tests
 
-`npm run test:news` lance les tests hors-ligne de la logique de fusion / rotation des topics / validation des liens (aucune clé ni réseau nécessaire), et `npm run test:rules` ceux du classement par mots-clés (faux positifs, plafonds, doublons). Le premier est aussi exécuté à chaque run de la tâche GitHub, avant l'appel à Alpha Vantage.
+`npm run test:news` lance les tests hors-ligne de la logique de fusion / rotation des filtres / validation des liens (aucune clé ni réseau nécessaire), `npm run test:rules` ceux du classement par mots-clés (faux positifs, plafonds, doublons), et `npm run test:rss` ceux du lecteur RSS (avec de vrais extraits des 3 flux ci-dessus). Les trois sont aussi exécutés à chaque run de la tâche GitHub, avant l'appel à Alpha Vantage.
 
 ### Limites connues
 
-- Fréquence : ligne `cron` du workflow. Si tu la changes, adapte aussi `SLOT_MS` dans `scripts/news-lib.mjs` et recalcule le quota (runs/jour × 2 appels ≤ 25, en gardant de la marge pour les lancements manuels).
-- Si les secrets manquent ou si Alpha Vantage refuse la requête (quota, clé invalide), le script échoue proprement (log clair dans l'onglet Actions, GitHub t'envoie un mail) **sans toucher** au fichier existant : le site garde les dernières news connues.
+- Fréquence : ligne `cron` du workflow. Si tu la changes, adapte aussi `SLOT_MS` dans `scripts/news-lib.mjs` et recalcule le quota (runs/jour × 2 appels ≤ 25, en gardant de la marge pour les lancements manuels). Si tu ajoutes ou retires un filtre dans `TOPIC_POOL`, la rotation reste complète tant que sa longueur n'a pas de diviseur commun avec 2 (un nombre impair convient toujours).
+- Si les secrets manquent ou si Alpha Vantage refuse la requête (quota, clé invalide), le script échoue proprement (log clair dans l'onglet Actions, GitHub t'envoie un mail) **sans toucher** au fichier existant : le site garde les dernières news connues. Les flux RSS n'ont pas cette limite de quota ; une panne de leur côté est simplement journalisée et n'empêche pas le run de continuer avec Alpha Vantage.
 - Les actualités en direct complètent celles écrites en dur dans `App.jsx` : pour un facteur donné, s'il y a des news live elles remplacent les statiques ; sinon il retombe automatiquement sur ce qui existait avant (donc jamais d'écran vide).
 - Alpha Vantage est en anglais et généraliste : certains facteurs très spécifiques (ex. flux d'ETF or, achats des banques centrales) recevront rarement des news live et resteront sur le contenu statique.
 

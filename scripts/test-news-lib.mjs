@@ -1,6 +1,6 @@
 // Tests hors-ligne de la logique de fusion / rotation. Lancer : npm run test:news
 import assert from "node:assert/strict";
-import { mergeNews, pickTopics, parseAvTime, formatDate, extractJson, buildFreshByFactor, isHttpUrl } from "./news-lib.mjs";
+import { mergeNews, pickTopics, TOPIC_POOL, parseAvTime, formatDate, extractJson, buildFreshByFactor, isHttpUrl } from "./news-lib.mjs";
 
 const NOW = new Date("2026-09-18T12:00:00Z");
 const item = (headline, iso, link = `https://ex.com/${headline}`) => ({ headline, publishedAt: iso, link, kind: "catalyst" });
@@ -47,16 +47,34 @@ t("mergeNews : plafond par facteur", () => {
   assert.deepEqual(times, [...times].sort((a, b) => b - a));
 });
 
-t("pickTopics : 1 macro + 1 marchés, un seul topic chacun, rotation dans le temps", () => {
-  const seen = new Set();
-  for (let h = 0; h < 24 * 3; h += 3) {
-    const [a, b] = pickTopics(new Date(NOW.getTime() + h * 3600000));
-    assert.ok(["economy_macro", "economy_monetary", "economy_fiscal"].includes(a));
-    assert.ok(["financial_markets", "blockchain"].includes(b));
-    assert.ok(!a.includes(",") && !b.includes(","));
-    seen.add(a); seen.add(b);
+t("pickTopics : 2 filtres distincts par run, valides, dans le bassin commun", () => {
+  for (let h = 0; h < 24 * 5; h += 3) {
+    const picked = pickTopics(new Date(NOW.getTime() + h * 3600000));
+    assert.equal(picked.length, 2);
+    assert.notEqual(picked[0].value, picked[1].value); // jamais le même filtre deux fois dans un run
+    for (const p of picked) {
+      assert.ok(["topics", "tickers"].includes(p.kind));
+      assert.ok(TOPIC_POOL.some((x) => x.kind === p.kind && x.value === p.value));
+    }
   }
-  assert.equal(seen.size, 5); // les 5 topics sont tous couverts
+});
+t("pickTopics : les 11 filtres du bassin sont tous couverts en un peu moins de 2 jours, sans jamais se répéter avant", () => {
+  const seen = new Set();
+  let repeatedBeforeFullCoverage = false;
+  for (let h = 0; h < 33 * 3; h += 3) { // 11 tours de 3h = un cycle complet du bassin
+    for (const p of pickTopics(new Date(NOW.getTime() + h * 3600000))) {
+      const key = `${p.kind}:${p.value}`;
+      if (seen.has(key) && seen.size < TOPIC_POOL.length) repeatedBeforeFullCoverage = true;
+      seen.add(key);
+    }
+    if (seen.size === TOPIC_POOL.length) break;
+  }
+  assert.equal(seen.size, TOPIC_POOL.length, `bassin non entièrement couvert : ${[...seen]}`);
+  assert.equal(repeatedBeforeFullCoverage, false, "un filtre est revenu avant que tous les autres soient passés");
+});
+t("pickTopics : le bassin cible bien l'or, le pétrole, le dollar, le Nasdaq et le bitcoin via des tickers dédiés", () => {
+  const tickerValues = TOPIC_POOL.filter((x) => x.kind === "tickers").map((x) => x.value);
+  for (const v of ["GLD", "USO", "UUP", "QQQ", "CRYPTO:BTC"]) assert.ok(tickerValues.includes(v), `${v} absent du bassin`);
 });
 
 t("extractJson : tolère fences et texte autour", () => {
