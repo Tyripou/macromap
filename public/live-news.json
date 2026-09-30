@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T05:31:17.851Z",
+  "updatedAt": "2026-09-30T12:33:04.096Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -24,6 +24,16 @@
       }
     ],
     "valuations": [
+      {
+        "kind": "catalyst",
+        "headline": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
+        "date": "Sep 30, 2026",
+        "publishedAt": "2026-09-30T08:50:22.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : valuation.",
+        "link": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent"
+      },
       {
         "kind": "catalyst",
         "headline": "3 Dividend Growth Stocks That Have Recently Hit New 52-Week Lows",
@@ -53,16 +63,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
         "why": "L'article évoque : valuation, P/E.",
         "link": "https://seekingalpha.com/article/4950575-cohen-and-steers-downgrade-to-hold-as-higher-interest-rates-cap-share-price-growth"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Citigroup (C) Could Be 15% Undervalued As It Expands Citi Token Services",
-        "date": "Sep 28, 2026",
-        "publishedAt": "2026-09-28T21:50:37.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : valuations, P/E.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-could-15-undervalued-221239401.html"
       }
     ],
     "nasdaq": [
@@ -110,6 +110,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "A stronger dollar is a weaker threat to bitcoin than traders think",
+        "date": "Sep 30, 2026",
+        "publishedAt": "2026-09-30T11:20:09.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Live updates: Bitcoin tentative ahead of U.S. inflation data",
+        "date": "Sep 30, 2026",
+        "publishedAt": "2026-09-30T10:18:34.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
         "date": "Sep 30, 2026",
         "publishedAt": "2026-09-30T04:38:18.000Z",
@@ -127,26 +147,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
         "why": "L'article évoque : Crypto.",
         "link": "https://www.benzinga.com/markets/prediction-markets/26/09/62061946/hyperliquid-insider-trading-probe-crypto-short"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin beats gold, surge to $100,000 in play",
-        "date": "Sep 29, 2026",
-        "publishedAt": "2026-09-29T11:34:55.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
-        "date": "Sep 29, 2026",
-        "publishedAt": "2026-09-29T10:14:41.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady"
       }
     ],
     "middle-east": [
@@ -270,6 +270,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
+        "date": "Sep 30, 2026",
+        "publishedAt": "2026-09-30T11:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
         "date": "Sep 29, 2026",
         "publishedAt": "2026-09-29T18:21:07.000Z",
@@ -297,16 +307,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.marketwatch.com/story/pepsico-plans-to-raise-prices-on-sodas-chips-and-dip-and-that-has-wall-street-worried-0ec355bf"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Why Meta’s Muse may support the AI bull market",
-        "date": "Sep 28, 2026",
-        "publishedAt": "2026-09-28T13:45:19.000Z",
-        "source": "Invesco",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : bull market.",
-        "link": "https://www.invesco.com/us/en/insights/why-meta-muse-may-support-ai-bull-market.html"
       }
     ],
     "earnings": [
@@ -626,6 +626,16 @@
     "cpi": [
       {
         "kind": "catalyst",
+        "headline": "Live updates: Bitcoin tentative ahead of U.S. inflation data",
+        "date": "Sep 30, 2026",
+        "publishedAt": "2026-09-30T10:18:34.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : inflation data, inflation.",
+        "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Can government bond markets regain their poise?",
         "date": "Sep 29, 2026",
         "publishedAt": "2026-09-29T15:31:06.000Z",
@@ -650,6 +660,16 @@
     "usd": [
       {
         "kind": "catalyst",
+        "headline": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+        "date": "Sep 30, 2026",
+        "publishedAt": "2026-09-30T08:25:43.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : U.S. dollar, dollar.",
+        "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Silvercorp Metals Shares Fall 5.4% as Silver Prices Decline",
         "date": "Sep 28, 2026",
         "publishedAt": "2026-09-28T21:07:00.000Z",
@@ -658,9 +678,43 @@
         "why": "L'article évoque : US dollar, dollar.",
         "link": "https://finance.yahoo.com/markets/commodities/articles/silvercorp-metals-shares-fall-5-140724793.html"
       }
+    ],
+    "btc-usd": [
+      {
+        "kind": "catalyst",
+        "headline": "A stronger dollar is a weaker threat to bitcoin than traders think",
+        "date": "Sep 30, 2026",
+        "publishedAt": "2026-09-30T11:20:09.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : dollar.",
+        "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+        "date": "Sep 30, 2026",
+        "publishedAt": "2026-09-30T08:25:43.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : U.S. dollar.",
+        "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
+    "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
+    "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
+    "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
+    "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
+    "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
+    "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
+    "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
+    "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
+    "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
+    "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
+    "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
     "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
     "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
     "https://www.washingtonsun.com/money/karoline-leavitt-discloses-family-investments-trump-media-tesla",
