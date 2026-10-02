@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-01T18:25:11.671Z",
+  "updatedAt": "2026-10-02T00:46:55.496Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "European Crypto Advocates Challenge MiCA Stablecoin Rules",
+        "date": "Oct 1, 2026",
+        "publishedAt": "2026-10-01T18:45:09.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Stablecoin.",
+        "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review"
+      },
       {
         "kind": "catalyst",
         "headline": "Bloomberg Adds Stablecoin Analytics Powered by Allium",
@@ -31,16 +41,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : Stablecoin.",
         "link": "https://www.indexbox.io/blog/btq-signs-three-year-qssn-deal-with-kaia-dlt-foundation/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T15:34:50.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin, Tether.",
-        "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money"
       }
     ],
     "valuations": [
@@ -88,6 +88,16 @@
     "nasdaq": [
       {
         "kind": "catalyst",
+        "headline": "Evernorth Wins Shareholder Vote for Nasdaq XRP Treasury Listing",
+        "date": "Oct 1, 2026",
+        "publishedAt": "2026-10-01T21:07:45.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury"
+      },
+      {
+        "kind": "catalyst",
         "headline": "GrowGeneration grants 25,000 shares as GrowGeneration stock holds USD 90.1 million value",
         "date": "Oct 1, 2026",
         "publishedAt": "2026-10-01T09:26:32.000Z",
@@ -115,16 +125,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : NASDAQ.",
         "link": "https://www.marketbeat.com/instant-alerts/price-iren-nasdaq-iren-stock-falls-12-on-analyst-downgrade-2026-09-30/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Star Bulk Carriers Corp. (NASDAQ:SBLK) Stock Short Interest Jumps 61.4%",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T20:01:22.000Z",
-        "source": "MarketBeat",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : NASDAQ.",
-        "link": "https://www.marketbeat.com/instant-alerts/options-star-bulk-carriers-corp-nasdaq-sblk-stock-short-interest-jumps-614-2026-09-30/"
       }
     ],
     "btc": [
@@ -140,6 +140,26 @@
       },
       {
         "kind": "catalyst",
+        "headline": "BTCNow Launches New Pay-Over-Time Model for Bitcoin Ownership",
+        "date": "Oct 1, 2026",
+        "publishedAt": "2026-10-01T16:00:00.000Z",
+        "source": "Business Insider",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Bitcoin, BTC, CRYPTO:BTC.",
+        "link": "https://markets.businessinsider.com/news/stocks/btcnow-launches-new-pay-over-time-model-for-bitcoin-ownership-1036590310"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin Liquidity Thickens at $84,000 as US Bond Yields Cool",
+        "date": "Oct 1, 2026",
+        "publishedAt": "2026-10-01T15:55:19.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Bitcoin, BTC, CRYPTO:BTC.",
+        "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin ETFs Pull in $6.34B in Q3 as BTC Gains 43%",
         "date": "Oct 1, 2026",
         "publishedAt": "2026-10-01T07:27:00.000Z",
@@ -147,26 +167,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Bitcoin, BTC, CRYPTO:BTC.",
         "link": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T17:16:31.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Crypto.",
-        "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "LGHL Stock Whipsaws As Lion Group Doubles Down On Crypto",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T16:26:01.000Z",
-        "source": "StocksToTrade",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Crypto.",
-        "link": "https://stockstotrade.com/news/lion-group-holding-ltd-lghl-news-2026_09_30-3/"
       }
     ],
     "middle-east": [
@@ -320,6 +320,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "Evernorth Wins Shareholder Vote for Nasdaq XRP Treasury Listing",
+        "date": "Oct 1, 2026",
+        "publishedAt": "2026-10-01T21:07:45.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Robinhood Stock Falls Despite Bullish Wall Street Reaction To HOOD Summit – Morgan Stanley Eyes ‘Two Key Products’",
         "date": "Sep 30, 2026",
         "publishedAt": "2026-09-30T15:12:39.000Z",
@@ -347,16 +357,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
-        "date": "Sep 29, 2026",
-        "publishedAt": "2026-09-29T18:21:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street, S&P.",
-        "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal"
       }
     ],
     "earnings": [
@@ -404,6 +404,16 @@
     "btc-real-yields": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin Liquidity Thickens at $84,000 as US Bond Yields Cool",
+        "date": "Oct 1, 2026",
+        "publishedAt": "2026-10-01T15:55:19.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Bond Yields.",
+        "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
         "date": "Oct 1, 2026",
         "publishedAt": "2026-10-01T04:15:20.000Z",
@@ -431,16 +441,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Treasury yield, 10-year.",
         "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
-        "date": "Sep 29, 2026",
-        "publishedAt": "2026-09-29T09:06:11.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Treasury yield, 10-year.",
-        "link": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic"
       }
     ],
     "us10y": [
@@ -488,6 +488,26 @@
     "btc-regulation": [
       {
         "kind": "catalyst",
+        "headline": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+        "date": "Oct 1, 2026",
+        "publishedAt": "2026-10-01T20:46:03.000Z",
+        "source": "Decrypt.co",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : SEC.",
+        "link": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "SEC proposes new crypto custody rules for investment advisers and funds",
+        "date": "Oct 1, 2026",
+        "publishedAt": "2026-10-01T20:20:04.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : SEC.",
+        "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
         "date": "Oct 1, 2026",
         "publishedAt": "2026-10-01T15:00:00.000Z",
@@ -505,26 +525,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Clarity Act.",
         "link": "https://www.reuters.com/business/finance/citi-raises-bitcoin-ether-forecasts-strong-crypto-activity-2026-10-01/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T17:16:31.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Clarity Act.",
-        "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-        "date": "Sep 25, 2026",
-        "publishedAt": "2026-09-25T22:17:38.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : SEC.",
-        "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week"
       }
     ],
     "fed": [
@@ -720,6 +720,16 @@
       }
     ],
     "financial-conditions": [
+      {
+        "kind": "catalyst",
+        "headline": "3 High-Yield Financial Stocks to Buy in October",
+        "date": "Oct 1, 2026",
+        "publishedAt": "2026-10-01T16:10:00.000Z",
+        "source": "Motley Fool",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : High-Yield.",
+        "link": "https://www.fool.com/investing/2026/10/01/3-high-yield-financial-stocks-to-buy-in-october/"
+      },
       {
         "kind": "catalyst",
         "headline": "DXPRD: A 9.375% Preferred Stock IPO From Dynex Capital",
@@ -975,6 +985,26 @@
     ]
   },
   "seen": [
+    "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express",
+    "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+    "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
+    "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
+    "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+    "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
+    "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+    "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+    "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
+    "https://www.fool.com/investing/2026/10/01/3-high-yield-financial-stocks-to-buy-in-october/",
+    "https://markets.businessinsider.com/news/stocks/btcnow-launches-new-pay-over-time-model-for-bitcoin-ownership-1036590310",
+    "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs",
+    "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+    "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+    "https://www.zacks.com/stock/news/2998765/can-hood-summit-2026-power-robinhoods-next-growth-leg",
+    "https://www.fool.com/investing/2026/10/01/can-bitcoin-reach-100000-by-the-end-of-the-year/",
+    "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data",
+    "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
+    "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
+    "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
     "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
     "https://www.americanbanker.com/news/2026-the-most-powerful-women-in-finance-13-anna-marrs-american-express",
     "https://coingape.com/markets/mstr-stock-outlook-as-strategy-ceo-questions-msci-bitcoin-stance-ahead-of-rebalancing/",
@@ -1354,26 +1384,6 @@
     "https://www.marketscreener.com/news/fti-consulting-inc-announces-appointment-of-jeffrey-hecht-as-senior-managing-director-to-lead-priv-ce785ad2d98cf623",
     "https://www.benzinga.com/markets/prediction-markets/26/09/62061946/hyperliquid-insider-trading-probe-crypto-short",
     "https://www.benzinga.com/trading-ideas/movers/26/09/62062069/vale-stock-drops-tuesday-whats-going-on",
-    "https://www.tradingview.com/symbols/HAN-4OQ1/financials-income-statement/income-tax/",
-    "https://texasscorecard.com/state/morgan-stanleys-plans-dallas-hub-with-684-million-expansion/",
-    "https://www.wxyz.com/news/ann-arbor-city-leaders-vow-to-oppose-ballot-proposal-to-replace-dte-as-utility-provider",
-    "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/4861850/3-dividend-growth-stocks-that-have-recently-hit-new-52-week-lows/",
-    "https://www.springfieldnewssun.com/local/business/caresource-molina-to-drop-aca-marketplace-plans-in-ohio-in-2027/article_13a99274-aac7-53d8-928d-47646ac58c85.html",
-    "https://kalkine.ca/news/mining/seabridge-gold-stock-drops-565-as-gold-sell-off-and-ksm-regulatory-uncertainty-pressure-tsxsea",
-    "https://kalkinemedia.com/us/stocks/utility/southern-company-nyseso-in-focus-as-data-center-demand-meets-rising-yields",
-    "https://variety.com/2026/film/news/disney-layoffs-hr-tech-employees-1236878176/",
-    "https://www.opensecrets.org/federal-lobbying/clients/metlife-inc?client_id=160936&cycle=2007",
-    "https://kalkinemedia.com/us/stocks/energy/first-solar-nasdaqfslr-slides-toward-lows-as-yields-squeeze-solar",
-    "https://www.wpr.org/news/microsoft-to-redirect-data-center-incentive-back-to-mount-pleasant",
-    "https://kalkinemedia.com/us/stocks/cannabis/tilray-brands-nasdaqtlry-stays-in-focus-as-cannabis-reform-talk-revives",
-    "https://www.crowdfundinsider.com/2026/09/314220-comptroller-issues-statement-explaining-vote-against-resolution-plan-feedback-for-american-express-reasserts-need-for-reforms-to-resolution-planning/",
-    "https://www.marketbeat.com/articles/5-stocks-showing-why-pricing-power-matters-more-than-government-money/",
-    "https://kalkinemedia.com/ca/stocks/dividend/can-sun-life-financial-tsxslf-lead-canadas-dividend-picks",
-    "https://www.executivebiz.com/articles/gdots-camden-solid-rocket-motor-campus",
-    "https://www.clarkhill.com/news-events/news/clark-hill-assists-arcelormittal-north-america-holding-inc-with-109-million-georgia-manufacturing-facility-project/",
-    "https://www.ubs.com/us/en/wealth-management/insights/market-news/article.3792859.html",
-    "https://www.gurufocus.com/news/9101791/arbor-realty-trust-abr-shares-slip-184-after-citizens-downgrades-to-hold",
-    "https://www.tradingview.com/news/zacks:f9da7e866094b:0-how-tariff-refunds-strengthened-dollar-general-s-q2-results/",
-    "https://www.xtb.com/int/market-analysis/news-and-research/us-open-nasdaq-tries-to-recover-loses-fair-isaac-shares-in-panic"
+    "https://www.tradingview.com/symbols/HAN-4OQ1/financials-income-statement/income-tax/"
   ]
 }
