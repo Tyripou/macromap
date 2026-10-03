@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T16:16:38.082Z",
+  "updatedAt": "2026-10-03T21:13:15.684Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -901,6 +901,16 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Oil Supply.",
         "link": "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/phillips-66-stock-and-2-energy-shares-facing-the-next-oil-su"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "United States Oil Fund (USO) Slides Tuesday: What's Driving the Action?",
+        "date": "Sep 29, 2026",
+        "publishedAt": "2026-09-29T13:56:49.000Z",
+        "source": "Benzinga",
+        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
+        "why": "L'article évoque : oil export.",
+        "link": "https://www.benzinga.com/trading-ideas/movers/26/09/62061547/united-states-oil-fund-uso-slides-tuesday-whats-driving-the-action"
       }
     ],
     "oil-demand": [
@@ -1113,6 +1123,12 @@
     ]
   },
   "seen": [
+    "https://kalkine.ca/company/nyse-uso/",
+    "https://www.stocktitan.net/sec-filings/USO/8-k-united-states-oil-fund-lp-reports-material-event-9a2fd7b8ec31.html",
+    "https://www.tradingview.com/news/tradingview:6b73b89f4ae5e:0-united-states-oil-fund-posts-84-0m-net-income-nav-per-share-133-38-for-aug-2026/",
+    "https://www.benzinga.com/trading-ideas/movers/26/09/62061547/united-states-oil-fund-uso-slides-tuesday-whats-driving-the-action",
+    "https://www.benzinga.com/etfs/specialty-etfs/26/09/62034960/uso-etf-parent-has-a-new-suitor-is-a-bidding-war-brewing",
+    "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
     "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
     "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
     "https://finance.yahoo.com/energy/articles/dominion-energy-vs-nextera-energy-151534949.html",
@@ -1506,12 +1522,6 @@
     "https://www.newmediawire.com/news/btq-technologies-btq-signs-three-year-commercial-agreement-to-deploy-qssn-across-kaia-blockchain-7090219",
     "https://www.marketscreener.com/news/securitize-and-adi-foundation-integrate-securitize-s-institutional-tokenization-infrastructure-with-ce785ad3d88cf224",
     "https://bitcoinmagazine.com/news/bitcoin-is-more-than-an-asset-td-cowen",
-    "https://stockstotrade.com/news/mara-holdings-inc-mara-news-2026_09_30/",
-    "https://ambcrypto.com/cardano-price-holds-above-0-24-can-ada-break-0-26-as-2-calls-return/",
-    "https://kalkine.ca/news/technology/why-is-btq-technologies-corp-cboe-canadabtq-stock-in-focus-after-a-670-move-today",
-    "https://www.indexbox.io/blog/btq-signs-three-year-qssn-deal-with-kaia-dlt-foundation/",
-    "https://www.benzinga.com/trading-ideas/movers/26/09/62085725/whats-going-on-with-applied-digital-stock-wednesday-2",
-    "https://cryptorank.io/price/critical-metals-corp-derivatives/vnd",
-    "https://www.benzinga.com/trading-ideas/movers/26/09/62085440/hut-8-stock-is-dropping-whats-going-on-today"
+    "https://stockstotrade.com/news/mara-holdings-inc-mara-news-2026_09_30/"
   ]
 }
