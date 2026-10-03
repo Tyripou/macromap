@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-10-03T05:17:38.041Z",
+  "updatedAt": "2026-10-03T11:38:10.625Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Anchorage Digital Reportedly Cuts 17% of Workforce",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T18:41:17.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : stablecoin, Tether.",
+        "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "CONNECT Recap: Hayes on Money Printing, Stablecoins and Onchain Finance",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T10:29:35.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : Stablecoins.",
+        "link": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain"
+      },
       {
         "kind": "catalyst",
         "headline": "Press Releases about Stablecoin Development Corporation Common Stock (NYSE:SDEV)",
@@ -21,26 +41,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : Stablecoin.",
         "link": "https://www.globenewswire.com/news-release/2026/10/01/3372889/0/en/fiserv-digital-asset-platform-goes-live-with-financial-institution-clients-advancing-stablecoin-powered-banking-and-payments.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "European Crypto Advocates Challenge MiCA Stablecoin Rules",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T18:45:09.000Z",
-        "source": "Cointelegraph",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Stablecoin.",
-        "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Exodus Brings Stablecoins to Everyday Commerce, Starting With DIRECTV’s DGO",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T18:30:00.000Z",
-        "source": "markets.businessinsider.com",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : Stablecoins.",
-        "link": "https://markets.businessinsider.com/news/stocks/exodus-brings-stablecoins-to-everyday-commerce-starting-with-directv-s-dgo-1036591763"
       }
     ],
     "valuations": [
@@ -53,6 +53,16 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : valuation, overvalued.",
         "link": "https://www.gurufocus.com/news/9108041/on-semiconductor-on-shares-rise-58-amid-weak-september-jobs-report"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Crypto Biz: Kalshi, Blockchain.com and Crypto Treasury Valuations",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T15:32:53.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Valuations.",
+        "link": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations"
       },
       {
         "kind": "catalyst",
@@ -73,16 +83,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : valuation, P/E.",
         "link": "https://ca.finance.yahoo.com/news/h-r-block-hrb-stock-070738949.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Old Dominion Freight Line (ODFL) Could Be 33% Undervalued On Its Capacity Growth Story",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T02:08:20.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : valuation, overvalued.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/old-dominion-freight-line-odfl-160955221.html"
       }
     ],
     "nasdaq": [
@@ -140,6 +140,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Bitcoin Gains 'Cleanest Catalyst' as Bond Yields Drop on Weak US Jobs Data",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T15:27:31.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Bitcoin, BTC, CRYPTO:BTC.",
+        "link": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data"
+      },
+      {
+        "kind": "catalyst",
         "headline": "MSTR Stock Surges As MicroStrategy Doubles Down On Bitcoin",
         "date": "Oct 2, 2026",
         "publishedAt": "2026-10-02T12:54:26.000Z",
@@ -157,16 +167,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Bitcoin, BTC, MSTR.",
         "link": "https://www.timothysykes.com/news/strategy-inc-mstr-news-2026_10_02-2/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T11:22:40.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report"
       }
     ],
     "middle-east": [
@@ -320,6 +320,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "Micron, Crypto and Jobs: The Bull Market Just Got 3 New Catalysts",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T14:11:00.000Z",
+        "source": "Zacks Commentary",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : stock market, Bull Market.",
+        "link": "https://www.zacks.com/commentary/2999559/micron-crypto-and-jobs-the-bull-market-just-got-3-new-catalysts"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Here Are Friday’s Top Wall Street Analyst Research Calls: Abbott Laboratories, Airbnb, Cerebras Systems, Coinbase Global, Edison International, Northrop Grumman, Pershing Square…",
         "date": "Oct 2, 2026",
         "publishedAt": "2026-10-02T11:12:33.000Z",
@@ -347,16 +357,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : US Stocks.",
         "link": "https://simplywall.st/stocks/us/capital-goods/nyse-gic/global-industrial/news/3-cash-rich-us-stocks-built-for-higher-rates"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Press Releases about Davis Commodities Limited - Class A Ordinary Shares (Nasdaq:DTCK)",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T01:59:31.000Z",
-        "source": "FinancialContent",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.financialcontent.com/quote/NQ:DTCK/pressReleases"
       }
     ],
     "earnings": [
@@ -404,6 +404,16 @@
     "btc-real-yields": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin Gains 'Cleanest Catalyst' as Bond Yields Drop on Weak US Jobs Data",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T15:27:31.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Bond Yields.",
+        "link": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin Liquidity Thickens at $84,000 as US Bond Yields Cool",
         "date": "Oct 1, 2026",
         "publishedAt": "2026-10-01T15:55:19.000Z",
@@ -431,16 +441,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Bond Yields.",
         "link": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Aave leads DeFi higher as crypto shrugs off surging bond market",
-        "date": "Sep 29, 2026",
-        "publishedAt": "2026-09-29T10:28:51.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Treasury yield, 10-year.",
-        "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields"
       }
     ],
     "us10y": [
@@ -614,6 +614,16 @@
     "oil": [
       {
         "kind": "catalyst",
+        "headline": "Brent Crude Is Now Trading Above $100. What Does That Mean For the Crypto Market?",
+        "date": "Oct 3, 2026",
+        "publishedAt": "2026-10-03T00:00:00.000Z",
+        "source": "Motley Fool",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Brent, oil prices, Crude.",
+        "link": "https://www.fool.com/investing/2026/10/02/brent-crude-is-now-trading-above-100-what-does-tha/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Can Midstream Energy Firms Weather a Volatile Energy Market?",
         "date": "Oct 2, 2026",
         "publishedAt": "2026-10-02T12:02:35.000Z",
@@ -641,16 +651,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Petroleum.",
         "link": "https://www.moomoo.com/news/post/1000506499/occidental-petroleum-price-target-raised-to-69-00-share-from"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "RingCentral, Sprout Social, BlackLine, Sprinklr, and Cadence Design Systems Shares Are Soaring, What You Need To Know",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T20:20:50.000Z",
-        "source": "The Globe and Mail",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : crude oil, oil prices, crude.",
-        "link": "https://www.theglobeandmail.com/investing/markets/stocks/CDNS/pressreleases/4916037/ringcentral-sprout-social-blackline-sprinklr-and-cadence-design-systems-shares-are-soaring-what-you-need-to-know/"
       }
     ],
     "pce": [
@@ -776,6 +776,16 @@
     "cpi": [
       {
         "kind": "catalyst",
+        "headline": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T12:58:25.000Z",
+        "source": "Decrypt.co",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : CPI, inflation.",
+        "link": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k"
+      },
+      {
+        "kind": "catalyst",
         "headline": "MSTR Stock Outlook as Strategy CEO Questions MSCI’s Anti-Bitcoin Stance Ahead of November Rebalancing",
         "date": "Oct 1, 2026",
         "publishedAt": "2026-10-01T16:11:37.000Z",
@@ -803,16 +813,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : CPI, Consumer Price Index.",
         "link": "https://www.eagletribune.com/region/primerica-household-budget-index-hbi-middle-income-americans-see-modest-improvement-in-purchasing-power-in/article_f4dfaca1-da1f-5199-bc51-055a6d3ca98d.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Can government bond markets regain their poise?",
-        "date": "Sep 29, 2026",
-        "publishedAt": "2026-09-29T15:31:06.000Z",
-        "source": "UBS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : inflation data, inflation.",
-        "link": "https://www.ubs.com/us/en/wealth-management/insights/market-news/article.3792859.html"
       }
     ],
     "rate-expectations": [
@@ -970,6 +970,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T17:30:40.000Z",
+        "source": "Decrypt.co",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : jobs report.",
+        "link": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
         "date": "Oct 2, 2026",
         "publishedAt": "2026-10-02T14:45:25.000Z",
@@ -1012,6 +1022,16 @@
       }
     ],
     "btc-etf-flows": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin ETFs Return to Inflows as 'Uptober' Gets Underway",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T08:20:08.000Z",
+        "source": "Cointelegraph",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Bitcoin ETFs.",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
@@ -1093,6 +1113,30 @@
     ]
   },
   "seen": [
+    "https://www.fool.com/investing/2026/10/03/robinhood-ceo-vlad-tenev-says-crypto-will-lead-a-s/",
+    "https://www.fool.com/investing/2026/10/03/here-are-the-3-crucial-concepts-that-investors-nee/",
+    "https://www.fool.com/investing/2026/10/03/looking-for-a-crypto-etf-with-upside-potential-the/",
+    "https://www.fool.com/investing/2026/10/02/brent-crude-is-now-trading-above-100-what-does-tha/",
+    "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
+    "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion",
+    "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next",
+    "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations",
+    "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data",
+    "https://www.zacks.com/commentary/2999559/micron-crypto-and-jobs-the-bull-market-just-got-3-new-catalysts",
+    "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
+    "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack",
+    "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous",
+    "https://www.fool.com/investing/2026/10/02/3-superior-cryptocurrencies-to-buy-and-hold-for-10/",
+    "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain",
+    "https://www.fool.com/investing/2026/10/02/heres-why-im-buying-chainlink-link-right-now/",
+    "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher",
+    "https://www.fool.com/investing/2026/10/02/my-honest-opinion-of-shiba-inu/",
+    "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up",
+    "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+    "https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/",
+    "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes",
+    "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
+    "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
     "https://www.tradingview.com/news/u_today:4ca781de0094b:0-novogratz-says-bitcoin-may-end-2026-near-100k/",
     "https://www.stocktitan.net/sec-filings/BNC/8-k-cea-industries-inc-reports-material-event-10eed36970e8.html",
     "https://www.stocktitan.net/sec-filings/IPW/10-k-i-power-inc-files-annual-report-b19fb4c60405.html",
@@ -1468,30 +1512,6 @@
     "https://www.fool.com/investing/2026/09/29/jack-dorseys-block-is-looking-to-create-a-national/",
     "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge",
     "https://www.fool.com/investing/2026/09/29/bitmine-continues-to-load-up-on-ethereum-now-owns-4-9-of-all-eth-in-circulation-is-bmnr-stock-a-buy/",
-    "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
-    "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach",
-    "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach",
-    "https://www.fool.com/investing/2026/09/29/ethereums-new-glamsterdam-blockchain-upgrade-is-co/",
-    "https://www.zacks.com/stock/news/2997733/keel-stock-up-277-yy-can-the-momentum-last-throughout-2026",
-    "https://www.fool.com/coverage/better-buy/2026/09/29/cme-vs-robinhood-markets-which-financial-stock-is-a-better-buy-in-2026/",
-    "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
-    "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-    "https://www.fool.com/coverage/better-buy/2026/09/29/robinhood-markets-vs-morningstar-which-financial-stock-is-a-better-buy-in-2026/",
-    "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin",
-    "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares",
-    "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
-    "https://www.fool.com/investing/2026/09/29/better-crypto-buy-right-now-shiba-inu-vs-solana/",
-    "https://www.fool.com/investing/2026/09/29/whys-everyone-talking-about-circle-internet-group/",
-    "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp",
-    "https://www.fool.com/investing/2026/09/29/bernstein-forecasts-annual-prediction-market-volum/",
-    "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high",
-    "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio/.html",
-    "https://www.fool.com/investing/2026/09/29/blackrock-bold-prediction-about-ai-and-stablecoins/",
-    "https://www.gurufocus.com/news/9104415/pattersonuti-energy-inc-pten-shares-surge-35-what-gf-score-of-64-tells-investors",
-    "https://energized.edison.com/stories/sce-crews-stay-ready-for-extreme-heat",
-    "https://finance.yahoo.com/energy/articles/united-states-department-commerce-government-221800309.html",
-    "https://sg.finance.yahoo.com/news/4-overvalued-expeditors-international-washington-220907004.html",
-    "https://www.tipranks.com/news/company-announcements/valaris-transocean-merger-clears-key-u-s-regulatory-hurdle",
-    "https://www.ad-hoc-news.de/boerse/news/nachboerse/valero-energy-stock-after-hours-at-eur-342-00-plus-0-04-percent-versus/70206654"
+    "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record"
   ]
 }
