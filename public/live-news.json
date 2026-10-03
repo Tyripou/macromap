@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-10-02T22:13:09.335Z",
+  "updatedAt": "2026-10-03T05:17:38.041Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Press Releases about Stablecoin Development Corporation Common Stock (NYSE:SDEV)",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T03:53:49.000Z",
+        "source": "FinancialContent",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Stablecoin.",
+        "link": "https://www.financialcontent.com/quote/NY:SDEV/pressReleases"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Fiserv Digital Asset Platform Goes Live with Financial Institution Clients, Advancing Stablecoin-Powered Banking and Payments",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T02:53:24.000Z",
+        "source": "GlobeNewswire",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : Stablecoin.",
+        "link": "https://www.globenewswire.com/news-release/2026/10/01/3372889/0/en/fiserv-digital-asset-platform-goes-live-with-financial-institution-clients-advancing-stablecoin-powered-banking-and-payments.html"
+      },
       {
         "kind": "catalyst",
         "headline": "European Crypto Advocates Challenge MiCA Stablecoin Rules",
@@ -21,26 +41,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : Stablecoins.",
         "link": "https://markets.businessinsider.com/news/stocks/exodus-brings-stablecoins-to-everyday-commerce-starting-with-directv-s-dgo-1036591763"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Stablecoins Get a Boost As a New Fiserv Platform Goes Live",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T14:30:32.000Z",
-        "source": "Digital Transactions",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Stablecoins.",
-        "link": "https://www.digitaltransactions.net/stablecoins-get-a-boost-as-a-new-fiserv-platform-goes-live/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bloomberg Adds Stablecoin Analytics Powered by Allium",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T18:49:06.000Z",
-        "source": "Cointelegraph",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Stablecoin.",
-        "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief"
       }
     ],
     "valuations": [
@@ -53,6 +53,16 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : valuation, overvalued.",
         "link": "https://www.gurufocus.com/news/9108041/on-semiconductor-on-shares-rise-58-amid-weak-september-jobs-report"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Datavault AI CEO to Present \"Operating System for Tokenized Assets\" at XRP Seoul 2026",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T11:01:37.000Z",
+        "source": "ACCESS Newswire",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : valuation.",
+        "link": "https://www.accessnewswire.com/newsroom/en/blockchain-and-cryptocurrency/datavault-ai-ceo-to-present-%22operating-system-for-tokenized-assets-1230357"
       },
       {
         "kind": "catalyst",
@@ -73,16 +83,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : valuation, overvalued.",
         "link": "https://finance.yahoo.com/markets/stocks/articles/old-dominion-freight-line-odfl-160955221.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Riot Platforms Inc (RIOT) Stock Down 5.8% but Still Overvalued -- GF Score: 72/100",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T03:27:00.000Z",
-        "source": "GuruFocus",
-        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
-        "why": "L'article évoque : valuation, Overvalued.",
-        "link": "https://www.gurufocus.com/news/9104322/riot-platforms-inc-riot-stock-down-58-but-still-overvalued-gf-score-72100"
       }
     ],
     "nasdaq": [
@@ -108,23 +108,23 @@
       },
       {
         "kind": "catalyst",
-        "headline": "Evernorth Wins Shareholder Vote for Nasdaq XRP Treasury Listing",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T21:07:45.000Z",
-        "source": "Cointelegraph",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury"
+        "headline": "Strive, Inc. (NASDAQ:ASST) Stock Now Rated \"Moderate Buy\" by Wall Street Brokerages",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T07:57:57.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : NASDAQ.",
+        "link": "https://www.marketbeat.com/instant-alerts/consensus-strive-inc-nasdaq-asst-stock-now-rated-moderate-buy-by-wall-street-brokerages-2026-10-02/"
       },
       {
         "kind": "catalyst",
-        "headline": "Alpha Modus Holdings completes $250 million bitcoin PIPE transaction, regains Nasdaq compliance",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T15:55:10.000Z",
-        "source": "Investing.com",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.investing.com/news/sec-filings/alpha-modus-holdings-completes-250-million-bitcoin-pipe-transaction-regains-nasdaq-compliance-93CH-4927907"
+        "headline": "SMX Shares Jump 38.47% After Hours - SMX (Security Matters) (NASDAQ:SMX)",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T06:32:54.000Z",
+        "source": "Benzinga",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : NASDAQ.",
+        "link": "https://www.benzinga.com/markets/equities/26/10/62126697/smx-security-matters-shares-after-hours-truegold"
       }
     ],
     "btc": [
@@ -140,6 +140,26 @@
       },
       {
         "kind": "catalyst",
+        "headline": "MSTR Stock Surges As MicroStrategy Doubles Down On Bitcoin",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T12:54:26.000Z",
+        "source": "StocksToTrade",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Bitcoin, BTC, crypto.",
+        "link": "https://stockstotrade.com/news/strategy-inc-mstr-news-2026_10_02-3/"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "MSTR Stock Rallies As Bitcoin Buying Spree Accelerates",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T12:54:26.000Z",
+        "source": "Timothy Sykes",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Bitcoin, BTC, MSTR.",
+        "link": "https://www.timothysykes.com/news/strategy-inc-mstr-news-2026_10_02-2/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
         "date": "Oct 2, 2026",
         "publishedAt": "2026-10-02T11:22:40.000Z",
@@ -147,26 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T10:31:16.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, Crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Why rising perpetual funding rates signal growing bullish leverage as bitcoin crosses $86,500",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T09:14:21.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500"
       }
     ],
     "middle-east": [
@@ -330,6 +330,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Strive, Inc. (NASDAQ:ASST) Stock Now Rated \"Moderate Buy\" by Wall Street Brokerages",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T07:57:57.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.marketbeat.com/instant-alerts/consensus-strive-inc-nasdaq-asst-stock-now-rated-moderate-buy-by-wall-street-brokerages-2026-10-02/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "3 Cash Rich US Stocks Built For Higher Rates",
         "date": "Oct 2, 2026",
         "publishedAt": "2026-10-02T07:05:11.000Z",
@@ -340,26 +350,26 @@
       },
       {
         "kind": "catalyst",
-        "headline": "Lucid Group (LCID) Beats Stock Market Upswing: What Investors Need to Know",
+        "headline": "Press Releases about Davis Commodities Limited - Class A Ordinary Shares (Nasdaq:DTCK)",
         "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T01:26:22.000Z",
-        "source": "Yahoo Finance UK",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Stock Market.",
-        "link": "https://uk.finance.yahoo.com/news/lucid-group-lcid-beats-stock-211502503.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Evernorth Wins Shareholder Vote for Nasdaq XRP Treasury Listing",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T21:07:45.000Z",
-        "source": "Cointelegraph",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "publishedAt": "2026-10-02T01:59:31.000Z",
+        "source": "FinancialContent",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : Nasdaq.",
-        "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury"
+        "link": "https://www.financialcontent.com/quote/NQ:DTCK/pressReleases"
       }
     ],
     "earnings": [
+      {
+        "kind": "catalyst",
+        "headline": "JPMorgan Chase & Co. Has Lowered Expectations for Citigroup (NYSE:C) Stock Price",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T17:22:19.000Z",
+        "source": "MarketBeat",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : earnings, EPS.",
+        "link": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-citigroup-nyse-c-stock-price-2026-10-02/"
+      },
       {
         "kind": "catalyst",
         "headline": "Plains All American Pipeline and Plains GP Holdings Announce Quarterly Distributions and Timing of Third Quarter 2026 Earnings",
@@ -389,16 +399,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : quarterly results, EPS.",
         "link": "https://www.marketbeat.com/instant-alerts/price-energy-transfer-nyse-et-stock-jumps-17-heres-what-happened-2026-10-01/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "The Home Depot, Inc. (NYSE:HD) Stock Has Consensus Target Price of $375.18 According to Brokerages",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T06:46:56.000Z",
-        "source": "MarketBeat",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : earnings, EPS, guidance.",
-        "link": "https://www.marketbeat.com/instant-alerts/consensus-the-home-depot-inc-nyse-hd-stock-has-consensus-target-price-of-37518-according-to-brokerages-2026-10-01/"
       }
     ],
     "btc-real-yields": [
@@ -1093,6 +1093,52 @@
     ]
   },
   "seen": [
+    "https://www.tradingview.com/news/u_today:4ca781de0094b:0-novogratz-says-bitcoin-may-end-2026-near-100k/",
+    "https://www.stocktitan.net/sec-filings/BNC/8-k-cea-industries-inc-reports-material-event-10eed36970e8.html",
+    "https://www.stocktitan.net/sec-filings/IPW/10-k-i-power-inc-files-annual-report-b19fb4c60405.html",
+    "https://www.marketscreener.com/news/ipower-annual-report-for-fiscal-year-ending-june-30-2026-form-10-k-ce785ddbd880f623",
+    "https://au.investing.com/news/stock-market-news/pltr-and-mstr-as-a-pairs-trade-what-the-data-shows-93CH-4670974",
+    "https://www.stocktitan.net/sec-filings/COIN/144-coinbase-global-inc-sec-filing-a522c9df1350.html",
+    "https://stocktwits.com/news-articles/markets/equity/hive-stock-columbia-paraguay-ai-gpus/cZKt6nlR7Bz",
+    "https://www.tokenpost.com/news/business/26453",
+    "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-has-lowered-expectations-for-citigroup-nyse-c-stock-price-2026-10-02/",
+    "https://pluang.com/en/news-feed/strategi-naik-30-dalam-sebulan-citigroup-gandakan-target-harga-mstr",
+    "https://247wallst.com/investing/2026/10/02/strategy-is-up-30-in-a-month-and-citigroup-just-doubled-its-price-target-to-240-is-it-time-to-buy-mstr-stock-now/",
+    "https://pluang.com/en/news-feed/tera-wulf-melonjak-7-persen-saham-digital-power-menguat",
+    "https://finance.yahoo.com/markets/stocks/articles/terawulf-spikes-7-digital-power-145817144.html",
+    "https://www.altcoinbuzz.io/cardano-defi-falls-as-realfi-launches-credit-tokens",
+    "https://pluang.com/en/news-feed/first-financial-bancorp-umumkan-hasil-keuangan-kuartal-iii-2026",
+    "https://247wallst.com/investing/2026/10/02/a-father-of-three-told-michael-saylor-the-219000-he-had-invested-inmicrostrategy-was-down-to-60000-the-stock-has-risen-35-67-in-the-past-month/",
+    "https://finance.yahoo.com/markets/stocks/articles/father-told-michael-saylor-219-142407315.html",
+    "https://cryptorank.io/price/accenture-plc-class-a-ordinary-shares-derivatives/exchanges",
+    "https://fxnewsgroup.com/forex-news/cryptocurrency/webull-partners-with-x-to-serve-as-cashtag-partner-for-stocks-and-crypto-trading/",
+    "https://www.moomoo.com/news/flash/1000556243/webull-corp-to-serve-as-cashtag-partner-for-stocks-and",
+    "https://cryptoslate.com/cardanos-defi-has-shrunk-by-more-than-half-and-realfi-is-betting-credit-can-revive-it/",
+    "https://www.tradingview.com/news/tradingview:2e5a0232c132c:0-forward-industries-boosts-sol-holdings-to-8-5m-nav-rises-to-870m/",
+    "https://www.timothysykes.com/news/strategy-inc-mstr-news-2026_10_02-2/",
+    "https://stockstotrade.com/news/strategy-inc-mstr-news-2026_10_02-3/",
+    "https://www.timothysykes.com/news/stablecoin-development-corporation-sdev-news-2026_10_02-3/",
+    "https://www.timothysykes.com/news/stablecoin-development-corporation-sdev-news-2026_10_02-2/",
+    "https://stockstotrade.com/news/stablecoin-development-corporation-sdev-news-2026_10_02-3/",
+    "https://www.timothysykes.com/news/cypherpunk-technologies-inc-cyph-news-2026_10_02/",
+    "https://cryptorank.io/price/accenture-plc-class-a-ordinary-shares-derivatives",
+    "https://www.marketscreener.com/news/certain-warrants-of-datacentrex-inc-are-subject-to-a-lock-up-agreement-ending-on-2-oct-2026-ce785ddadd8afe2c",
+    "https://www.benzinga.com/trading-ideas/movers/26/10/62130741/strive-stock-rises-as-bitcoins-rally-lifts-its-1-8-billion-treasury",
+    "https://stockstotrade.com/news/stablecoin-development-corporation-sdev-news-2026_10_02/",
+    "https://www.investing.com/news/analyst-ratings/clear-street-maintains-hold-on-mara-holdings-stock-10-target-93CH-4929509",
+    "https://www.accessnewswire.com/newsroom/en/blockchain-and-cryptocurrency/datavault-ai-ceo-to-present-%22operating-system-for-tokenized-assets-1230357",
+    "https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-as-cardano-rallies-b9c5e210-14baee80f841",
+    "https://www.marketbeat.com/instant-alerts/consensus-strive-inc-nasdaq-asst-stock-now-rated-moderate-buy-by-wall-street-brokerages-2026-10-02/",
+    "https://www.benzinga.com/markets/equities/26/10/62126697/smx-security-matters-shares-after-hours-truegold",
+    "https://www.valuethemarkets.com/news/press-releases/the-age-of-parity-has-a-passport-smx-has-the-stamp",
+    "https://www.fxstreet.com/cryptocurrencies/news/cardano-price-forecast-ada-bulls-gain-traction-on-japan-adoption-deal-202610020516",
+    "https://www.benzinga.com/markets/equities/26/10/62126197/alpha-modus-holdings-shares-after-hours-bitcoin-private-placement",
+    "https://www.financialcontent.com/quote/NY:SDEV/pressReleases",
+    "https://www.globenewswire.com/news-release/2026/10/01/3372889/0/en/fiserv-digital-asset-platform-goes-live-with-financial-institution-clients-advancing-stablecoin-powered-banking-and-payments.html",
+    "https://www.financialcontent.com/quote/NQ:DTCK/pressReleases",
+    "https://www.bitget.com/amp/news/detail/12560605900056",
+    "https://grafa.com/en/quote/us-nasdaq/fgcpp",
+    "https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm",
     "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
     "https://www.reuters.com/legal/litigation/abbvie-joins-us-government-pilot-test-drug-discount-rebates-2026-10-02/",
     "https://www.gurufocus.com/news/9108041/on-semiconductor-on-shares-rise-58-amid-weak-september-jobs-report",
@@ -1446,52 +1492,6 @@
     "https://finance.yahoo.com/energy/articles/united-states-department-commerce-government-221800309.html",
     "https://sg.finance.yahoo.com/news/4-overvalued-expeditors-international-washington-220907004.html",
     "https://www.tipranks.com/news/company-announcements/valaris-transocean-merger-clears-key-u-s-regulatory-hurdle",
-    "https://www.ad-hoc-news.de/boerse/news/nachboerse/valero-energy-stock-after-hours-at-eur-342-00-plus-0-04-percent-versus/70206654",
-    "https://www.arkansasonline.com/news/2026/sep/30/entergy-receives-137m-in-federal-funds-for-power/",
-    "https://www.bizjournals.com/albuquerque/news/2026/09/30/albuquerque-costco-car-wash-gas-station-expansion.html",
-    "https://sg.finance.yahoo.com/news/solaredge-technologies-sedg-increases-despite-211503889.html",
-    "https://www.thetravel.com/delta-air-lines-limiting-ai-on-flights-one-internet-giant-thinks-so/",
-    "https://pluang.com/en/news-feed/kontribusi-con-edison-untuk-pertumbuhan-ekonomi-dan-pekerjaan-di-new-york-2025",
-    "https://www.ad-hoc-news.de/boerse/news/nachboerse/pseg-stock-after-hours-at-eur-59-67-plus-0-35-percent-versus-prior-close/70206222",
-    "https://www.mlex.com/mlex/articles/2532375/transocean-valaris-receive-us-antitrust-approval",
-    "https://www.stocktitan.net/news/CEG/constellation-and-amazon-announce-20-year-power-purchase-agreement-syl5v0l2jbdk.html",
-    "https://sg.finance.yahoo.com/news/plug-power-plug-increases-despite-205005632.html",
-    "https://biomassmagazine.com/articles/delta-georgia-leaders-unite-to-accelerate-saf-growth",
-    "https://www.bizjournals.com/memphis/news/2026/09/30/fedex-harbinger-ev-truck-order.html",
-    "https://www.ad-hoc-news.de/boerse/news/nachboerse/csx-stock-after-hours-at-eur-40-75-minus-1-59-percent-after-the-xetra/70206609",
-    "https://pluang.com/en/news-feed/con-edison-presentasi-hubungan-investor-6-oktober",
-    "https://www.inc.com/kit-eaton/att-ceo-elon-musk-starlink-phone/91412993",
-    "https://au.finance.yahoo.com/news/paccar-pcar-registers-bigger-fall-210005118.html",
-    "https://uk.investing.com/news/stock-market-news/mdu-resources-approves-3-billion-bakken-east-pipeline-project-93CH-4890350",
-    "https://finance.yahoo.com/energy/articles/rio-tinto-tasmanian-government-commonwealth-210000952.html",
-    "https://ca.finance.yahoo.com/news/saia-wreaths-across-america-team-204400722.html",
-    "https://www.microgridknowledge.com/utility-microgrids/article/55408919/triple-threat-pumped-storage-hydro-plus-solar-storage-and-biofuel-microgrids-supported-by-73-million-in-pge-funding",
-    "https://gary.capitalbnews.org/nipsco-statehouse-committee-hearing/",
-    "https://finance.yahoo.com/markets/stocks/articles/prediction-invest-10-000-uber-202500598.html",
-    "https://www.ad-hoc-news.de/boerse/news/nachboerse/consolidated-edison-stock-after-hours-at-eur-90-38-minus-0-82-percent/70206470",
-    "https://www.prnewswire.com/news-releases/dover-operating-companies-to-present-latest-technologies-and-solutions-at-premier-convenience-and-fuel-retail-trade-show-302894574.html",
-    "https://www.wtvr.com/news/local-news/regulators-approved-dominion-energys-plan-to-recover-1b-in-fuel-costs",
-    "https://www.ad-hoc-news.de/boerse/news/nachboerse/duke-energy-stock-after-hours-at-eur-100-90-plus-0-30-percent-versus/70205967",
-    "https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-dal-could-200935877.html",
-    "https://www.marketbeat.com/instant-alerts/options-star-bulk-carriers-corp-nasdaq-sblk-stock-short-interest-jumps-614-2026-09-30/",
-    "https://www.ad-hoc-news.de/boerse/news/nachboerse/conocophillips-stock-after-hours-at-eur-111-47-plus-0-79-percent-versus/70205846",
-    "https://www.benzinga.com/etfs/specialty-etfs/26/09/62091957/boeing-navy-20b-puts-this-etfs-defense-opportunity",
-    "https://www.ad-hoc-news.de/boerse/news/nachboerse/3m-stock-after-hours-at-eur-147-40-minus-0-54-percent-versus-prior-close/70205792",
-    "https://www.ad-hoc-news.de/boerse/news/nachboerse/grifols-stock-after-hours-at-eur-9-57-plus-0-63-percent-after-the-xetra/70205732",
-    "https://www.benzinga.com/markets/market-summary/26/09/62091205/crude-oil-rises-over-1-conagra-brands-earnings-top-views",
-    "https://constructionreviewonline.com/10-6-gw-ameren-missouri-gas-additions-drive-31-8bn-capital-push-in-20-year-construction-plan/",
-    "https://www.reuters.com/legal/government/sec-clears-tesla-crafted-auto-vote-plan-wide-use-worrying-activists-2026-09-30/",
-    "https://247wallst.com/investing/2026/09/30/which-automaker-stock-dominated-in-september-tesla-ford-or-general-motors/",
-    "https://investors.boeing.com/investors/news/press-release-details/2026/Ethiopian-Airlines-Orders-Boeing-777-and-777-8-Freighters-to-Expand-Cargo-Fleet/default.aspx",
-    "https://simplywall.st/stocks/us/capital-goods/nasdaq-ftai/ftai-aviation/news/737-deal-might-change-the-case-for-investing-in-ftai-aviatio",
-    "https://uk.investing.com/news/stock-market-news/freedom-broker-initiates-matson-stock-coverage-with-buy-rating-93CH-4890201",
-    "https://www.ad-hoc-news.de/boerse/news/nachboerse/nextera-energy-stock-after-hours-at-eur-67-11-plus-0-13-percent-after-the/70206012",
-    "https://finance.biggo.com/news/1f0acc27-0150-470a-98a8-1b6d19635406",
-    "https://kalkine.com.au/company/nasdaq-ethb/",
-    "https://www.ftfnews.com/video/broadridge-24-7-tokenized-markets/",
-    "https://stockstotrade.com/news/lion-group-holding-ltd-lghl-news-2026_09_30-3/",
-    "https://www.tradingview.com/news/stocktwits:d37a117b0094b:0-robinhood-stock-falls-despite-bullish-wall-street-reaction-to-hood-summit-morgan-stanley-eyes-two-key-products/",
-    "https://finance.yahoo.com/markets/stocks/articles/robinhood-stock-falls-despite-bullish-150724603.html",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/mei-pharma-stock-becomes-lite-strategy-as-loss-reaches-usd-71-15-million/70204190"
+    "https://www.ad-hoc-news.de/boerse/news/nachboerse/valero-energy-stock-after-hours-at-eur-342-00-plus-0-04-percent-versus/70206654"
   ]
 }
