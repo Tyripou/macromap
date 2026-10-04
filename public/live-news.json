@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T12:20:05.115Z",
+  "updatedAt": "2026-10-04T18:38:56.693Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -130,6 +130,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+        "date": "Oct 4, 2026",
+        "publishedAt": "2026-10-04T15:01:03.000Z",
+        "source": "Decrypt.co",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Bitcoin, BTC, CRYPTO:BTC.",
+        "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Coinbase CEO Brian Armstrong Says Bitcoin Has Hit a Bottom. History Says He's Close.",
         "date": "Oct 3, 2026",
         "publishedAt": "2026-10-03T17:43:00.000Z",
@@ -157,16 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Crypto.",
         "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin (BTC) Generates No Yield, Michael Saylor Explains How Strategy ($MSTR) Sources the Cash for Dividends",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T12:01:00.000Z",
-        "source": "Crowdfund Insider",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bitcoin, BTC, MSTR.",
-        "link": "https://www.crowdfundinsider.com/2026/10/315236-bitcoin-btc-generates-no-yield-michael-saylor-explains-how-strategy-mstr-sources-the-cash-for-dividends/"
       }
     ],
     "middle-east": [
@@ -320,6 +320,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "Tom Lee's Bitmine Is Buying Ethereum Hand Over Fist. Is the Long-Awaited Crypto Bull Market Finally Here?",
+        "date": "Oct 4, 2026",
+        "publishedAt": "2026-10-04T08:31:00.000Z",
+        "source": "Motley Fool",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : Bull Market.",
+        "link": "https://www.fool.com/investing/2026/10/04/tom-lees-bitmine-is-buying-ethereum-hand-over-fist/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Forum Markets (Nasdaq:FRMM) - Aandelenanalyse",
         "date": "Oct 3, 2026",
         "publishedAt": "2026-10-03T17:54:34.000Z",
@@ -347,16 +357,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
         "why": "L'article évoque : Dow Jones.",
         "link": "https://www.moomoo.com/news/post/1000571621/dow-jones-top-company-headlines-at-7-pm-et-tesla"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bond Volatility Could Determine How S&P 500 Breadth Gap Closes, Morgan Stanley Says",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T14:42:23.000Z",
-        "source": "Yahoo Finance UK",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : S&P.",
-        "link": "https://uk.finance.yahoo.com/news/bond-volatility-could-determine-p-144334476.html"
       }
     ],
     "earnings": [
@@ -456,6 +456,16 @@
       },
       {
         "kind": "catalyst",
+        "headline": "Stock Market Today: S&P 500 Slips as Micron Fails to Impress, 10-Year Yields Ease to 5.25%",
+        "date": "Oct 2, 2026",
+        "publishedAt": "2026-10-02T12:40:23.000Z",
+        "source": "Benzinga",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : 10-Year Yield, Treasury yield, 10-Year.",
+        "link": "https://www.benzinga.com/markets/equities/26/10/62114603/sp-500-slips-micron-fails-to-impress-markets-thursday"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Spanning More Than 30 Counties, PG&E Files 10-Year Electrical Undergrounding Plan to Deliver Permanent Wildfire Protection and Improve Safety, Reliability and Affordability",
         "date": "Oct 2, 2026",
         "publishedAt": "2026-10-02T12:30:39.000Z",
@@ -473,19 +483,19 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : 10-year Treasury, Treasury yield, 10-year.",
         "link": "https://simplywall.st/stocks/us/banks/nasdaq-frme/first-merchants/news/3-us-bank-stocks-investors-are-watching-as-higher-rates-resh"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "US Bank Stocks Investors Are Watching As Higher Treasury Yields Reshape Margins",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T05:42:24.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Treasury Yields.",
-        "link": "https://simplywall.st/stocks/us/banks/nyse-amtb/amerant-bancorp/news/us-bank-stocks-investors-are-watching-as-higher-treasury-yie"
       }
     ],
     "btc-regulation": [
+      {
+        "kind": "catalyst",
+        "headline": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+        "date": "Oct 4, 2026",
+        "publishedAt": "2026-10-04T13:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Clarity Act, Senate.",
+        "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet"
+      },
       {
         "kind": "catalyst",
         "headline": "Possible next crypto czar, Jay Clayton, began crypto's regulation-by-enforcement at SEC",
@@ -515,16 +525,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : SEC.",
         "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T15:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : CLARITY Act.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway"
       }
     ],
     "fed": [
@@ -1044,6 +1044,16 @@
     "btc-etf-flows": [
       {
         "kind": "catalyst",
+        "headline": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+        "date": "Oct 4, 2026",
+        "publishedAt": "2026-10-04T15:01:03.000Z",
+        "source": "Decrypt.co",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Bitcoin ETFs, Spot Bitcoin ETFs.",
+        "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin ETFs Return to Inflows as 'Uptober' Gets Underway",
         "date": "Oct 2, 2026",
         "publishedAt": "2026-10-02T08:20:08.000Z",
@@ -1071,16 +1081,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Bitcoin ETFs, spot ETFs.",
         "link": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T17:27:43.000Z",
-        "source": "Decrypt.co",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bitcoin ETFs.",
-        "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally"
       }
     ],
     "oil-geo": [
@@ -1133,6 +1133,30 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+    "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+    "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+    "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+    "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+    "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
+    "https://www.fool.com/investing/2026/10/04/tom-lees-bitmine-is-buying-ethereum-hand-over-fist/",
+    "https://www.fool.com/investing/2026/10/04/robinhood-plans-to-let-customers-trade-stocks-on-weekends-here-s-what-that-could-do-for-its-revenue/",
+    "https://www.benzinga.com/markets/equities/26/10/62114603/sp-500-slips-micron-fails-to-impress-markets-thursday",
+    "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express",
+    "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+    "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
+    "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
+    "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+    "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
+    "https://www.fool.com/investing/2026/10/01/3-high-yield-financial-stocks-to-buy-in-october/",
+    "https://markets.businessinsider.com/news/stocks/btcnow-launches-new-pay-over-time-model-for-bitcoin-ownership-1036590310",
+    "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs",
+    "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+    "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+    "https://www.zacks.com/stock/news/2998765/can-hood-summit-2026-power-robinhoods-next-growth-leg",
+    "https://www.fool.com/investing/2026/10/01/can-bitcoin-reach-100000-by-the-end-of-the-year/",
+    "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data",
+    "https://finance.yahoo.com/markets/options/articles/traded-qqq-etf-20x-gain-201740902.html",
     "https://finance.yahoo.com/markets/crypto/articles/cardano-realfi-pays-9-stablecoins-211203637.html",
     "https://www.benzinga.com/markets/equities/26/10/62151785/tom-lees-bitmine-stock-flashes-a-golden-cross-as-ethereum-buying-nears-an-inflection-point",
     "https://finance.biggo.com/news/af0497b5-c30d-4e52-9969-80e90519cdd4",
@@ -1508,30 +1532,6 @@
     "https://www.rigzone.com/news/chevron_replenishes_exploration_stake_in_namibian_orange_basin-02-oct-2026-184756-article/",
     "https://ca.investing.com/news/stock-market-news/jefferies-downgrades-edison-international-stock-rating-on-fire-liability-concerns-93CH-4863540",
     "https://www.globaltrademag.com/fedex-completes-sale-of-fedex-supply-chain-to-cma-cgm-group/",
-    "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-    "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-    "https://wtvbam.com/2026/10/02/987292/",
-    "https://in.investing.com/news/stock-market-news/freedom-broker-initiates-allison-transmission-stock-coverage-with-buy-rating-93CH-5616082",
-    "https://www.marketbeat.com/instant-alerts/filing-envestnet-asset-management-inc-acquires-28474-shares-of-apa-corporation-apa-2026-10-02/",
-    "https://simplywall.st/stocks/us/capital-goods/nasdaq-hon/honeywell-international/news/how-kenya-refinery-contract-will-impact-honeywell-hon-invest",
-    "https://www.insurancejournal.com/news/west/2026/10/02/887661.htm",
-    "https://www.theglobeandmail.com/investing/markets/stocks/VST/pressreleases/4920578/palantir-billionaire-peter-thiel-has-42-of-his-portfolio-in-these-2-artificial-intelligence-stocks/",
-    "https://simplywall.st/stocks/us/capital-goods/nasdaq-adse/ads-tec-energy/news/ads-tec-energy-adse-stock-sinks-as-losses-swamp-shrinking-re",
-    "https://www.gurufocus.com/news/9106635/sm-energy-co-sm-shares-surge-38-what-gf-score-of-81-tells-investors",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/j-b-hunt-sets-october-15-date-j-b-hunt-transport-services-stock-is/70213933",
-    "https://www.kplctv.com/2026/10/02/police-jurors-deny-tax-reduction-requests-phillips-66-venture-global/",
-    "https://www.tradingview.com/symbols/FINRA-VLO.HA/profile/",
-    "https://simplywall.st/stocks/us/semiconductors/nasdaq-fslr/first-solar/news/first-solar-fslr-stock-may-be-46-undervalued-on-pricing-pres",
-    "https://finance.yahoo.com/markets/stocks/articles/old-dominion-freight-line-odfl-160955221.html",
-    "https://in.investing.com/news/stock-market-news/matador-resources-closes-126-billion-paloma-acquisition-93CH-5615612",
-    "https://www.moneycontrol.com/news/business/elon-musk-warns-delta-ceo-will-lose-his-job-over-starlink-snub-14043214.html",
-    "https://uk.finance.yahoo.com/news/lucid-group-lcid-beats-stock-211502503.html",
-    "https://finance.yahoo.com/markets/stocks/articles/old-dominion-freight-line-odfl-210702605.html",
-    "https://www.sfchronicle.com/bayarea/article/sausalito-power-outage-22458727.php",
-    "https://www.investing.com/news/stock-market-news/totalenergies-plans-10-billion-investment-in-argentina-ceo-says-4927613",
-    "https://nypost.com/2026/10/01/business/california-launches-first-autonomous-freight-pilot-with-kodiak-ai/",
-    "https://www.slb.com/zh-cn/products-and-services/scaling-new-energy-systems/carbon-capture-utilization-and-sequestration/carbon-storage/huccsar",
-    "https://markets.businessinsider.com/news/stocks/remittix-announces-november-24-rtx-launch-as-cardano-advances-petrobras-fuel-research-and-near-intents-responds-to-bitget-hack-1036591795",
-    "https://www.tradingview.com/news/seekingalpha:6b71db041094b:0-venture-global-signs-20-year-lng-supply-deal-with-conocophillips/"
+    "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade"
   ]
 }
