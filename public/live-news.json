@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:00:49.515Z",
+  "updatedAt": "2026-10-06T06:18:59.136Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -46,6 +46,26 @@
     "valuations": [
       {
         "kind": "catalyst",
+        "headline": "Delta Air Lines (DAL), Why Is It Back In The Spotlight?",
+        "date": "Oct 6, 2026",
+        "publishedAt": "2026-10-06T00:52:21.000Z",
+        "source": "Simply Wall Street",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
+        "why": "L'article évoque : valuation, overvalued.",
+        "link": "https://simplywall.st/stocks/us/transportation/nyse-dal/delta-air-lines/news/delta-air-lines-dal-why-is-it-back-in-the-spotlight"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Arch Capital Group (ACGL) Stock Could Be A Bargain As Earnings Matter Most",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T23:10:54.000Z",
+        "source": "Simply Wall Street",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : valuation, P/E.",
+        "link": "https://simplywall.st/stocks/us/insurance/nasdaq-acgl/arch-capital-group/news/arch-capital-group-acgl-stock-could-be-a-bargain-as-earnings"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Coinbase vs. Intercontinental: Which Exchange Stock Has an Edge?",
         "date": "Oct 5, 2026",
         "publishedAt": "2026-10-05T17:51:26.000Z",
@@ -63,29 +83,19 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : valuation.",
         "link": "https://za.investing.com/news/stock-market-news/clear-street-initiates-bitzero-stock-with-buy-rating-on-power-assets-93CH-4489702"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Alibaba vs. Uber Technologies: Which Stock Is a Better Buy in 2026?",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T13:32:54.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : valuation.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-vs-uber-technologies-stock-133250647.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Morgan Stanley bullish on Continental as tyre margins and cash returns rise",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T10:38:10.000Z",
-        "source": "Yahoo Finance Singapore",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : valuation.",
-        "link": "https://sg.finance.yahoo.com/news/morgan-stanley-bullish-continental-tyre-103822405.html"
       }
     ],
     "nasdaq": [
+      {
+        "kind": "catalyst",
+        "headline": "Why It’s So Frustrating Being A Micron Bull These Days (NASDAQ:MU)",
+        "date": "Oct 6, 2026",
+        "publishedAt": "2026-10-06T00:13:04.000Z",
+        "source": "Seeking Alpha",
+        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
+        "why": "L'article évoque : NASDAQ, QQQ.",
+        "link": "https://seekingalpha.com/article/4952084-why-it-s-so-frustrating-being-a-micron-bull-these-days"
+      },
       {
         "kind": "catalyst",
         "headline": "What's Going On With TeraWulf Stock Monday? - TeraWulf (NASDAQ:WULF)",
@@ -115,19 +125,29 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
         "why": "L'article évoque : NASDAQ.",
         "link": "https://ca.investing.com/news/stock-market-news/evercore-isi-cuts-align-technology-stock-rating-on-weak-demand-93CH-4865350"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "MARA Holdings: The Bitcoin No Longer Covers The Debt (NASDAQ:MARA)",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T09:59:57.000Z",
-        "source": "Seeking Alpha",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
-        "why": "L'article évoque : NASDAQ.",
-        "link": "https://seekingalpha.com/article/4951923-mara-the-bitcoin-no-longer-covers-the-debt"
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
+        "date": "Oct 6, 2026",
+        "publishedAt": "2026-10-06T04:55:36.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+        "date": "Oct 6, 2026",
+        "publishedAt": "2026-10-06T04:41:10.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records"
+      },
       {
         "kind": "catalyst",
         "headline": "Morgan Stanley's Bitcoin fund holds over 10,500 BTC, valued near $904M as of early October.",
@@ -147,26 +167,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Bitcoin, BTC, crypto.",
         "link": "https://www.tradingview.com/news/seekingalpha:26c092f6d094b:0-metaplanet-ends-q3-at-44k-btc-builds-mstr-style-income-play/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T12:51:42.000Z",
-        "source": "Decrypt.co",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Bitcoin, BTC, CRYPTO:BTC.",
-        "link": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T15:01:03.000Z",
-        "source": "Decrypt.co",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bitcoin, BTC, CRYPTO:BTC.",
-        "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million"
       }
     ],
     "middle-east": [
@@ -182,6 +182,26 @@
       }
     ],
     "gold": [
+      {
+        "kind": "catalyst",
+        "headline": "Eldorado Gold (TSX:ELD): Is Skouries Production Finally Near?",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T21:30:23.000Z",
+        "source": "Kalkine Media",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Gold.",
+        "link": "https://kalkinemedia.com/ca/stocks/gold/eldorado-gold-tsxeld-is-skouries-production-finally-near"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Kinross Gold Corporation (TSX:K): Can Strength Offset Lower Guidance?",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T21:23:27.000Z",
+        "source": "Kalkine Media",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : Gold.",
+        "link": "https://kalkinemedia.com/ca/stocks/gold/kinross-gold-corporation-tsxk-can-strength-offset-lower-guidance"
+      },
       {
         "kind": "catalyst",
         "headline": "The Gold M&A Wave Will Create 10-Baggers | Tim Clark – Fury Gold Mines",
@@ -201,26 +221,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Gold.",
         "link": "https://finance.yahoo.com/markets/commodities/articles/caledonia-mining-targets-200-000-110205375.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Why Is Seabridge Gold Stock Down 3.12% as KSM Project Milestones Stay in Focus? [TSX:SEA]",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T15:50:20.000Z",
-        "source": "kalkine.ca",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Gold.",
-        "link": "https://kalkine.ca/news/mining/why-is-seabridge-gold-stock-down-312-as-ksm-project-milestones-stay-in-focus-tsxsea"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Morgan Stanley's Gower sees $4,000 as a strong floor for gold, cites three supports",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T07:42:18.000Z",
-        "source": "investingLive",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : gold.",
-        "link": "https://investinglive.com/commodities/morgan-stanley-s-gower-sees-4-000-as-a-strong-floor-for-gold-cites-three-supports/"
       }
     ],
     "btc-risk-appetite": [
@@ -268,6 +268,16 @@
     "spx": [
       {
         "kind": "catalyst",
+        "headline": "Lennar Plunges 22% YTD: Can the Stock Rebound in the Near Future?",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T13:52:48.000Z",
+        "source": "TradingView",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
+        "why": "L'article évoque : S&P 500.",
+        "link": "https://www.tradingview.com/news/zacks:1f8b1f26d094b:0-lennar-plunges-22-ytd-can-the-stock-rebound-in-the-near-future/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "If You Invested $1000 in United Rentals a Decade Ago, This is How Much It'd Be Worth Now",
         "date": "Oct 5, 2026",
         "publishedAt": "2026-10-05T11:13:15.000Z",
@@ -295,19 +305,19 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : S&P 500.",
         "link": "https://au.finance.yahoo.com/quote/SBET/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bond Volatility Could Determine How S&P 500 Breadth Gap Closes, Morgan Stanley Says",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T14:42:23.000Z",
-        "source": "Yahoo Finance UK",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : S&P 500.",
-        "link": "https://uk.finance.yahoo.com/news/bond-volatility-could-determine-p-144334476.html"
       }
     ],
     "equities": [
+      {
+        "kind": "catalyst",
+        "headline": "VALE Stock Draws Wall Street Upgrades As China Funding Plans Emerge",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T20:24:30.000Z",
+        "source": "StocksToTrade",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://stockstotrade.com/news/vale-sa-vale-news-2026_10_05-2/"
+      },
       {
         "kind": "catalyst",
         "headline": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
@@ -337,19 +347,19 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://247wallst.com/investing/2026/10/05/here-are-mondays-top-wall-street-analyst-research-calls-align-technology-autonation-estee-lauder-harley-davidson-hubspot-microsoft-mosaic-ryder-system-wells-fargo-company-and-more/?tpid=1673869&tv=link&tc=in_content"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "S&P Global launches Vault Risk Assessment to provide independent risk insights for digital asset lending vaults.",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T00:42:13.000Z",
-        "source": "Pluang",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : S&P.",
-        "link": "https://pluang.com/en/news-feed/sp-global-ratings-luncurkan-vault-risk-assessment-untuk-pasar-aset-digital"
       }
     ],
     "earnings": [
+      {
+        "kind": "catalyst",
+        "headline": "Why Is Bank of America (NYSE:BAC) in Focus as Earnings Season Nears?",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T14:30:00.000Z",
+        "source": "Kalkine Media",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Earnings Season, Earnings.",
+        "link": "https://kalkinemedia.com/us/stocks/financial/why-is-bank-of-america-nysebac-in-focus-as-earnings-season-nears"
+      },
       {
         "kind": "catalyst",
         "headline": "Keurig Dr Pepper Q2 2026 Earnings Call Transcript",
@@ -379,16 +389,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
         "why": "L'article évoque : earnings, EPS.",
         "link": "https://www.tradingview.com/news/tradingview:a29d3c62fb51f:0-weekly-recap-sept-deliveries-down-6-3-and-nov-25-earnings-report/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "PPL Corporation stock holds at USD 32.80 as guidance stays intact",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T21:11:00.000Z",
-        "source": "AD HOC NEWS",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : earnings, EPS, guidance.",
-        "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ppl-corporation-stock-holds-at-usd-32-80-as-guidance-stays-intact/70228593"
       }
     ],
     "btc-real-yields": [
@@ -436,6 +436,26 @@
     "us10y": [
       {
         "kind": "catalyst",
+        "headline": "Schwab trading activity index rises in September",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T16:46:40.000Z",
+        "source": "Investing.com",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : 10-year Treasury, Treasury yield, 10-year.",
+        "link": "https://www.investing.com/news/company-news/schwab-trading-activity-index-rises-in-september-93CH-4932616"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Middle Market Debt Weekly: Fed Hikes, 10-Year Treasury Hovers Near 5.3%",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T08:28:34.000Z",
+        "source": "ABF Journal",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : 10-Year Treasury, 10-Year.",
+        "link": "https://www.abfjournal.com/middle-market-debt-weekly-fed-hikes-10-year-treasury-hovers-near-5-3/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "3 US Life Insurer Stocks That Could Benefit From Higher Treasury Yields",
         "date": "Oct 4, 2026",
         "publishedAt": "2026-10-04T06:55:28.000Z",
@@ -453,26 +473,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Treasury Yields.",
         "link": "https://www.bny.com/investments/us/en/individual/articles/markets-and-economy/treasury-yields-push-to-multi-decade-highs--and-history-says-the.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Main Street Capital Remains Excellent, Yet I Require A 9% Yield With The 10-Year At 5.3%",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T12:57:14.000Z",
-        "source": "Seeking Alpha",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
-        "why": "L'article évoque : Treasury yields, 10-Year.",
-        "link": "https://seekingalpha.com/article/4951514-main-street-capital-stock-remains-excellent-yet-i-require-9-percent-yield"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Stock Market Today: S&P 500 Slips as Micron Fails to Impress, 10-Year Yields Ease to 5.25%",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T12:40:23.000Z",
-        "source": "Benzinga",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : 10-Year Yield, Treasury yield, 10-Year.",
-        "link": "https://www.benzinga.com/markets/equities/26/10/62114603/sp-500-slips-micron-fails-to-impress-markets-thursday"
       }
     ],
     "btc-regulation": [
@@ -530,6 +530,26 @@
       },
       {
         "kind": "catalyst",
+        "headline": "PepsiCo and Delta Air Lines earnings, Fed minutes, University of Michigan consumer sentiment: What to Watch",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T11:52:34.000Z",
+        "source": "Yahoo Finance",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : the Fed, Fed.",
+        "link": "https://finance.yahoo.com/video/pepsico-delta-air-lines-earnings-120000956.html"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Middle Market Debt Weekly: Fed Hikes, 10-Year Treasury Hovers Near 5.3%",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T08:28:34.000Z",
+        "source": "ABF Journal",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Federal Reserve, Fed.",
+        "link": "https://www.abfjournal.com/middle-market-debt-weekly-fed-hikes-10-year-treasury-hovers-near-5-3/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "EVgo, Advanced Energy, NN, Blink Charging, and Ameresco Shares Are Soaring, What You Need To Know",
         "date": "Oct 3, 2026",
         "publishedAt": "2026-10-03T23:55:55.000Z",
@@ -537,29 +557,19 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Federal Reserve.",
         "link": "https://finance.yahoo.com/markets/stocks/articles/evgo-advanced-energy-nn-blink-231003737.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Blue Owl Capital Corp's strong portfolio and low risk defy negative headlines amid Fed rate hikes.",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T14:54:05.000Z",
-        "source": "Pluang",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Federal Reserve, Fed.",
-        "link": "https://pluang.com/en/news-feed/blue-owl-capital-saham-diskon-saya-beli-dip"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Higher Rates Are Reshaping Bank Stocks Like Farmers National Banc and Arrow Financial",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T05:58:17.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Federal Reserve.",
-        "link": "https://simplywall.st/stocks/us/banks/nasdaq-fmnb/farmers-national-banc/news/higher-rates-are-reshaping-bank-stocks-like-farmers-national"
       }
     ],
     "bonds": [
+      {
+        "kind": "catalyst",
+        "headline": "Highest Yielding Hyperscaler Bonds in October 2026: SpaceX Joins Oracle Above 7.5%",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T13:42:19.000Z",
+        "source": "TradingView",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Treasury yields, bond yields.",
+        "link": "https://www.tradingview.com/news/benzinga:7522ce132094b:0-highest-yielding-hyperscaler-bonds-in-october-2026-spacex-joins-oracle-above-7-5/"
+      },
       {
         "kind": "catalyst",
         "headline": "3 US Life Insurer Stocks That Could Benefit From Higher Treasury Yields",
@@ -589,19 +599,29 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Bond Yields.",
         "link": "https://simplywall.st/stocks/us/utilities/nasdaq-hto/h2o-america/news/3-utility-stocks-for-investors-watching-bond-yields-and-infl/amp"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Cardano’s RealFi Pays Up to 9% on Stablecoins. Can It Do for ADA What Tokenized Treasuries Did for the XRP Ledger?",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T21:27:40.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Treasuries.",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/cardano-realfi-pays-9-stablecoins-211203637.html"
       }
     ],
     "oil": [
+      {
+        "kind": "catalyst",
+        "headline": "Why Ryan Lance Sees a Higher Oil Floor—and What it Means for International Investment",
+        "date": "Oct 6, 2026",
+        "publishedAt": "2026-10-06T00:51:41.000Z",
+        "source": "Hart Energy",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : oil prices.",
+        "link": "https://www.hartenergy.com/energy-market-transactions/crude-oil/he-eif-conocophillips-lance/"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Oil price floor likely rising to $70/bbl, ConocoPhillips chairman says (COP:NYSE)",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T20:22:00.000Z",
+        "source": "Seeking Alpha",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : WTI, Oil price, crude.",
+        "link": "https://seekingalpha.com/news/4650397-oil-price-floor-likely-rising-to-70bbl-conocophillips-chairman-says"
+      },
       {
         "kind": "catalyst",
         "headline": "ConocoPhillips chair Ryan Lance on oil price floor outlook",
@@ -621,26 +641,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : oil price, crude, barrel.",
         "link": "https://www.reuters.com/business/energy/conocophillips-sees-oil-price-floor-rising-70-barrel-chairman-says-2026-10-05/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Valero (VLO) vs Phillips 66 (PSX): Which is a Better Stock to Buy?",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T17:40:00.000Z",
-        "source": "Insider Monkey",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : crude oil, crude.",
-        "link": "https://www.insidermonkey.com/news/valero-vlo-vs-phillips-66-psx-which-is-a-better-stock-to-buy-1848374/?amp=1"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Have Cracker Barrel Old Country Store Insiders Been Selling Stock?",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T13:24:16.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
-        "why": "L'article évoque : Barrel.",
-        "link": "https://simplywall.st/stocks/us/consumer-services/nasdaq-cbrl/cracker-barrel-old-country-store/news/have-cracker-barrel-old-country-store-insiders-been-selling"
       }
     ],
     "pce": [
@@ -663,16 +663,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : PCE.",
         "link": "https://www.bloomberg.com/news/articles/2026-09-30/us-stock-futures-hold-steady-ahead-of-pce-data-micron-earnings"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
-        "date": "Sep 29, 2026",
-        "publishedAt": "2026-09-29T04:17:20.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : PCE.",
-        "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again"
       }
     ],
     "financial-conditions": [
@@ -922,6 +912,16 @@
     "labor": [
       {
         "kind": "catalyst",
+        "headline": "These 3 stocks are worth buying after recent employment data",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T13:24:47.000Z",
+        "source": "TradingView",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : unemployment, wage growth.",
+        "link": "https://www.tradingview.com/news/invezz:0a00caa3f094b:0-these-3-stocks-are-worth-buying-after-recent-employment-data/"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Analog Devices, AMD, KLA Corporation, Lam Research, and Marvell Technology Stocks Trade Up, What You Need To Know",
         "date": "Oct 3, 2026",
         "publishedAt": "2026-10-03T00:23:22.000Z",
@@ -949,19 +949,19 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : unemployment, labor market.",
         "link": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-2-impinj-power-integrations-kulicke-and-soffa-microchip-technology-and-monolithic-power-systems-shares-are-soaring-what-you-need-to-know"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Pre-Markets Up on Excellent Data from PCE and ADP",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T13:44:46.000Z",
-        "source": "TradingView",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : labor market, ADP.",
-        "link": "https://www.tradingview.com/news/zacks:bbb9a395d094b:0-pre-markets-up-on-excellent-data-from-pce-and-adp/"
       }
     ],
     "nfp": [
+      {
+        "kind": "catalyst",
+        "headline": "These 3 stocks are worth buying after recent employment data",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T13:24:47.000Z",
+        "source": "TradingView",
+        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
+        "why": "L'article évoque : employment data.",
+        "link": "https://www.tradingview.com/news/invezz:0a00caa3f094b:0-these-3-stocks-are-worth-buying-after-recent-employment-data/"
+      },
       {
         "kind": "catalyst",
         "headline": "EVgo, Advanced Energy, NN, Blink Charging, and Ameresco Shares Are Soaring, What You Need To Know",
@@ -991,16 +991,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Nonfarm payrolls, payrolls, employment data.",
         "link": "https://finance.yahoo.com/markets/stocks/articles/impinj-power-integrations-kulicke-soffa-222203436.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Analog Devices, AMD, KLA Corporation, Lam Research, and Marvell Technology Stocks Trade Up, What You Need To Know",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T17:42:03.000Z",
-        "source": "StockStory",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : nonfarm payrolls, payrolls, employment data.",
-        "link": "https://stockstory.org/us/stocks/nasdaq/adi/news/why-up-down/analog-devices-amd-kla-corporation-lam-research-and-marvell-technology-stocks-trade-up-what-you-need-to-know"
       }
     ],
     "g-physical-demand": [
@@ -1128,6 +1118,16 @@
     "fomc": [
       {
         "kind": "catalyst",
+        "headline": "PepsiCo and Delta Air Lines earnings, Fed minutes, University of Michigan consumer sentiment: What to Watch",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T11:52:34.000Z",
+        "source": "Yahoo Finance",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : Fed minutes.",
+        "link": "https://finance.yahoo.com/video/pepsico-delta-air-lines-earnings-120000956.html"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
         "date": "Oct 5, 2026",
         "publishedAt": "2026-10-05T10:39:57.000Z",
@@ -1136,9 +1136,133 @@
         "why": "L'article évoque : FOMC, FOMC minutes.",
         "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike"
       }
+    ],
+    "boj-japan": [
+      {
+        "kind": "catalyst",
+        "headline": "Citi Strategist Says JGBs Becoming Appealing as Yields Near Peak",
+        "date": "Oct 6, 2026",
+        "publishedAt": "2026-10-06T01:22:00.000Z",
+        "source": "Bloomberg.com",
+        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
+        "why": "L'article évoque : JGBs.",
+        "link": "https://www.bloomberg.com/news/articles/2026-10-06/citi-strategist-says-jgbs-becoming-appealing-as-yields-near-peak"
+      }
+    ],
+    "ecb-europe": [
+      {
+        "kind": "catalyst",
+        "headline": "European S&P Global Services PMI Final (Sep) 53.0 vs. Exp. 53 (Prev. 51.6)",
+        "date": "Oct 5, 2026",
+        "publishedAt": "2026-10-05T08:12:23.000Z",
+        "source": "Newsquawk",
+        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
+        "why": "L'article évoque : ECB.",
+        "link": "https://www.newsquawk.com/headlines/european-sp-global-services-pmi-final-sep-530-vs-exp-53-prev-516"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+    "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+    "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
+    "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+    "https://www.supplychaindive.com/news/costco-cfo-doubles-down-on-tariff-strategy-winks-at-churro-comeback/832022/",
+    "https://www.wcax.com/video/2026/10/05/globalfoundries-brings-massive-solar-array-battery-storage-online-essex-junction/",
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/snap-on-stock-gets-a-usd-485-target-as-quarterly-sales-grow/70236642",
+    "https://www.gurufocus.com/news/9110560/td-cowen-downgrades-intercontinental-exchange-ice-to-hold-amid-macro-concerns",
+    "https://www.globenewswire.com/news-release/2026/10/05/3374787/3080/en/levi-korsinsky-reminds-fuelcell-energy-investors-of-the-pending-class-action-lawsuit-with-a-lead-plaintiff-deadline-of-november-10-2026-fcel.html",
+    "https://www.japantimes.co.jp/business/2026/10/06/companies/boeing-turning-page/",
+    "https://simplywall.st/stocks/us/consumer-retailing/nyse-kr/kroger/news/will-new-rewards-card-change-kroger-kr-narrative",
+    "https://au.finance.yahoo.com/news/waste-management-wm-landfill-moat-022350704.html",
+    "https://intellectia.ai/news/stock/greenbrier-strongly-disputes-utlx-antidumping-allegations",
+    "https://www.ndtvprofit.com/markets/stock-picks-today-axis-bank-hdfc-bank-trent-marico-and-more-on-brokerages-radar-12143601",
+    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/great-southern-bancorp-stock-sits-4-15-percent-below-its-high/70238078",
+    "https://pbn.com/citizens-financial-group-survey-finds-credit-card-rewards-increasingly-shape-spending/?amp=1",
+    "https://www.bloomberg.com/news/articles/2026-10-06/citi-strategist-says-jgbs-becoming-appealing-as-yields-near-peak",
+    "https://www.gurufocus.com/news/9109623/chd-maintained-by-wells-fargo-price-target-lowered-to-105",
+    "https://www.marketscreener.com/news/warner-bros-discovery-inc-nasdaqgs-wbd-dropped-from-s-p-global-1200-ce785dd8dc89f622",
+    "https://simplywall.st/stocks/us/transportation/nyse-dal/delta-air-lines/news/delta-air-lines-dal-why-is-it-back-in-the-spotlight",
+    "https://www.hartenergy.com/energy-market-transactions/crude-oil/he-eif-conocophillips-lance/",
+    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/kewaunee-reports-lower-sales-kewaunee-scientific-stock-sits-27-38-percent/70237866",
+    "https://www.bizjournals.com/boston/news/2026/10/05/astrazeneca-cambridge-rd-hub-opens.html",
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/crh-stock-faces-fresh-target-cuts-as-q2-revenue-rises-5-6-percent/70237579",
+    "https://za.investing.com/news/stock-market-news/compass-point-lowers-frontview-reit-stock-price-target-on-rates-93CH-4490148",
+    "https://seekingalpha.com/article/4952084-why-it-s-so-frustrating-being-a-micron-bull-these-days",
+    "https://www.benzinga.com/news/26/10/62180277/here-s-how-much-1000-invested-mckesson-20-years-ago-would-be-worth-today",
+    "https://thehustle.co/news/from-what-babies-wear-to-who-they-are-carters-big-shift",
+    "https://www.gurufocus.com/news/9110406/clevelandcliffs-inc-clf-stock-up-78-but-gf-value-says-overvalued-gf-score-77100",
+    "https://www.mynbc5.com/article/globalfoundries-new-solar-battery-system/74038672",
+    "https://simplywall.st/stocks/se/tech/sto-eric-b/telefonaktiebolaget-lm-ericsson-shares/news/what-ericsson-holders-had-to-stomach-and-where-that-fight-is/amp",
+    "https://www.wavy.com/video/power-outages-continue-monday-as-dominion-energy-blames-salt-spray-from-noreaster/",
+    "https://simplywall.st/stocks/us/insurance/nasdaq-acgl/arch-capital-group/news/arch-capital-group-acgl-stock-could-be-a-bargain-as-earnings",
+    "https://www.advisorhub.com/bofa-sees-the-end-of-easy-money-made-from-the-ai-spending-trade/",
+    "https://www.marketbeat.com/instant-alerts/filing-5341-dominos-pizza-inc-dpz-shares-purchased-by-kennon-green-company-llc-2026-10-05/",
+    "https://ca.finance.yahoo.com/news/news-day-cenovus-suncor-deals-212610342.html",
+    "https://kalkinemedia.com/ca/retirement-planning/manulife-financial-corporation-tsxmfc-will-retirement-products-drive-growth",
+    "https://www.marketbeat.com/instant-alerts/analyst-ubs-group-has-lowered-expectations-for-wells-fargo-company-nyse-wfc-stock-price-2026-10-05/",
+    "https://www.marketbeat.com/instant-alerts/analyst-the-goldman-sachs-group-nyse-gs-stock-price-target-cut-by-ubs-group-2026-10-05/",
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/mohawk-industries-stock-reports-6-8-percent-revenue-growth/70237679",
+    "https://kalkinemedia.com/ca/stocks/gold/eldorado-gold-tsxeld-is-skouries-production-finally-near",
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/thor-industries-stock-falls-4-07-percent-as-profits-weaken/70236780",
+    "https://kalkinemedia.com/ca/stocks/gold/kinross-gold-corporation-tsxk-can-strength-offset-lower-guidance",
+    "https://seekingalpha.com/news/4650375-intercontinental-exchange-cut-to-hold-at-td-cowen-as-stock-remain-range-bound",
+    "https://www.gurufocus.com/news/9110094/franklin-templeton-ben-reports-2-decline-in-september-aum-amid-market-headwinds",
+    "https://ca.investing.com/news/stock-market-news/form-4-security-national-financial-for-5-october-93CH-4866451",
+    "https://kalkinemedia.com/ca/stocks/gold/agnico-eagle-mines-limited-tsxaem-will-quarterly-impress",
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/banco-bilbao-vizcaya-argentaria-stock-fell-4-03-percent-on-october-5/70237359",
+    "https://www.gurufocus.com/news/9110032/wy-maintained-by-citigroup-price-target-lowered-to-2100",
+    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/cantor-fitzgerald-reiterates-usd-742-target-for-sterling-infrastructure/70237212",
+    "https://scanx.trade/stock-market-news/companies/dynex-capital-release-q3fy27-earnings-october-19-2026/52778093",
+    "https://kalkinemedia.com/ca/stocks/dividend/can-ai-drive-bce-inc-tsxbce-dividend-stability",
+    "https://stockstotrade.com/news/vale-sa-vale-news-2026_10_05-2/",
+    "https://seekingalpha.com/news/4650397-oil-price-floor-likely-rising-to-70bbl-conocophillips-chairman-says",
+    "https://www.benzinga.com/news/politics/26/10/62176496/nancy-pelosi-new-1-million-transaction-but-not-a-stock",
+    "https://www.thetrucker.com/trucking-news/business/xpo-opens-two-new-service-centers-in-key-freight-markets",
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/u-haul-stock-fell-1-28-percent-on-october-5/70237180",
+    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/truist-cuts-vornado-realty-trust-stock-target-from-usd-39-00-to-usd-35-00/70234850",
+    "https://www.theglobeandmail.com/investing/markets/stocks/O/pressreleases/4967750/3-dividend-stocks-to-buy-in-october-that-have-never-cut-their-payouts/",
+    "https://kalkinemedia.com/us/stocks/midcap/why-is-toll-brothers-nysetol-stock-in-focus-as-luxury-homes-draw-coverage",
+    "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-5-why-skyworks-solutions-swks-shares-are-trading-lower-today",
+    "https://www.tradingkey.com/news/market-movers/262200515-market-movers-bsbr-20261005",
+    "https://scanx.trade/stock-market-news/companies/exelon-hold-q3fy26-earnings-call-october-30-2026/52762111",
+    "https://www.investing.com/news/company-news/schwab-trading-activity-index-rises-in-september-93CH-4932616",
+    "https://finance.yahoo.com/markets/stocks/articles/citigroup-reports-q3-earnings-october-160451058.html",
+    "https://kalkinemedia.com/us/news/top-stories/why-did-mfa-financial-nysemfa-hit-a-yearly-low-today",
+    "https://simplywall.st/stocks/us/real-estate/nyse-invh/invitation-homes/news/invitation-homes-stock-and-other-us-rental-plays-worth-watch",
+    "https://kalkinemedia.com/us/stocks/financial/why-is-bank-of-america-nysebac-in-focus-as-earnings-season-nears",
+    "https://www.advisorperspectives.com/commentaries/2026/10/05/emerging-markets-bond-etf-t-rowe-price-launches",
+    "https://kalkinemedia.com/us/stocks/infrastructure-and-real-estate/what-is-driving-prologis-nysepld-as-data-centers-join-its-logistics-base",
+    "https://www.tradingview.com/news/zacks:1f8b1f26d094b:0-lennar-plunges-22-ytd-can-the-stock-rebound-in-the-near-future/",
+    "https://finance.yahoo.com/markets/stocks/articles/legacy-housing-legh-trimming-position-135259863.html",
+    "https://www.tradingview.com/news/benzinga:7522ce132094b:0-highest-yielding-hyperscaler-bonds-in-october-2026-spacex-joins-oracle-above-7-5/",
+    "https://www.tradingview.com/news/invezz:0a00caa3f094b:0-these-3-stocks-are-worth-buying-after-recent-employment-data/",
+    "https://finance.yahoo.com/real-estate/articles/ice-mortgage-monitor-arm-demand-130000637.html",
+    "https://www.stocktitan.net/news/ICE/ice-mortgage-monitor-arm-demand-hits-nearly-four-year-high-on-rising-pqxkfsyobqgx.html",
+    "https://www.fastmarkets.com/insights/structural-pressures-define-brazil-steel-outlook-says-arcelormittal-brasil-president-exclusive/",
+    "https://seekingalpha.com/news/4650151-morgan-stanley-cools-on-auto-dealers-cuts-ratings-on-an-and-gpi",
+    "https://finance.yahoo.com/video/pepsico-delta-air-lines-earnings-120000956.html",
+    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/citizens-downgrades-arbor-realty-trust-stock-to-market-perform/70231775",
+    "https://ca.investing.com/news/stock-market-news/bofa-raises-raymond-james-stock-price-target-to-198-on-higher-nii-93CH-4865616",
+    "https://ca.investing.com/news/stock-market-news/bofa-raises-charles-schwab-stock-price-target-on-higher-revenue-outlook-93CH-4865564",
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/j-b-hunt-warns-on-earnings-for-j-b-hunt-transport-stock/70232203",
+    "https://www.tradingview.com/news/zacks:08556284d094b:0-beat-the-market-like-zacks-thermo-fisher-cricut-shopify-in-focus/",
+    "https://www.streetinsider.com/Analyst+Comments/Charles+Schwab+Corp.+(SCHW)+PT+Raised+to+$95+at+BofA+Securities/27145226.html",
+    "https://uk.finance.yahoo.com/news/barclays-shares-good-value-15-091027860.html",
+    "https://www.marketscreener.com/news/goldman-sachs-adjusts-m-t-bank-price-target-to-240-from-255-maintains-neutral-rating-ce785dd8d88bf224",
+    "https://www.abfjournal.com/middle-market-debt-weekly-fed-hikes-10-year-treasury-hovers-near-5-3/",
+    "https://www.newsquawk.com/headlines/european-sp-global-services-pmi-final-sep-530-vs-exp-53-prev-516",
+    "https://uk.finance.yahoo.com/news/lloyds-shares-just-fell-13-075100330.html",
+    "https://kalkinemedia.com/us/stocks/financial/what-will-decide-the-next-move-in-ally-financial-nyseally",
+    "https://www.valuethemarkets.com/news/taylor-devices-nasdaq-tayd-reports-q1-sales-decline",
+    "https://ng.investing.com/news/stock-market-news/morgan-stanley-upgrades-wells-fargo-stock-rating-on-profitability-outlook-93CH-2720838",
+    "https://in.investing.com/news/stock-market-news/morgan-stanley-upgrades-wells-fargo-stock-rating-on-profitability-outlook-93CH-5617661",
+    "https://uk.finance.yahoo.com/news/down-13-2-months-going-055400666.html",
+    "https://seekingalpha.com/article/4951880-dr-horton-one-big-rates-trade-and-other-macro-pressures-weigh-shares-at-support",
+    "https://www.tradingview.com/news/stocktwits:1396131ce094b:0-sofi-stock-is-down-more-than-40-in-2026-but-this-analyst-sees-attractive-growth-opportunity-in-loan-platform-business/",
+    "https://stocktwits.com/news-articles/markets/equity/sofi-stock-is-down-more-than-40-in-2026-but-this-analyst-sees-attractive-growth-opportunity-in-loan-platform-business/cZDpLKPRB1w",
+    "https://simplywall.st/stocks/us/real-estate/nasdaq-glpi/gaming-and-leisure-properties/news/realty-income-stock-and-2-large-cap-dividend-plays-for-risin",
+    "https://www.benzinga.com/markets/equities/26/10/62152809/nvidia-stock-briefly-tops-key-level-as-earnings-season-puts-ai-spending-in-focus",
     "https://www.stocktitan.net/sec-filings/COIN/form-4-coinbase-global-inc-insider-trading-activity-69c256a75b6b.html",
     "https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-rallied-76-jim-201714549.html",
     "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
@@ -1438,106 +1562,6 @@
     "https://www.tradingview.com/news/stockstory:4ea40061d094b:0-analog-devices-amd-kla-corporation-lam-research-and-marvell-technology-stocks-trade-up-what-you-need-to-know/",
     "https://stockstory.org/us/stocks/nyse/ens/news/why-up-down/enersys-ftai-infrastructure-rocket-lab-redwire-and-rxo-stocks-trade-up-what-you-need-to-know",
     "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-2-why-vishay-intertechnology-vsh-stock-is-trading-up-today",
-    "https://finance.yahoo.com/markets/stocks/articles/macom-texas-instruments-semtech-amkor-220603502.html",
-    "https://www.trefis.com/stock/cost/articles/617149/can-costco-absorb-rising-costs-on-a-3-9-margin/2026-10-02",
-    "https://www.tradingview.com/news/stockstory:56379c97f094b:0-impinj-power-integrations-kulicke-and-soffa-microchip-technology-and-monolithic-power-systems-shares-are-soaring-what-you-need-to-know/",
-    "https://www.tradingview.com/news/stockstory:ccda701bd094b:0-evgo-advanced-energy-nn-blink-charging-and-ameresco-shares-are-soaring-what-you-need-to-know/",
-    "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-    "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-    "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
-    "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-    "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
-    "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-    "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
-    "https://www.fool.com/investing/2026/10/04/tom-lees-bitmine-is-buying-ethereum-hand-over-fist/",
-    "https://www.fool.com/investing/2026/10/04/robinhood-plans-to-let-customers-trade-stocks-on-weekends-here-s-what-that-could-do-for-its-revenue/",
-    "https://www.benzinga.com/markets/equities/26/10/62114603/sp-500-slips-micron-fails-to-impress-markets-thursday",
-    "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express",
-    "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
-    "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
-    "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-    "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
-    "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
-    "https://www.fool.com/investing/2026/10/01/3-high-yield-financial-stocks-to-buy-in-october/",
-    "https://markets.businessinsider.com/news/stocks/btcnow-launches-new-pay-over-time-model-for-bitcoin-ownership-1036590310",
-    "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs",
-    "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
-    "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-    "https://www.zacks.com/stock/news/2998765/can-hood-summit-2026-power-robinhoods-next-growth-leg",
-    "https://www.fool.com/investing/2026/10/01/can-bitcoin-reach-100000-by-the-end-of-the-year/",
-    "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data",
-    "https://finance.yahoo.com/markets/options/articles/traded-qqq-etf-20x-gain-201740902.html",
-    "https://finance.yahoo.com/markets/crypto/articles/cardano-realfi-pays-9-stablecoins-211203637.html",
-    "https://www.benzinga.com/markets/equities/26/10/62151785/tom-lees-bitmine-stock-flashes-a-golden-cross-as-ethereum-buying-nears-an-inflection-point",
-    "https://finance.biggo.com/news/af0497b5-c30d-4e52-9969-80e90519cdd4",
-    "https://simplywall.st/nl/stocks/us/software/nasdaq-frmm/forum-markets",
-    "https://www.gurufocus.com/news/9108796/riot-platforms-riot-shares-drop-14-amid-stable-bitcoin-prices-and-sector-weakness",
-    "https://www.crowdfundinsider.com/2026/10/315236-bitcoin-btc-generates-no-yield-michael-saylor-explains-how-strategy-mstr-sources-the-cash-for-dividends/",
-    "https://simplywall.st/stocks/us/diversified-financials/nasdaq-mrx/marex-group/news/what-the-marex-group-mrx-run-still-needs-to-keep-proving",
-    "https://www.tokenpost.com/news/business/26572",
-    "https://ambcrypto.com/cardano-expands-in-japan-so-why-is-adas-price-down-4/",
-    "https://simplywall.st/community/narratives/us/software/nasdaq-frmm/forum-markets/6sgmuykl-ethereum-yield-and-tokenized-assets-will-drive-future-forum-markets-upside",
-    "https://legaldesire.com/latham-represents-openworld-in-completed-business-combination-with-verifyme/",
-    "https://www.stocktitan.net/news/BULL/webull-joins-the-x-cashtag-partner-wf33ovfatfxl.html",
-    "https://www.barrons.com/market-data/stocks/mara/research-ratings?amp%253Bmod=quotes&amp%2525253Bmod=quotes&amp%25252525253Bmod=quotes&mod=quotes&amp%252525252525253Bmod=quotes&amp%25253Bmod=quotes&amp%252525253Bmod=quotes&amp%2525252525253Bmod=quotes&amp%25252525252525253Bmod=quotes",
-    "https://cryptoticker.io/en/cardano-price-prediction-ada-petrobras-japan-026-dollar/",
-    "https://sg.finance.yahoo.com/quote/6B0.SG/latest-news/",
-    "https://www.investing.com/news/insider-trading-news/mara-holdings-ceo-fred-thiel-sells-308606-in-mara-shares-93CH-4930589",
-    "https://intersectmbo.org/news/intersect-weekly-update-131-oct-2-2026",
-    "https://www.marketbeat.com/instant-alerts/dividend-strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaq-strc-announces-dividend-of-050-2026-10-02/",
-    "https://sg.finance.yahoo.com/quote/SBET/",
-    "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4937459/solmate-infrastructure-names-former-bitcoin-depot-chief-scott-buchanan-as-cfo/",
-    "https://www.coingecko.com/en/coins/oklo-inc-robinhood-token",
-    "https://www.timothysykes.com/news/terawulf-inc-wulf-news-2026_10_02/",
-    "https://markets.businessinsider.com/news/stocks/ethereum-crypto-presale-pepeto-announces-its-final-stages-before-binance-while-cardano-price-prediction-targets-3-25-1036594603",
-    "https://www.timothysykes.com/news/eightco-holdings-inc-orbs-news-2026_10_02/",
-    "https://stockstotrade.com/news/eightco-holdings-inc-orbs-news-2026_10_02-2/",
-    "https://www.grayscale.com/the-stack/the-ai-trade-reaches-crypto-with-enthusiasm",
-    "https://www.tradingview.com/news/benzinga:6d1c69a2a094b:0-mara-holdings-stock-jumps-friday-what-s-going-on/",
-    "https://www.benzinga.com/trading-ideas/movers/26/10/62138909/mara-holdings-stock-jumps-friday-whats-going-on",
-    "https://www.benzinga.com/trading-ideas/movers/26/10/62139620/strategy-stock-drops-despite-bitcoin-breaking-87000",
-    "https://www.benzinga.com/crypto/cryptocurrency/26/10/62118618/tom-lee-bmnr-ai-crypto",
-    "https://www.gurufocus.com/news/9107981/bny-mellon-explores-digital-asset-partnership-with-kraken-parent-shares-rise",
-    "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-    "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
-    "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
-    "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
-    "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-    "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-    "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
-    "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
-    "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
-    "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
-    "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
-    "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
-    "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
-    "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
-    "https://simplywall.st/stocks/us/real-estate/nyse-dlr/digital-realty-trust/news/should-ai-data-center-expansion-require-action-from-digital",
-    "https://www.benzinga.com/markets/tech/26/10/62151997/amazon-1-billion-data-center-communities-ai-backlash",
-    "https://trinidadexpress.com/business/local/slb-optimistic-about-t-t-energy-sector/article_6d4481e9-1012-41b4-b6d8-2d645c168402.html",
-    "https://www.fool.com/investing/2026/10/03/1-unstoppable-cryptocurrency-to-buy-before-it-soar/",
-    "https://simplywall.st/stocks/us/semiconductors/nasdaq-tsem/tower-semiconductor/news/is-tower-semiconductor-tsem-a-bargain-as-index-inclusion-dra",
-    "https://finance.yahoo.com/markets/stocks/articles/evgo-advanced-energy-nn-blink-231003737.html",
-    "https://www.timesfreepress.com/news/2026/oct/02/the-oak-ridge-corridor-americas-nuclear-address/",
-    "https://www.tradingview.com/symbols/FINRA-AEE4972837/profile/",
-    "https://www.wtkr.com/news/local-news/salt-noreaster-power-outages-hampton-roads-oct-3-2026",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/u-haul-holding-company-stock-rises-1-48-percent-after-results/70221786",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/southern-company-stock-holds-at-usd-83-72-as-earnings-near-surprisingly/70221819",
-    "https://www.thetravel.com/delta-air-lines-adds-new-flagstaff-salt-lake-city-route-4-years-after-united-airlines-left/",
-    "https://simplywall.st/stocks/us/transportation/nasdaq-wern/werner-enterprises/news/what-werner-enterprises-investors-had-to-stomach-and-where-i",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/nvr-stock-falls-as-morgan-stanley-starts-coverage-with-underweight/70221490",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/booking-holdings-stock-reports-8-1-percent-q2-revenue-growth/70221747",
-    "https://simplywall.st/stocks/ca/materials/tsx-wpm/wheaton-precious-metals-shares/news/should-growth-pipeline-progress-require-action-from-wheaton",
-    "https://simplywall.st/stocks/us/capital-goods/nyse-de/deere/news/deere-de-stock-trades-close-to-fair-value-on-cash-flow",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/henry-schein-stock-reflects-raised-2026-guidance/70221473",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/hershey-company-stock-trades-near-its-52-week-low-after-leadership-shift/70221569",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/nucor-stock-gains-1-87-percent-while-q3-guidance-trails-consensus/70221615",
-    "https://ca.finance.yahoo.com/news/bank-ozk-ozk-65th-straight-190815981.html",
-    "https://simplywall.st/stocks/us/energy/nyse-borr/borr-drilling/news/is-new-rig-contracts-altering-the-investment-case-for-borr-d/amp",
-    "https://simplywall.st/stocks/us/consumer-retailing/nasdaq-dltr/dollar-tree/news/dollar-tree-stock-and-the-trade-down-retail-winners-investor",
-    "https://finance.biggo.com/news/bf534de8-7f4d-4b85-8fab-fb1eeab4e978",
-    "https://www.tikr.com/blog/for-retirees-who-want-utility-income-duke-energy-vs-southern-company-3-9-vs-3-8-yield?",
-    "https://www.fool.com/investing/2026/10/03/coinbase-ceo-brian-armstrong-calls-bitcoin-bottom/",
-    "https://simplywall.st/stocks/us/media/nasdaq-bili/bilibili/news/what-bilibilis-49-fall-can-still-teach-you-about-the-story-t/amp"
+    "https://finance.yahoo.com/markets/stocks/articles/macom-texas-instruments-semtech-amkor-220603502.html"
   ]
 }
