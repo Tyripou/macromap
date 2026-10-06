@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T15:56:15.609Z",
+  "updatedAt": "2026-10-06T22:39:10.177Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -130,6 +130,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
+        "date": "Oct 6, 2026",
+        "publishedAt": "2026-10-06T17:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Crypto is expanding the boundaries of what can be priced",
+        "date": "Oct 6, 2026",
+        "publishedAt": "2026-10-06T16:50:26.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced"
+      },
+      {
+        "kind": "catalyst",
         "headline": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
         "date": "Oct 6, 2026",
         "publishedAt": "2026-10-06T11:30:00.000Z",
@@ -147,26 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T04:55:36.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T04:41:10.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records"
       }
     ],
     "middle-east": [
@@ -1153,6 +1153,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
+    "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
     "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
     "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
     "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
@@ -1550,8 +1552,6 @@
     "https://simplywall.st/stocks/us/insurance/nasdaq-bhf/brighthouse-financial/news/3-us-life-insurer-stocks-that-could-benefit-from-higher-trea/amp",
     "https://simplywall.st/stocks/us/utilities/nasdaq-hto/h2o-america/news/3-utility-stocks-for-investors-watching-bond-yields-and-infl/amp",
     "https://simplywall.st/stocks/us/energy/nyse-ngs/natural-gas-services-group/news/3-energy-stocks-for-inflation-resilient-income-and-pricing-p/amp",
-    "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4944920/this-nearly-16-yielding-dividend-stock-has-paid-out-16-billion-since-2008-heres-why-im-not-worried-about-the-next-payment/",
-    "https://seekingalpha.com/article/4951629-blue-owl-capital-is-a-big-bargain-now-i-am-buying-the-dip",
-    "https://uk.finance.yahoo.com/quote/DHI/latest-news/"
+    "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4944920/this-nearly-16-yielding-dividend-stock-has-paid-out-16-billion-since-2008-heres-why-im-not-worried-about-the-next-payment/"
   ]
 }
