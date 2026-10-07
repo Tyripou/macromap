@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-10-07T05:57:47.238Z",
+  "updatedAt": "2026-10-07T13:21:05.495Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T12:34:13.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Rain is seeking a national trust bank charter to bypass third-party banks",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T09:09:06.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback"
+      },
       {
         "kind": "catalyst",
         "headline": "Cardano gives token issuers power to freeze, seize and restrict assets",
@@ -21,26 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T09:02:01.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Stablecoin Development reports $180M in SKY token holdings at Q3 end",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T19:39:58.000Z",
-        "source": "Investing.com",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : Stablecoin.",
-        "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433"
       }
     ],
     "valuations": [
@@ -130,6 +130,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Robinhood adds $25 million of bitcoin to its balance sheet",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T08:53:27.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T05:58:25.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : BTC, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
         "date": "Oct 6, 2026",
         "publishedAt": "2026-10-06T17:00:00.000Z",
@@ -147,38 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Crypto.",
         "link": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T11:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Smaller altcoins shine as bitcoin stills trades around $85,000",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T10:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000"
-      }
-    ],
-    "middle-east": [
-      {
-        "kind": "catalyst",
-        "headline": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T10:32:01.000Z",
-        "source": "Decrypt.co",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Iranian.",
-        "link": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion"
       }
     ],
     "gold": [
@@ -226,6 +214,16 @@
     "btc-risk-appetite": [
       {
         "kind": "catalyst",
+        "headline": "Liquidations jump to $547 million as oil rally hits crypto market",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T10:35:09.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Liquidations.",
+        "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000"
+      },
+      {
+        "kind": "catalyst",
         "headline": "MSTR Stock Extends Run As Wall Street Hikes Bitcoin-Linked Targets",
         "date": "Oct 5, 2026",
         "publishedAt": "2026-10-05T13:29:36.000Z",
@@ -253,16 +251,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : NASDAQ.",
         "link": "https://seekingalpha.com/article/4951923-mara-the-bitcoin-no-longer-covers-the-debt"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "American Bitcoin Corp. (NASDAQ:ABTC) Stock Has Average Target Price of $37.50 According to Brokerages",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T07:59:28.000Z",
-        "source": "MarketBeat",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : NASDAQ.",
-        "link": "https://www.marketbeat.com/instant-alerts/consensus-american-bitcoin-corp-nasdaq-abtc-stock-has-average-target-price-of-3750-according-to-brokerages-2026-10-04/"
       }
     ],
     "spx": [
@@ -653,16 +641,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : PCE, Personal Consumption Expenditures.",
         "link": "https://www.tradingview.com/news/zacks:bbb9a395d094b:0-pre-markets-up-on-excellent-data-from-pce-and-adp/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "US Stock Futures Hold Steady Ahead of PCE Data, Micron Earnings",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T11:52:59.000Z",
-        "source": "Bloomberg.com",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : PCE.",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-30/us-stock-futures-hold-steady-ahead-of-pce-data-micron-earnings"
       }
     ],
     "financial-conditions": [
@@ -727,16 +705,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : inflation data, inflation.",
         "link": "https://coingape.com/markets/mstr-stock-outlook-as-strategy-ceo-questions-msci-bitcoin-stance-ahead-of-rebalancing/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: Bitcoin tentative ahead of U.S. inflation data",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T10:18:34.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : inflation data, inflation.",
-        "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings"
       }
     ],
     "rate-expectations": [
@@ -803,26 +771,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : U.S. dollar.",
         "link": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "A stronger dollar is a weaker threat to bitcoin than traders think",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T11:20:09.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : dollar.",
-        "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T08:25:43.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : U.S. dollar.",
-        "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk"
       }
     ],
     "oil-supply": [
@@ -867,16 +815,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : fuel demand.",
         "link": "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/phillips-66-stock-and-2-energy-shares-facing-the-next-oil-su"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T13:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : jet fuel.",
-        "link": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel"
       }
     ],
     "labor": [
@@ -973,19 +911,19 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : China, physical demand.",
         "link": "https://finance.yahoo.com/markets/commodities/articles/morgan-stanley-names-3-supports-072757604.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Gold prices have pulled back — but a Morgan Stanley strategist sees 3 key reasons to hold the precious metal",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T06:54:02.000Z",
-        "source": "CNBC",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : China, physical demand.",
-        "link": "https://www.cnbc.com/2026/09/30/gold-price-metal-bullion.html"
       }
     ],
     "btc-etf-flows": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T10:38:23.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : spot ETF.",
+        "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort"
+      },
       {
         "kind": "catalyst",
         "headline": "Morgan Stanley files for Ethereum and Solana ETFs with 0.14% fee",
@@ -1015,19 +953,19 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Bitcoin ETFs, Spot Bitcoin ETFs.",
         "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin ETFs Return to Inflows as 'Uptober' Gets Underway",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T08:20:08.000Z",
-        "source": "Cointelegraph",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bitcoin ETFs.",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up"
       }
     ],
     "oil-geo": [
+      {
+        "kind": "catalyst",
+        "headline": "Liquidations jump to $547 million as oil rally hits crypto market",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T10:35:09.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : tanker, attacks.",
+        "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
@@ -1153,6 +1091,17 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+    "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+    "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
+    "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
+    "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
+    "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
+    "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+    "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+    "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+    "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
+    "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
     "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
     "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
     "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
@@ -1541,17 +1490,6 @@
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/tal-education-group-stock-reports-32-percent-quarterly-growth/70225376",
     "https://www.worldatlas.com/cities/the-most-charming-river-towns-in-tennessee-s125y26.html",
     "https://simplywall.st/stocks/us/capital-goods/nyse-emr/emerson-electric/news/emerson-electric-emr-has-a-fresh-update-so-why-is-it-drawing/amp",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/pultegroup-stock-trades-at-usd-115-73-before-october-22-results/70224828",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/sempra-stock-reports-stronger-second-quarter-earnings-as-targets-reset/70225090",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/jack-in-the-box-stock-falls-1-74-percent-after-q3-sales-slip/70224712",
-    "https://finance.yahoo.com/markets/commodities/articles/caledonia-mining-targets-200-000-110205375.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/a-k-a-brands-holding-stock-reports-q2-revenue-of-usd-160-06-million/70224481",
-    "https://simplywall.st/stocks/us/banks/nasdaq-caty/cathay-general-bancorp/news/is-cathay-general-bancorp-caty-a-bargain-after-its-recent-sh",
-    "https://simplywall.st/stocks/us/utilities/nyse-pcg/pge/news/pge-pcg-why-is-the-utility-back-in-focus",
-    "https://seekingalpha.com/article/4951821-stifel-financial-mid-market-advisory-and-commissions-could-resist-hikes",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/wells-fargo-stock-holds-at-usd-80-45-as-jpmorgan-cuts-target/70224478",
-    "https://simplywall.st/stocks/us/banks/nyse-key/keycorp/news/top-3-undervalued-stocks-to-watch-in-october-2026",
-    "https://uk.finance.yahoo.com/news/lloyds-shares-reach-1-50-064500507.html",
-    "https://simplywall.st/stocks/us/insurance/nasdaq-bhf/brighthouse-financial/news/3-us-life-insurer-stocks-that-could-benefit-from-higher-trea/amp"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/pultegroup-stock-trades-at-usd-115-73-before-october-22-results/70224828"
   ]
 }
