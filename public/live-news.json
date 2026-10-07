@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-10-07T13:21:05.495Z",
+  "updatedAt": "2026-10-07T20:36:53.428Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T16:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin, USDT.",
+        "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T14:27:37.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin, Tether.",
+        "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization"
+      },
       {
         "kind": "catalyst",
         "headline": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
@@ -21,26 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Cardano gives token issuers power to freeze, seize and restrict assets",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T04:11:33.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoins.",
-        "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T13:02:33.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth"
       }
     ],
     "valuations": [
@@ -130,6 +130,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T18:59:32.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T15:13:15.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Robinhood adds $25 million of bitcoin to its balance sheet",
         "date": "Oct 7, 2026",
         "publishedAt": "2026-10-07T08:53:27.000Z",
@@ -147,26 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : BTC, crypto.",
         "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T17:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto is expanding the boundaries of what can be priced",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T16:50:26.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Crypto.",
-        "link": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced"
       }
     ],
     "gold": [
@@ -631,18 +631,6 @@
         "link": "https://seekingalpha.com/news/4650397-oil-price-floor-likely-rising-to-70bbl-conocophillips-chairman-says"
       }
     ],
-    "pce": [
-      {
-        "kind": "catalyst",
-        "headline": "Pre-Markets Up on Excellent Data from PCE and ADP",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T13:44:46.000Z",
-        "source": "TradingView",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : PCE, Personal Consumption Expenditures.",
-        "link": "https://www.tradingview.com/news/zacks:bbb9a395d094b:0-pre-markets-up-on-excellent-data-from-pce-and-adp/"
-      }
-    ],
     "financial-conditions": [
       {
         "kind": "catalyst",
@@ -793,28 +781,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : oil production.",
         "link": "https://www.reuters.com/business/energy/conocophillips-sees-oil-price-floor-rising-70-barrel-chairman-says-2026-10-05/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Phillips 66 Stock And 2 Energy Shares Facing The Next Oil Supply Test",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T15:42:45.000Z",
-        "source": "Simply Wall St",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Oil Supply.",
-        "link": "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/phillips-66-stock-and-2-energy-shares-facing-the-next-oil-su"
-      }
-    ],
-    "oil-demand": [
-      {
-        "kind": "catalyst",
-        "headline": "Phillips 66 Stock And 2 Energy Shares Facing The Next Oil Supply Test",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T15:42:45.000Z",
-        "source": "Simply Wall St",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : fuel demand.",
-        "link": "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/phillips-66-stock-and-2-energy-shares-facing-the-next-oil-su"
       }
     ],
     "labor": [
@@ -1091,6 +1057,13 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+    "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+    "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
+    "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+    "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+    "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
     "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
     "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
     "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
@@ -1483,13 +1456,6 @@
     "https://www.thestreet.com/retail/costco-is-coming-for-kroger-publix-and-other-grocery-chains",
     "https://www.theglobeandmail.com/investing/markets/stocks/WY/pressreleases/4950722/jp-morgan-remains-a-buy-on-weyerhaeuser-wy/",
     "https://www.barrons.com/market-data/stocks/shel",
-    "https://autos.yahoo.com/people-and-culture/articles/john-deere-man-behind-worlds-124500088.html",
-    "https://www.tradingview.com/news/benzinga:786903182094b:0-uber-riders-are-paying-53-more-while-waiting-19-longer-study-finds/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/ally-financial-stock-heads-toward-october-20-earnings-after-target-cut/70225592",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/trueblue-stock-fell-3-16-percent-as-peopleready-won-recognition/70225261",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/tal-education-group-stock-reports-32-percent-quarterly-growth/70225376",
-    "https://www.worldatlas.com/cities/the-most-charming-river-towns-in-tennessee-s125y26.html",
-    "https://simplywall.st/stocks/us/capital-goods/nyse-emr/emerson-electric/news/emerson-electric-emr-has-a-fresh-update-so-why-is-it-drawing/amp",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/pultegroup-stock-trades-at-usd-115-73-before-october-22-results/70224828"
+    "https://autos.yahoo.com/people-and-culture/articles/john-deere-man-behind-worlds-124500088.html"
   ]
 }
