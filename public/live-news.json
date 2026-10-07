@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-06T22:39:10.177Z",
+  "updatedAt": "2026-10-07T05:57:47.238Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Cardano gives token issuers power to freeze, seize and restrict assets",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T04:11:33.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins.",
+        "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets"
+      },
       {
         "kind": "catalyst",
         "headline": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
@@ -31,16 +41,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : Stablecoin.",
         "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T13:46:31.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year"
       }
     ],
     "valuations": [
@@ -604,6 +604,16 @@
     "oil": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T04:00:51.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : oil jumps.",
+        "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
         "date": "Oct 6, 2026",
         "publishedAt": "2026-10-06T10:35:49.000Z",
@@ -631,16 +641,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : WTI, Oil price, crude.",
         "link": "https://seekingalpha.com/news/4650397-oil-price-floor-likely-rising-to-70bbl-conocophillips-chairman-says"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "ConocoPhillips chair Ryan Lance on oil price floor outlook",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T13:41:45.000Z",
-        "source": "Quartz",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : oil price, barrel.",
-        "link": "https://qz.com/conocophillips-chair-oil-price-floor-70-barrel-100526"
       }
     ],
     "pce": [
@@ -737,16 +737,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : inflation data, inflation.",
         "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "PRIMERICA HOUSEHOLD BUDGET INDEX™ (HBI™): Middle-Income Americans See Modest Improvement in Purchasing Power in August",
-        "date": "Sep 30, 2026",
-        "publishedAt": "2026-09-30T04:26:31.000Z",
-        "source": "Eagle-Tribune",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : CPI, Consumer Price Index.",
-        "link": "https://www.eagletribune.com/region/primerica-household-budget-index-hbi-middle-income-americans-see-modest-improvement-in-purchasing-power-in/article_f4dfaca1-da1f-5199-bc51-055a6d3ca98d.html"
       }
     ],
     "rate-expectations": [
@@ -1040,6 +1030,16 @@
     "oil-geo": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+        "date": "Oct 7, 2026",
+        "publishedAt": "2026-10-07T04:00:51.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : tanker, attacks.",
+        "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Carney fast-tracks massive West Coast oil pipeline, dubbed Pacific Link",
         "date": "Oct 1, 2026",
         "publishedAt": "2026-10-01T23:33:36.000Z",
@@ -1153,6 +1153,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+    "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+    "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
     "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
     "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
     "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
@@ -1549,9 +1552,6 @@
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/wells-fargo-stock-holds-at-usd-80-45-as-jpmorgan-cuts-target/70224478",
     "https://simplywall.st/stocks/us/banks/nyse-key/keycorp/news/top-3-undervalued-stocks-to-watch-in-october-2026",
     "https://uk.finance.yahoo.com/news/lloyds-shares-reach-1-50-064500507.html",
-    "https://simplywall.st/stocks/us/insurance/nasdaq-bhf/brighthouse-financial/news/3-us-life-insurer-stocks-that-could-benefit-from-higher-trea/amp",
-    "https://simplywall.st/stocks/us/utilities/nasdaq-hto/h2o-america/news/3-utility-stocks-for-investors-watching-bond-yields-and-infl/amp",
-    "https://simplywall.st/stocks/us/energy/nyse-ngs/natural-gas-services-group/news/3-energy-stocks-for-inflation-resilient-income-and-pricing-p/amp",
-    "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4944920/this-nearly-16-yielding-dividend-stock-has-paid-out-16-billion-since-2008-heres-why-im-not-worried-about-the-next-payment/"
+    "https://simplywall.st/stocks/us/insurance/nasdaq-bhf/brighthouse-financial/news/3-us-life-insurer-stocks-that-could-benefit-from-higher-trea/amp"
   ]
 }
