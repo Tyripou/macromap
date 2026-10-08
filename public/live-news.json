@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-08T10:33:19.123Z",
+  "updatedAt": "2026-10-08T18:50:31.634Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T15:23:26.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins.",
+        "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins"
+      },
       {
         "kind": "catalyst",
         "headline": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin, Tether.",
         "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T12:34:13.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit"
       }
     ],
     "valuations": [
@@ -88,6 +88,16 @@
     "nasdaq": [
       {
         "kind": "catalyst",
+        "headline": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T13:06:24.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : mega-caps, Apple.",
+        "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Why It’s So Frustrating Being A Micron Bull These Days (NASDAQ:MU)",
         "date": "Oct 6, 2026",
         "publishedAt": "2026-10-06T00:13:04.000Z",
@@ -115,19 +125,29 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Nasdaq, Microsoft.",
         "link": "https://www.wealthprofessional.ca/news/industry-news/microsoft-stock-adds-us1-trillion-in-its-best-quarter-since-1998/393691"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Evercore ISI cuts Align Technology stock rating on weak demand By Investing.com",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T10:41:35.000Z",
-        "source": "Investing.com Canada",
-        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
-        "why": "L'article évoque : NASDAQ.",
-        "link": "https://ca.investing.com/news/stock-market-news/evercore-isi-cuts-align-technology-stock-rating-on-weak-demand-93CH-4865350"
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T15:43:04.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, BTC.",
+        "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T11:30:19.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
@@ -147,29 +167,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, BTC.",
         "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T00:35:24.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T18:59:32.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity"
       }
     ],
     "gold": [
+      {
+        "kind": "catalyst",
+        "headline": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T15:11:15.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : gold.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3"
+      },
       {
         "kind": "catalyst",
         "headline": "Eldorado Gold (TSX:ELD): Is Skouries Production Finally Near?",
@@ -199,16 +209,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : Gold.",
         "link": "https://thedeepdive.ca/the-gold-ma-wave-will-create-10-baggers-tim-clark-fury-gold-mines/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Caledonia Mining Targets 200,000+ Gold Ounces Annually as Bilboes Development Advances",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T10:35:47.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Gold.",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/caledonia-mining-targets-200-000-110205375.html"
       }
     ],
     "btc-risk-appetite": [
@@ -399,16 +399,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Bond Yields.",
         "link": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin Liquidity Thickens at $84,000 as US Bond Yields Cool",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T15:55:19.000Z",
-        "source": "Cointelegraph",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bond Yields.",
-        "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs"
       }
     ],
     "us10y": [
@@ -582,6 +572,16 @@
     "oil": [
       {
         "kind": "catalyst",
+        "headline": "Live updates: Bitcoin adds to declines, testing $80,000 level",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T10:44:47.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : oil prices.",
+        "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
         "date": "Oct 8, 2026",
         "publishedAt": "2026-10-08T04:00:07.000Z",
@@ -609,16 +609,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : oil prices.",
         "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Why Ryan Lance Sees a Higher Oil Floor—and What it Means for International Investment",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T00:51:41.000Z",
-        "source": "Hart Energy",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : oil prices.",
-        "link": "https://www.hartenergy.com/energy-market-transactions/crude-oil/he-eif-conocophillips-lance/"
       }
     ],
     "financial-conditions": [
@@ -651,16 +641,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : VIX.",
         "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "3 High-Yield Financial Stocks to Buy in October",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T16:10:00.000Z",
-        "source": "Motley Fool",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : High-Yield.",
-        "link": "https://www.fool.com/investing/2026/10/01/3-high-yield-financial-stocks-to-buy-in-october/"
       }
     ],
     "cpi": [
@@ -673,16 +653,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : CPI, inflation.",
         "link": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "MSTR Stock Outlook as Strategy CEO Questions MSCI’s Anti-Bitcoin Stance Ahead of November Rebalancing",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T16:11:37.000Z",
-        "source": "CoinGape",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
-        "why": "L'article évoque : inflation data, inflation.",
-        "link": "https://coingape.com/markets/mstr-stock-outlook-as-strategy-ceo-questions-msci-bitcoin-stance-ahead-of-rebalancing/"
       }
     ],
     "rate-expectations": [
@@ -860,6 +830,16 @@
     "btc-etf-flows": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T11:15:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin ETF.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
         "date": "Oct 7, 2026",
         "publishedAt": "2026-10-07T10:38:23.000Z",
@@ -887,16 +867,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Bitcoin ETFs, ETF inflows.",
         "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T15:01:03.000Z",
-        "source": "Decrypt.co",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bitcoin ETFs, Spot Bitcoin ETFs.",
-        "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million"
       }
     ],
     "oil-geo": [
@@ -975,18 +945,6 @@
         "link": "https://uk.finance.yahoo.com/news/bofa-hartnett-sees-risk-off-085019418.html"
       }
     ],
-    "rate-differentials": [
-      {
-        "kind": "catalyst",
-        "headline": "UK banks tumble as gilt yields hit highest since 1998, budget jitters mount",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T16:57:41.000Z",
-        "source": "Reuters",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : gilt yields.",
-        "link": "https://www.reuters.com/business/finance/uk-banks-tumble-gilt-yields-hit-highest-sine-1998-budget-jitters-mount-2026-10-01/"
-      }
-    ],
     "fomc": [
       {
         "kind": "catalyst",
@@ -1035,6 +993,20 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
+    "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+    "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+    "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+    "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
+    "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
+    "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+    "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
+    "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+    "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+    "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+    "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
+    "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
+    "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
     "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
     "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
     "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
@@ -1420,20 +1392,6 @@
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/warrior-met-coal-stock-stood-at-usd-89-35-after-q2-earnings-beat/70227393",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/general-motors-stock-fell-1-31-percent-as-q3-sales-fell-5-5-percent/70228007",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/cummins-stock-reports-strong-q2-sales-as-guidance-rises/70227969",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/campbell-soup-stock-closes-at-usd-19-62-after-fiscal-reset/70227933",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/old-dominion-stock-heads-toward-october-28-results-after-q2-beat/70227988",
-    "https://thedeepdive.ca/the-gold-ma-wave-will-create-10-baggers-tim-clark-fury-gold-mines/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/southwest-airlines-stock-heads-toward-october-21-results/70227624",
-    "https://thedeepdive.ca/doubling-silver-production-was-only-the-beginning-dan-dickson-endeavour-silver/",
-    "https://investorplace.com/smartmoney/2026/10/the-copper-treasure-hunt-3-ways-to-look-for-a-payoff/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/avery-dennison-stock-heads-toward-october-29-earnings/70227439",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/microchip-technology-stock-gained-4-98-percent-on-ethernet-expansion-in/70227395",
-    "https://finance.yahoo.com/markets/stocks/articles/michael-burry-just-pulled-1960s-180009562.html",
-    "https://seekingalpha.com/news/4649479-ulta-beauty-tops-consumer-discretionary-gainers-in-q3-mgm-resorts-declines",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/ur-energy-stock-outlines-a-2-million-pound-growth-path/70227078",
-    "https://www.taipeitimes.com/News/biz/archives/2026/10/05/2003865391",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/dow-stock-gained-1-39-percent-before-its-october-22-results/70226993",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/hershey-company-stock-trades-near-its-52-week-low-after-q2-beat/70226945",
-    "https://www.barrons.com/market-data/stocks/TXT?countrycode=MX"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/campbell-soup-stock-closes-at-usd-19-62-after-fiscal-reset/70227933"
   ]
 }
