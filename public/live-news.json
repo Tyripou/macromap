@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-08T00:59:36.315Z",
+  "updatedAt": "2026-10-08T10:33:19.123Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T08:39:23.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : USDC.",
+        "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones"
+      },
       {
         "kind": "catalyst",
         "headline": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Rain is seeking a national trust bank charter to bypass third-party banks",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T09:09:06.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback"
       }
     ],
     "valuations": [
@@ -130,6 +130,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T10:30:41.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T05:40:41.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
         "date": "Oct 8, 2026",
         "publishedAt": "2026-10-08T00:35:24.000Z",
@@ -147,26 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto.",
         "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T15:13:15.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Robinhood adds $25 million of bitcoin to its balance sheet",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T08:53:27.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report"
       }
     ],
     "gold": [
@@ -409,16 +409,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Bond Yields.",
         "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T04:15:20.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bond yields.",
-        "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall"
       }
     ],
     "us10y": [
@@ -592,6 +582,16 @@
     "oil": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T04:00:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Brent, oil jumps, crude.",
+        "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
         "date": "Oct 7, 2026",
         "publishedAt": "2026-10-07T04:00:51.000Z",
@@ -619,16 +619,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : oil prices.",
         "link": "https://www.hartenergy.com/energy-market-transactions/crude-oil/he-eif-conocophillips-lance/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Oil price floor likely rising to $70/bbl, ConocoPhillips chairman says (COP:NYSE)",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T20:22:00.000Z",
-        "source": "Seeking Alpha",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : WTI, Oil price, crude.",
-        "link": "https://seekingalpha.com/news/4650397-oil-price-floor-likely-rising-to-70bbl-conocophillips-chairman-says"
       }
     ],
     "financial-conditions": [
@@ -867,18 +857,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/impinj-power-integrations-kulicke-soffa-222203436.html"
       }
     ],
-    "g-physical-demand": [
-      {
-        "kind": "catalyst",
-        "headline": "Morgan Stanley Names 3 Supports for Gold After a 3.8% Slide This Year",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T07:42:07.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : China, physical demand.",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/morgan-stanley-names-3-supports-072757604.html"
-      }
-    ],
     "btc-etf-flows": [
       {
         "kind": "catalyst",
@@ -1057,6 +1035,16 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
+    "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+    "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+    "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+    "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
+    "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+    "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+    "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+    "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+    "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
     "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
     "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
@@ -1446,16 +1434,6 @@
     "https://www.taipeitimes.com/News/biz/archives/2026/10/05/2003865391",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/dow-stock-gained-1-39-percent-before-its-october-22-results/70226993",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/hershey-company-stock-trades-near-its-52-week-low-after-q2-beat/70226945",
-    "https://www.barrons.com/market-data/stocks/TXT?countrycode=MX",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/boise-cascade-stock-beats-estimates-as-analysts-keep-a-hold-view/70225991",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/aptiv-stock-faces-a-lower-2026-revenue-outlook-after-q2-results/70226572",
-    "https://247wallst.com/investing/2026/10/04/why-regions-financials-dividend-raise-signals-confidence-that-keycorps-frozen-payout-cannot-match/",
-    "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-vs-uber-technologies-stock-151108119.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/gencor-industries-stock-gained-1-38-percent-after-q3-profit-jump/70225550",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/haverty-furniture-companies-stock-closed-at-usd-27-50-after-q2-growth/70226064",
-    "https://pluang.com/en/news-feed/bac-vs-usb-stok-bank-dengan-dividen-terbaik-untuk-pensiunan",
-    "https://www.thestreet.com/retail/costco-is-coming-for-kroger-publix-and-other-grocery-chains",
-    "https://www.theglobeandmail.com/investing/markets/stocks/WY/pressreleases/4950722/jp-morgan-remains-a-buy-on-weyerhaeuser-wy/",
-    "https://www.barrons.com/market-data/stocks/shel"
+    "https://www.barrons.com/market-data/stocks/TXT?countrycode=MX"
   ]
 }
