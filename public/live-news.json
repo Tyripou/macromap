@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:36:53.428Z",
+  "updatedAt": "2026-10-08T00:59:36.315Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -130,6 +130,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T00:35:24.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
         "date": "Oct 7, 2026",
         "publishedAt": "2026-10-07T18:59:32.000Z",
@@ -157,16 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, crypto.",
         "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T05:58:25.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : BTC, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed"
       }
     ],
     "gold": [
@@ -1057,6 +1057,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
     "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
@@ -1455,7 +1456,6 @@
     "https://pluang.com/en/news-feed/bac-vs-usb-stok-bank-dengan-dividen-terbaik-untuk-pensiunan",
     "https://www.thestreet.com/retail/costco-is-coming-for-kroger-publix-and-other-grocery-chains",
     "https://www.theglobeandmail.com/investing/markets/stocks/WY/pressreleases/4950722/jp-morgan-remains-a-buy-on-weyerhaeuser-wy/",
-    "https://www.barrons.com/market-data/stocks/shel",
-    "https://autos.yahoo.com/people-and-culture/articles/john-deere-man-behind-worlds-124500088.html"
+    "https://www.barrons.com/market-data/stocks/shel"
   ]
 }
