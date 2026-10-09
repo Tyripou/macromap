@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-09T01:13:09.957Z",
+  "updatedAt": "2026-10-09T10:31:36.772Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+        "date": "Oct 9, 2026",
+        "publishedAt": "2026-10-09T04:21:36.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins.",
+        "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds"
+      },
       {
         "kind": "catalyst",
         "headline": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : USDC.",
         "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T16:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin, USDT.",
-        "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails"
       }
     ],
     "valuations": [
@@ -130,6 +130,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
+        "date": "Oct 9, 2026",
+        "publishedAt": "2026-10-09T09:20:16.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, BTC.",
+        "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
+        "date": "Oct 9, 2026",
+        "publishedAt": "2026-10-09T09:08:09.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
         "date": "Oct 8, 2026",
         "publishedAt": "2026-10-08T19:46:15.000Z",
@@ -147,26 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, BTC.",
         "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T11:30:19.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T10:30:41.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto"
       }
     ],
     "gold": [
@@ -446,6 +446,16 @@
     "btc-regulation": [
       {
         "kind": "catalyst",
+        "headline": "Thailand opens door to locally listed bitcoin and ether ETFs",
+        "date": "Oct 9, 2026",
+        "publishedAt": "2026-10-09T10:16:55.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto rules.",
+        "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs"
+      },
+      {
+        "kind": "catalyst",
         "headline": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
         "date": "Oct 5, 2026",
         "publishedAt": "2026-10-05T15:54:23.000Z",
@@ -473,16 +483,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : SEC.",
         "link": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Former SEC Boss Made AI Czar, Bitcoin May Hit $600K This Cycle: Hodler's Digest",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T22:31:12.000Z",
-        "source": "Cointelegraph",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : SEC.",
-        "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest"
       }
     ],
     "fed": [
@@ -572,6 +572,16 @@
     "oil": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+        "date": "Oct 9, 2026",
+        "publishedAt": "2026-10-09T03:27:38.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : oil drops.",
+        "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin adds to declines, testing $80,000 level",
         "date": "Oct 8, 2026",
         "publishedAt": "2026-10-08T10:44:47.000Z",
@@ -599,16 +609,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : oil jumps.",
         "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T10:35:49.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : oil prices.",
-        "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin"
       }
     ],
     "financial-conditions": [
@@ -697,16 +697,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : US dollar, dollar.",
         "link": "https://www.taipeitimes.com/News/biz/archives/2026/10/03/2003865296"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "BofA’s Hartnett Sees Risk-Off Mood Lasting Until Dollar Peaks",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T09:00:04.000Z",
-        "source": "Yahoo Finance UK",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : US dollar, Dollar.",
-        "link": "https://uk.finance.yahoo.com/news/bofa-hartnett-sees-risk-off-085019418.html"
       }
     ],
     "btc-usd": [
@@ -830,6 +820,16 @@
     "btc-etf-flows": [
       {
         "kind": "catalyst",
+        "headline": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+        "date": "Oct 9, 2026",
+        "publishedAt": "2026-10-09T06:51:32.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin ETFs.",
+        "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
         "date": "Oct 8, 2026",
         "publishedAt": "2026-10-08T11:15:00.000Z",
@@ -857,16 +857,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Bitcoin ETF.",
         "link": "https://scanx.trade/stock-market-news/cryptocurrencies/morgan-stanley-files-for-ethereum-and-solana-etfs-with-0-14-fee/45646647"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin ETFs Draw $241M as Ether Funds Swing to Outflows",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T08:00:49.000Z",
-        "source": "Cointelegraph",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bitcoin ETFs, ETF inflows.",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red"
       }
     ],
     "oil-geo": [
@@ -923,16 +913,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Dollar Index, U.S. Dollar.",
         "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "BofA’s Hartnett Sees Risk-Off Mood Lasting Until Dollar Peaks",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T09:00:04.000Z",
-        "source": "Yahoo Finance UK",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Dollar.",
-        "link": "https://uk.finance.yahoo.com/news/bofa-hartnett-sees-risk-off-085019418.html"
       }
     ],
     "fomc": [
@@ -983,6 +963,17 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+    "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+    "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+    "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
+    "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+    "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+    "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+    "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+    "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+    "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+    "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
     "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
     "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
     "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
@@ -1371,17 +1362,6 @@
     "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
     "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
     "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-    "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/exponent-stock-fell-3-72-percent-on-october-2/70228300",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/albemarle-stock-faces-a-lower-mizuho-target-after-october-review/70228216",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/consolidated-edison-stock-heads-into-october-6-investor-update/70228482",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/paccar-stock-heads-toward-october-27-earnings-after-q2-beat/70228167",
-    "https://sg.finance.yahoo.com/news/morgan-stanley-ms-economic-moat-210650766.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/quanta-services-stock-gained-2-11-percent-on-october-2/70228430",
-    "https://ca.finance.yahoo.com/news/jim-cramer-flags-pepsico-pep-204243527.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/expedia-group-stock-gained-0-89-percent-on-october-2/70228161",
-    "https://www.marketbeat.com/instant-alerts/event-flexsteel-targets-share-gains-8-margins-despite-furniture-market-headwinds-2026-10-04/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/warrior-met-coal-stock-stood-at-usd-89-35-after-q2-earnings-beat/70227393",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/general-motors-stock-fell-1-31-percent-as-q3-sales-fell-5-5-percent/70228007"
+    "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade"
   ]
 }
