@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:31:36.772Z",
+  "updatedAt": "2026-10-09T18:20:53.043Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -130,6 +130,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+        "date": "Oct 9, 2026",
+        "publishedAt": "2026-10-09T14:47:27.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
+        "date": "Oct 9, 2026",
+        "publishedAt": "2026-10-09T11:09:04.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, crypto.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
         "date": "Oct 9, 2026",
         "publishedAt": "2026-10-09T09:20:16.000Z",
@@ -147,26 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, BTC.",
         "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T19:46:15.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T15:43:04.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, BTC.",
-        "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated"
       }
     ],
     "gold": [
@@ -214,6 +214,16 @@
     "btc-risk-appetite": [
       {
         "kind": "catalyst",
+        "headline": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
+        "date": "Oct 9, 2026",
+        "publishedAt": "2026-10-09T11:09:04.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : liquidation.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
         "date": "Oct 8, 2026",
         "publishedAt": "2026-10-08T19:46:15.000Z",
@@ -241,16 +251,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.timothysykes.com/news/strategy-inc-mstr-news-2026_10_05/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Here Are Monday’s Top Wall Street Analyst Research Calls: Align Technology, AutoNation, Estee Lauder, Harley-Davidson, HubSpot, Microsoft, Mosaic, Ryder System, Wells Fargo & Co…",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T12:04:08.000Z",
-        "source": "24/7 Wall St.",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://247wallst.com/investing/2026/10/05/here-are-mondays-top-wall-street-analyst-research-calls-align-technology-autonation-estee-lauder-harley-davidson-hubspot-microsoft-mosaic-ryder-system-wells-fargo-company-and-more/?tpid=1673869&tv=link&tc=in_content"
       }
     ],
     "spx": [
@@ -389,16 +389,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bond yields.",
         "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin Gains 'Cleanest Catalyst' as Bond Yields Drop on Weak US Jobs Data",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T15:27:31.000Z",
-        "source": "Cointelegraph",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Bond Yields.",
-        "link": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data"
       }
     ],
     "us10y": [
@@ -631,28 +621,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
         "why": "L'article évoque : High Yield.",
         "link": "https://seekingalpha.com/article/4951730-wdi-very-high-yield-but-might-not-be-a-good-long-term-holding"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Cboe wants to turn VIX into a never-ending trade",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T11:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : VIX.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover"
-      }
-    ],
-    "cpi": [
-      {
-        "kind": "catalyst",
-        "headline": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T12:58:25.000Z",
-        "source": "Decrypt.co",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : CPI, inflation.",
-        "link": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k"
       }
     ],
     "rate-expectations": [
@@ -753,26 +721,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : unemployment, labor market.",
         "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-amd-kla-corporation-002203155.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Regions Bank economist predicts growth amid uneven economy",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T17:10:51.000Z",
-        "source": "Indianapolis Business Journal",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : labor market, wage growth.",
-        "link": "https://www.ibj.com/articles/regions-bank-economist-predicts-growth-despite-uneven-economy"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T14:45:25.000Z",
-        "source": "FinancialContent",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : unemployment, labor market.",
-        "link": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-2-impinj-power-integrations-kulicke-and-soffa-microchip-technology-and-monolithic-power-systems-shares-are-soaring-what-you-need-to-know"
       }
     ],
     "nfp": [
@@ -881,18 +829,6 @@
         "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks"
       }
     ],
-    "growth": [
-      {
-        "kind": "catalyst",
-        "headline": "Regions Bank economist predicts growth amid uneven economy",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T17:10:51.000Z",
-        "source": "Indianapolis Business Journal",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : economic growth, recession.",
-        "link": "https://www.ibj.com/articles/regions-bank-economist-predicts-growth-despite-uneven-economy"
-      }
-    ],
     "dxy": [
       {
         "kind": "catalyst",
@@ -960,9 +896,28 @@
         "why": "L'article évoque : ECB.",
         "link": "https://www.newsquawk.com/headlines/european-sp-global-services-pmi-final-sep-530-vs-exp-53-prev-516"
       }
+    ],
+    "middle-east": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+        "date": "Oct 9, 2026",
+        "publishedAt": "2026-10-09T10:44:22.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Iran.",
+        "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+    "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+    "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+    "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+    "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
+    "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
+    "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
     "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
     "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
     "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
@@ -1355,13 +1310,6 @@
     "https://247wallst.com/companies/ibm/",
     "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
     "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
-    "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-    "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
-    "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
-    "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-    "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-    "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-    "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-    "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade"
+    "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec"
   ]
 }
