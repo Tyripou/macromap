@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-08T18:50:31.634Z",
+  "updatedAt": "2026-10-09T01:13:09.957Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T21:22:58.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Tether.",
+        "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether"
+      },
       {
         "kind": "catalyst",
         "headline": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin, USDT.",
         "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T14:27:37.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin, Tether.",
-        "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization"
       }
     ],
     "valuations": [
@@ -130,6 +130,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T19:46:15.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says"
+      },
+      {
+        "kind": "catalyst",
         "headline": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
         "date": "Oct 8, 2026",
         "publishedAt": "2026-10-08T15:43:04.000Z",
@@ -157,16 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, crypto.",
         "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T05:40:41.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say"
       }
     ],
     "gold": [
@@ -214,6 +214,16 @@
     "btc-risk-appetite": [
       {
         "kind": "catalyst",
+        "headline": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+        "date": "Oct 8, 2026",
+        "publishedAt": "2026-10-08T19:46:15.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Liquidations jump to $547 million as oil rally hits crypto market",
         "date": "Oct 7, 2026",
         "publishedAt": "2026-10-07T10:35:09.000Z",
@@ -241,16 +251,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://247wallst.com/investing/2026/10/05/here-are-mondays-top-wall-street-analyst-research-calls-align-technology-autonation-estee-lauder-harley-davidson-hubspot-microsoft-mosaic-ryder-system-wells-fargo-company-and-more/?tpid=1673869&tv=link&tc=in_content"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "MARA Holdings: The Bitcoin No Longer Covers The Debt (NASDAQ:MARA)",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T09:59:57.000Z",
-        "source": "Seeking Alpha",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
-        "why": "L'article évoque : NASDAQ.",
-        "link": "https://seekingalpha.com/article/4951923-mara-the-bitcoin-no-longer-covers-the-debt"
       }
     ],
     "spx": [
@@ -889,16 +889,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : tanker, attacks.",
         "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Carney fast-tracks massive West Coast oil pipeline, dubbed Pacific Link",
-        "date": "Oct 1, 2026",
-        "publishedAt": "2026-10-01T23:33:36.000Z",
-        "source": "Financial Post",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : pipeline.",
-        "link": "https://financialpost.com/commodities/energy/oil-gas/carney-fast-tracks-pacific-link-oil-pipeline"
       }
     ],
     "growth": [
@@ -993,6 +983,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+    "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
     "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
     "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
     "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
@@ -1390,8 +1382,6 @@
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/expedia-group-stock-gained-0-89-percent-on-october-2/70228161",
     "https://www.marketbeat.com/instant-alerts/event-flexsteel-targets-share-gains-8-margins-despite-furniture-market-headwinds-2026-10-04/",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/warrior-met-coal-stock-stood-at-usd-89-35-after-q2-earnings-beat/70227393",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/general-motors-stock-fell-1-31-percent-as-q3-sales-fell-5-5-percent/70228007",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/cummins-stock-reports-strong-q2-sales-as-guidance-rises/70227969",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/campbell-soup-stock-closes-at-usd-19-62-after-fiscal-reset/70227933"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/general-motors-stock-fell-1-31-percent-as-q3-sales-fell-5-5-percent/70228007"
   ]
 }
