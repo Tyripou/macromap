@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:49:01.458Z",
+  "updatedAt": "2026-10-10T17:20:24.653Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -130,6 +130,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+        "date": "Oct 10, 2026",
+        "publishedAt": "2026-10-10T12:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+        "date": "Oct 10, 2026",
+        "publishedAt": "2026-10-10T11:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
         "date": "Oct 10, 2026",
         "publishedAt": "2026-10-10T05:43:00.000Z",
@@ -147,29 +167,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, crypto.",
         "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-        "date": "Oct 9, 2026",
-        "publishedAt": "2026-10-09T11:09:04.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, crypto.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-        "date": "Oct 9, 2026",
-        "publishedAt": "2026-10-09T09:20:16.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, BTC.",
-        "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison"
       }
     ],
     "gold": [
+      {
+        "kind": "catalyst",
+        "headline": "Tokenized commodities look beyond gold as lending and oil open new markets",
+        "date": "Oct 10, 2026",
+        "publishedAt": "2026-10-10T12:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : gold.",
+        "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets"
+      },
       {
         "kind": "catalyst",
         "headline": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
@@ -199,16 +209,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Gold.",
         "link": "https://kalkinemedia.com/ca/stocks/gold/kinross-gold-corporation-tsxk-can-strength-offset-lower-guidance"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "The Gold M&A Wave Will Create 10-Baggers | Tim Clark – Fury Gold Mines",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T18:31:44.000Z",
-        "source": "the deep dive",
-        "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
-        "why": "L'article évoque : Gold.",
-        "link": "https://thedeepdive.ca/the-gold-ma-wave-will-create-10-baggers-tim-clark-fury-gold-mines/"
       }
     ],
     "btc-risk-appetite": [
@@ -603,18 +603,6 @@
         "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet"
       }
     ],
-    "rate-expectations": [
-      {
-        "kind": "catalyst",
-        "headline": "Blue Owl Capital Corp's strong portfolio and low risk defy negative headlines amid Fed rate hikes.",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T14:54:05.000Z",
-        "source": "Pluang",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : rate hikes.",
-        "link": "https://pluang.com/en/news-feed/blue-owl-capital-saham-diskon-saya-beli-dip"
-      }
-    ],
     "usd": [
       {
         "kind": "catalyst",
@@ -851,6 +839,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+    "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+    "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
     "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
     "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
     "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
@@ -1247,9 +1238,6 @@
     "https://www.syfe.com/stocks/us/xey",
     "https://www.lw.com/en/news/2026/10/latham-represents-openworld-in-completed-business-combination-with-verifyme",
     "https://ca.finance.yahoo.com/quote/TER-USD/profile/",
-    "https://www.taipeitimes.com/News/biz/archives/2026/10/03/2003865296",
-    "https://www.theglobeandmail.com/investing/markets/stocks/NCRA/",
-    "https://www.coingecko.com/en/coins/kratos-defense-security-solutions-inc-robinhood-token",
-    "https://247wallst.com/companies/hood/"
+    "https://www.taipeitimes.com/News/biz/archives/2026/10/03/2003865296"
   ]
 }
