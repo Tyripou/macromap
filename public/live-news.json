@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T18:20:53.043Z",
+  "updatedAt": "2026-10-10T00:49:24.057Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -421,16 +421,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Treasury Yields.",
         "link": "https://simplywall.st/stocks/us/insurance/nasdaq-bhf/brighthouse-financial/news/3-us-life-insurer-stocks-that-could-benefit-from-higher-trea/amp"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Treasury Yields Push to Multi-Decade Highs, and History Says They May Climb Further",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T23:29:47.000Z",
-        "source": "BNY",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Treasury Yields.",
-        "link": "https://www.bny.com/investments/us/en/individual/articles/markets-and-economy/treasury-yields-push-to-multi-decade-highs--and-history-says-the.html"
       }
     ],
     "btc-regulation": [
@@ -711,16 +701,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : unemployment, wage growth.",
         "link": "https://www.tradingview.com/news/invezz:0a00caa3f094b:0-these-3-stocks-are-worth-buying-after-recent-employment-data/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Analog Devices, AMD, KLA Corporation, Lam Research, and Marvell Technology Stocks Trade Up, What You Need To Know",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T00:23:22.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : unemployment, labor market.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-amd-kla-corporation-002203155.html"
       }
     ],
     "nfp": [
@@ -743,26 +723,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : nonfarm payrolls, payrolls, employment data.",
         "link": "https://finance.yahoo.com/markets/stocks/articles/evgo-advanced-energy-nn-blink-231003737.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Analog Devices, AMD, KLA Corporation, Lam Research, and Marvell Technology Stocks Trade Up, What You Need To Know",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T00:23:22.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : nonfarm payrolls, payrolls, employment data.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-amd-kla-corporation-002203155.html"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Impinj, Power Integrations, Kulicke and Soffa, Microchip Technology, and Monolithic Power Systems Shares Are Soaring, What You Need To Know",
-        "date": "Oct 2, 2026",
-        "publishedAt": "2026-10-02T22:22:53.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Nonfarm payrolls, payrolls, employment data.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/impinj-power-integrations-kulicke-soffa-222203436.html"
       }
     ],
     "btc-etf-flows": [
@@ -911,6 +871,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
     "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
     "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
     "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
@@ -1309,7 +1270,6 @@
     "https://www.moomoo.com/news/post/1000558797/forward-industries-shares-gain-as-solana-holdings-grow-13-in",
     "https://247wallst.com/companies/ibm/",
     "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-    "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
-    "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec"
+    "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98"
   ]
 }
