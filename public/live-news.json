@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T21:42:51.123Z",
+  "updatedAt": "2026-10-11T05:45:07.227Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -283,16 +283,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : S&P 500.",
         "link": "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Sharplink, Inc. (SBET) stock price, news, quote and history",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T03:01:30.000Z",
-        "source": "Yahoo Finance Australia",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : S&P 500.",
-        "link": "https://au.finance.yahoo.com/quote/SBET/"
       }
     ],
     "equities": [
@@ -527,26 +517,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
         "why": "L'article évoque : Treasury Yields.",
         "link": "https://simplywall.st/stocks/us/insurance/nasdaq-bhf/brighthouse-financial/news/3-us-life-insurer-stocks-that-could-benefit-from-higher-trea/amp"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Cardano's RealFi Pays Up to 9% on Stablecoins. Can It Do for ADA What Tokenized Treasuries Did for the XRP Ledger?",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T04:27:24.000Z",
-        "source": "24/7 Wall St.",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Treasuries.",
-        "link": "https://247wallst.com/investing/cryptocurrency/2026/10/03/cardanos-realfi-pays-up-to-9-on-stablecoins-can-it-do-for-ada-what-tokenized-treasuries-did-for-the-xrp-ledger/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "3 Utility Stocks For Investors Watching Bond Yields And Inflation",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T03:29:30.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Bond Yields.",
-        "link": "https://simplywall.st/stocks/us/utilities/nasdaq-hto/h2o-america/news/3-utility-stocks-for-investors-watching-bond-yields-and-infl/amp"
       }
     ],
     "oil": [
@@ -681,16 +651,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : employment data.",
         "link": "https://www.tradingview.com/news/invezz:0a00caa3f094b:0-these-3-stocks-are-worth-buying-after-recent-employment-data/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "EVgo, Advanced Energy, NN, Blink Charging, and Ameresco Shares Are Soaring, What You Need To Know",
-        "date": "Oct 3, 2026",
-        "publishedAt": "2026-10-03T23:55:55.000Z",
-        "source": "Yahoo Finance",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : nonfarm payrolls, payrolls, employment data.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/evgo-advanced-energy-nn-blink-231003737.html"
       }
     ],
     "btc-etf-flows": [
