@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T05:45:07.227Z",
+  "updatedAt": "2026-10-11T12:47:48.377Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -401,16 +401,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : 10-Year Treasury, 10-Year.",
         "link": "https://www.abfjournal.com/middle-market-debt-weekly-fed-hikes-10-year-treasury-hovers-near-5-3/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "3 US Life Insurer Stocks That Could Benefit From Higher Treasury Yields",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T06:55:28.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Treasury Yields.",
-        "link": "https://simplywall.st/stocks/us/insurance/nasdaq-bhf/brighthouse-financial/news/3-us-life-insurer-stocks-that-could-benefit-from-higher-trea/amp"
       }
     ],
     "btc-regulation": [
@@ -507,16 +497,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
         "why": "L'article évoque : Treasury yields, bond yields.",
         "link": "https://www.tradingview.com/news/benzinga:7522ce132094b:0-highest-yielding-hyperscaler-bonds-in-october-2026-spacex-joins-oracle-above-7-5/"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "3 US Life Insurer Stocks That Could Benefit From Higher Treasury Yields",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T06:55:28.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Treasury Yields.",
-        "link": "https://simplywall.st/stocks/us/insurance/nasdaq-bhf/brighthouse-financial/news/3-us-life-insurer-stocks-that-could-benefit-from-higher-trea/amp"
       }
     ],
     "oil": [
