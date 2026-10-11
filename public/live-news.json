@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T12:47:48.377Z",
+  "updatedAt": "2026-10-11T19:33:16.486Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -130,6 +130,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+        "date": "Oct 11, 2026",
+        "publishedAt": "2026-10-11T18:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Clarity's failure could speed crypto innovation while shielding incumbents",
+        "date": "Oct 11, 2026",
+        "publishedAt": "2026-10-11T16:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents"
+      },
+      {
+        "kind": "catalyst",
         "headline": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
         "date": "Oct 10, 2026",
         "publishedAt": "2026-10-10T12:00:00.000Z",
@@ -147,26 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, crypto.",
         "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-        "date": "Oct 10, 2026",
-        "publishedAt": "2026-10-10T05:43:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-        "date": "Oct 9, 2026",
-        "publishedAt": "2026-10-09T14:47:27.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen"
       }
     ],
     "gold": [
@@ -779,6 +779,10 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+    "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+    "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+    "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
     "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
     "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
     "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
@@ -1174,10 +1178,6 @@
     "https://au.finance.yahoo.com/quote/SBET/",
     "https://blockchain.news/flashnews/cardano-stablecoin-market-cap-nears-70m",
     "https://pluang.com/en/asset/usstock/BTBT/10912",
-    "https://247wallst.com/investing/cryptocurrency/2026/10/03/ai-cardano-price-prediction-how-much-could-ada-be-worth-by-december-31-after-a-25-gain-and-the-realfi-launch/",
-    "https://www.syfe.com/stocks/us/xey",
-    "https://www.lw.com/en/news/2026/10/latham-represents-openworld-in-completed-business-combination-with-verifyme",
-    "https://ca.finance.yahoo.com/quote/TER-USD/profile/",
-    "https://www.taipeitimes.com/News/biz/archives/2026/10/03/2003865296"
+    "https://247wallst.com/investing/cryptocurrency/2026/10/03/ai-cardano-price-prediction-how-much-could-ada-be-worth-by-december-31-after-a-25-gain-and-the-realfi-launch/"
   ]
 }
