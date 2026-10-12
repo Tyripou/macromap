@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:33:16.486Z",
+  "updatedAt": "2026-10-12T00:31:36.687Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -357,16 +357,6 @@
         "summary": "Sentiment de l'article (Alpha Vantage) : haussier.",
         "why": "L'article évoque : earnings, EPS, guidance.",
         "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/bernstein-raises-target-for-quanta-services-stock-to-usd-775-00/70233373"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Weekly Recap: Sept deliveries down 6.3% and Nov 25 earnings report",
-        "date": "Oct 4, 2026",
-        "publishedAt": "2026-10-04T23:00:45.000Z",
-        "source": "TradingView",
-        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
-        "why": "L'article évoque : earnings, EPS.",
-        "link": "https://www.tradingview.com/news/tradingview:a29d3c62fb51f:0-weekly-recap-sept-deliveries-down-6-3-and-nov-25-earnings-report/"
       }
     ],
     "btc-real-yields": [
