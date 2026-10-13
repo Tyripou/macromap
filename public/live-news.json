@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T21:15:56.233Z",
+  "updatedAt": "2026-10-13T02:35:48.621Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -43,28 +43,6 @@
         "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether"
       }
     ],
-    "valuations": [
-      {
-        "kind": "catalyst",
-        "headline": "Delta Air Lines (DAL), Why Is It Back In The Spotlight?",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T00:52:21.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt baissier.",
-        "why": "L'article évoque : valuation, overvalued.",
-        "link": "https://simplywall.st/stocks/us/transportation/nyse-dal/delta-air-lines/news/delta-air-lines-dal-why-is-it-back-in-the-spotlight"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Arch Capital Group (ACGL) Stock Could Be A Bargain As Earnings Matter Most",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T23:10:54.000Z",
-        "source": "Simply Wall Street",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : valuation, P/E.",
-        "link": "https://simplywall.st/stocks/us/insurance/nasdaq-acgl/arch-capital-group/news/arch-capital-group-acgl-stock-could-be-a-bargain-as-earnings"
-      }
-    ],
     "nasdaq": [
       {
         "kind": "catalyst",
@@ -75,16 +53,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : mega-caps, Apple.",
         "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Why It’s So Frustrating Being A Micron Bull These Days (NASDAQ:MU)",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T00:13:04.000Z",
-        "source": "Seeking Alpha",
-        "summary": "Sentiment de l'article (Alpha Vantage) : baissier.",
-        "why": "L'article évoque : NASDAQ, QQQ.",
-        "link": "https://seekingalpha.com/article/4952084-why-it-s-so-frustrating-being-a-micron-bull-these-days"
       }
     ],
     "btc": [
@@ -149,26 +117,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : gold.",
         "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Eldorado Gold (TSX:ELD): Is Skouries Production Finally Near?",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T21:30:23.000Z",
-        "source": "Kalkine Media",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : Gold.",
-        "link": "https://kalkinemedia.com/ca/stocks/gold/eldorado-gold-tsxeld-is-skouries-production-finally-near"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Kinross Gold Corporation (TSX:K): Can Strength Offset Lower Guidance?",
-        "date": "Oct 5, 2026",
-        "publishedAt": "2026-10-05T21:23:27.000Z",
-        "source": "Kalkine Media",
-        "summary": "Sentiment de l'article (Alpha Vantage) : plutôt haussier.",
-        "why": "L'article évoque : Gold.",
-        "link": "https://kalkinemedia.com/ca/stocks/gold/kinross-gold-corporation-tsxk-can-strength-offset-lower-guidance"
       }
     ],
     "btc-risk-appetite": [
@@ -377,18 +325,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Dollar.",
         "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth"
-      }
-    ],
-    "boj-japan": [
-      {
-        "kind": "catalyst",
-        "headline": "Citi Strategist Says JGBs Becoming Appealing as Yields Near Peak",
-        "date": "Oct 6, 2026",
-        "publishedAt": "2026-10-06T01:22:00.000Z",
-        "source": "Bloomberg.com",
-        "summary": "Sentiment de l'article (Alpha Vantage) : neutre.",
-        "why": "L'article évoque : JGBs.",
-        "link": "https://www.bloomberg.com/news/articles/2026-10-06/citi-strategist-says-jgbs-becoming-appealing-as-yields-near-peak"
       }
     ],
     "middle-east": [
