@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:35:48.621Z",
+  "updatedAt": "2026-10-13T10:33:52.264Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -46,6 +46,16 @@
     "nasdaq": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+        "date": "Oct 13, 2026",
+        "publishedAt": "2026-10-13T04:18:20.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
         "date": "Oct 8, 2026",
         "publishedAt": "2026-10-08T13:06:24.000Z",
@@ -56,6 +66,26 @@
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
+        "date": "Oct 13, 2026",
+        "publishedAt": "2026-10-13T09:25:03.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, BTC.",
+        "link": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+        "date": "Oct 13, 2026",
+        "publishedAt": "2026-10-13T05:45:10.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million"
+      },
       {
         "kind": "catalyst",
         "headline": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
@@ -75,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-        "date": "Oct 12, 2026",
-        "publishedAt": "2026-10-12T10:27:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-        "date": "Oct 12, 2026",
-        "publishedAt": "2026-10-12T10:20:54.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000"
       }
     ],
     "gold": [
@@ -122,6 +132,26 @@
     "btc-risk-appetite": [
       {
         "kind": "catalyst",
+        "headline": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+        "date": "Oct 13, 2026",
+        "publishedAt": "2026-10-13T05:27:17.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : liquidations.",
+        "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+        "date": "Oct 13, 2026",
+        "publishedAt": "2026-10-13T04:18:20.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
         "date": "Oct 9, 2026",
         "publishedAt": "2026-10-09T11:09:04.000Z",
@@ -139,16 +169,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Liquidations jump to $547 million as oil rally hits crypto market",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T10:35:09.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Liquidations.",
-        "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000"
       }
     ],
     "btc-real-yields": [
@@ -353,6 +373,12 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+    "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+    "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+    "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+    "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+    "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
     "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
     "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
     "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
@@ -746,12 +772,6 @@
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/targa-resources-stock-gets-a-buy-upgrade-and-usd-350-target-teaser-not/70227947",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/aes-corp-stock-faces-a-new-ferc-test-over-its-buyout/70227974",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/costamare-stock-gained-1-25-percent-after-dividend-declaration/70227920",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/cig-stock-gained-2-14-percent-as-cemig-kept-its-aaa-rating/70227856",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/norfolk-southern-stock-heads-toward-october-22-earnings/70227892",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/ryder-system-stock-gained-2-74-percent-ahead-of-october-22-earnings/70227592",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/archrock-stock-fell-below-its-50-day-average-after-q2-miss/70226849",
-    "https://www.cbsnews.com/detroit/news/delta-nonstop-detroit-airport-athens-greece/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/plpc-stock-reports-record-q2-revenue-as-eps-rises-75-percent/70227715",
-    "https://www.bizjournals.com/dayton/news/2026/10/04/boeing-p-8a-poseidon-315m-contract-extension-work.html"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/cig-stock-gained-2-14-percent-as-cemig-kept-its-aaa-rating/70227856"
   ]
 }
