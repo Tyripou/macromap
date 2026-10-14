@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-14T05:00:37.344Z",
+  "updatedAt": "2026-10-14T11:50:10.210Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T08:48:11.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins.",
+        "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore"
+      },
       {
         "kind": "catalyst",
         "headline": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoins.",
         "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T21:22:58.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Tether.",
-        "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether"
       }
     ],
     "nasdaq": [
@@ -68,6 +68,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Here's how analysts see U.S. inflation influencing bitcoin",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T11:15:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T08:10:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
         "date": "Oct 14, 2026",
         "publishedAt": "2026-10-14T03:50:54.000Z",
@@ -85,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto.",
         "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T23:23:05.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T11:26:45.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks"
       }
     ],
     "gold": [
@@ -257,18 +257,6 @@
         "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months"
       }
     ],
-    "oil-geo": [
-      {
-        "kind": "catalyst",
-        "headline": "Liquidations jump to $547 million as oil rally hits crypto market",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T10:35:09.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : tanker, attacks.",
-        "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000"
-      }
-    ],
     "dxy": [
       {
         "kind": "catalyst",
@@ -320,6 +308,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T10:38:47.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : S&P.",
+        "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange"
+      },
+      {
+        "kind": "catalyst",
         "headline": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
         "date": "Oct 13, 2026",
         "publishedAt": "2026-10-13T21:52:00.000Z",
@@ -362,9 +360,30 @@
         "why": "L'article évoque : rate hikes.",
         "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027"
       }
+    ],
+    "spx": [
+      {
+        "kind": "catalyst",
+        "headline": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T10:38:47.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : S&P 500.",
+        "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
+    "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
+    "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+    "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
+    "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+    "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+    "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+    "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+    "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
     "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
     "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
     "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
@@ -755,15 +774,6 @@
     "https://www.tradingview.com/news/tradingview:a29d3c62fb51f:0-weekly-recap-sept-deliveries-down-6-3-and-nov-25-earnings-report/",
     "https://www.ad-hoc-news.de/boerse/news/nebenwerte/oge-energy-declares-dividend-as-rbc-lifts-target-for-oge-energy-stock/70228782",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/matson-stock-gained-2-49-percent-on-october-2-after-q2-outlook/70228241",
-    "https://finance.yahoo.com/markets/stocks/articles/nio-nio-down-5-9-220550752.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/eqt-stock-heads-toward-october-20-earnings-after-q2-miss/70228560",
-    "https://finance.yahoo.com/markets/stocks/articles/valero-vlo-vs-phillips-66-214058034.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/embraer-stock-gained-1-51-percent-after-record-deliveries/70228031",
-    "https://news.sbs.co.kr/english/article.do?news_id=N1008783019",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/jinkosolar-stock-reports-a-31-3-percent-revenue-decline/70228496",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/american-electric-power-stock-faces-a-nuclear-unit-leadership-change/70228237",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/evergy-stock-gets-a-hold-view-with-a-usd-85-52-target/70227952",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/ppl-corporation-stock-holds-at-usd-32-80-as-guidance-stays-intact/70228593",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/oil-states-international-stock-stood-at-usd-8-22-after-q2-profit-beat/70228449"
+    "https://finance.yahoo.com/markets/stocks/articles/nio-nio-down-5-9-220550752.html"
   ]
 }
