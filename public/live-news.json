@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T19:16:28.372Z",
+  "updatedAt": "2026-10-14T00:17:08.874Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+        "date": "Oct 13, 2026",
+        "publishedAt": "2026-10-13T23:23:05.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
         "date": "Oct 13, 2026",
         "publishedAt": "2026-10-13T11:26:45.000Z",
@@ -95,16 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, BTC.",
         "link": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T05:45:10.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million"
       }
     ],
     "gold": [
@@ -340,6 +340,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+        "date": "Oct 13, 2026",
+        "publishedAt": "2026-10-13T21:52:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
         "date": "Oct 13, 2026",
         "publishedAt": "2026-10-13T11:56:04.000Z",
@@ -348,9 +358,23 @@
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares"
       }
+    ],
+    "bonds": [
+      {
+        "kind": "catalyst",
+        "headline": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+        "date": "Oct 13, 2026",
+        "publishedAt": "2026-10-13T21:52:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Treasuries, government bonds.",
+        "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+    "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
     "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
@@ -748,8 +772,6 @@
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/oil-states-international-stock-stood-at-usd-8-22-after-q2-profit-beat/70228449",
     "https://www.benzinga.com/markets/equities/26/10/62153028/top-3-us-stocks-to-watch-this-week-pepsico-delta-air-lines-nvidia",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/eversource-energy-stock-gets-a-usd-47-7-million-grid-award/70228373",
-    "https://www.tradingview.com/symbols/FINRA-TRGP6228104/profile/",
-    "https://www.tipranks.com/news/archer-aviation-gets-legal-relief-as-court-dismisses-some-joby-claims",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/atmos-energy-stock-faces-a-lower-jefferies-price-target/70228174"
+    "https://www.tradingview.com/symbols/FINRA-TRGP6228104/profile/"
   ]
 }
