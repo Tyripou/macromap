@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:17:08.874Z",
+  "updatedAt": "2026-10-14T05:00:37.344Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T03:50:54.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T01:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
         "date": "Oct 13, 2026",
         "publishedAt": "2026-10-13T23:23:05.000Z",
@@ -85,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T11:06:39.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T09:25:03.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, BTC.",
-        "link": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin"
       }
     ],
     "gold": [
@@ -213,16 +213,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Brent, oil jumps, crude.",
         "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T04:00:51.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : oil jumps.",
-        "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks"
       }
     ],
     "btc-etf-flows": [
@@ -277,16 +267,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : tanker, attacks.",
         "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-        "date": "Oct 7, 2026",
-        "publishedAt": "2026-10-07T04:00:51.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : tanker, attacks.",
-        "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks"
       }
     ],
     "dxy": [
@@ -370,9 +350,24 @@
         "why": "L'article évoque : Treasuries, government bonds.",
         "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing"
       }
+    ],
+    "rate-expectations": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T03:50:54.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : rate hikes.",
+        "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+    "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+    "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
     "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
     "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
@@ -769,9 +764,6 @@
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/american-electric-power-stock-faces-a-nuclear-unit-leadership-change/70228237",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/evergy-stock-gets-a-hold-view-with-a-usd-85-52-target/70227952",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/ppl-corporation-stock-holds-at-usd-32-80-as-guidance-stays-intact/70228593",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/oil-states-international-stock-stood-at-usd-8-22-after-q2-profit-beat/70228449",
-    "https://www.benzinga.com/markets/equities/26/10/62153028/top-3-us-stocks-to-watch-this-week-pepsico-delta-air-lines-nvidia",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/eversource-energy-stock-gets-a-usd-47-7-million-grid-award/70228373",
-    "https://www.tradingview.com/symbols/FINRA-TRGP6228104/profile/"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/oil-states-international-stock-stood-at-usd-8-22-after-q2-profit-beat/70228449"
   ]
 }
