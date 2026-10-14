@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:50:10.210Z",
+  "updatedAt": "2026-10-14T17:09:07.901Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -46,6 +46,16 @@
     "nasdaq": [
       {
         "kind": "catalyst",
+        "headline": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T14:08:43.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
         "date": "Oct 13, 2026",
         "publishedAt": "2026-10-13T04:18:20.000Z",
@@ -68,6 +78,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T15:05:15.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, Crypto.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T12:33:56.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Here's how analysts see U.S. inflation influencing bitcoin",
         "date": "Oct 14, 2026",
         "publishedAt": "2026-10-14T11:15:00.000Z",
@@ -85,29 +115,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, crypto.",
         "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T03:50:54.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T01:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action"
       }
     ],
     "gold": [
+      {
+        "kind": "catalyst",
+        "headline": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T15:05:15.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : gold.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio"
+      },
       {
         "kind": "catalyst",
         "headline": "Tokenized commodities look beyond gold as lending and oil open new markets",
@@ -296,6 +316,16 @@
     "valuations": [
       {
         "kind": "catalyst",
+        "headline": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T14:49:32.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : valuation.",
+        "link": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
         "date": "Oct 13, 2026",
         "publishedAt": "2026-10-13T15:52:09.000Z",
@@ -372,9 +402,30 @@
         "why": "L'article évoque : S&P 500.",
         "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange"
       }
+    ],
+    "cpi": [
+      {
+        "kind": "catalyst",
+        "headline": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+        "date": "Oct 14, 2026",
+        "publishedAt": "2026-10-14T12:33:56.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : CPI.",
+        "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
+    "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+    "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
+    "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+    "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+    "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+    "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
+    "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+    "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
     "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
     "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
     "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
@@ -765,15 +816,6 @@
     "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-rally-4930987",
     "https://en.bloomingbit.io/feed/news/121584",
     "https://www.ad-hoc-news.de/boerse/news/nebenwerte/citizens-upgrades-radiant-logistics-stock-after-a-stronger-quarter/70229008",
-    "https://uk.finance.yahoo.com/quote/9866.HK/latest-news/",
-    "https://pluang.com/en/news-feed/sp-global-ratings-luncurkan-vault-risk-assessment-untuk-pasar-aset-digital",
-    "https://www.stocktitan.net/news/SPGI/s-p-global-ratings-launches-vault-risk-assessment-for-digital-asset-kward83scody.html",
-    "https://www.morningstar.com/news/pr-newswire/20261004ny63167/sp-global-ratings-launches-vault-risk-assessment-for-digital-asset-markets",
-    "https://simplywall.st/stocks/us/energy/nyse-psx/phillips-66/news/phillips-66-psx-faces-bayway-strike-risk-is-the-stock-fully",
-    "https://www.marketscreener.com/news/s-p-global-ratings-launches-vault-risk-assessment-for-digital-asset-markets-ce785ddbdf89f125",
-    "https://www.tradingview.com/news/tradingview:a29d3c62fb51f:0-weekly-recap-sept-deliveries-down-6-3-and-nov-25-earnings-report/",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/oge-energy-declares-dividend-as-rbc-lifts-target-for-oge-energy-stock/70228782",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/matson-stock-gained-2-49-percent-on-october-2-after-q2-outlook/70228241",
-    "https://finance.yahoo.com/markets/stocks/articles/nio-nio-down-5-9-220550752.html"
+    "https://uk.finance.yahoo.com/quote/9866.HK/latest-news/"
   ]
 }
