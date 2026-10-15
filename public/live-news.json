@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T21:40:04.828Z",
+  "updatedAt": "2026-10-15T04:36:51.873Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -78,6 +78,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T04:25:15.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T04:13:56.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
         "date": "Oct 14, 2026",
         "publishedAt": "2026-10-14T15:05:15.000Z",
@@ -95,26 +115,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Here's how analysts see U.S. inflation influencing bitcoin",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T11:15:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T08:10:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients"
       }
     ],
     "gold": [
@@ -223,16 +223,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : oil prices.",
         "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T04:00:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Brent, oil jumps, crude.",
-        "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report"
       }
     ],
     "btc-etf-flows": [
@@ -414,9 +404,25 @@
         "why": "L'article évoque : CPI.",
         "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower"
       }
+    ],
+    "fed": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T03:57:45.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Fed.",
+        "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+    "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+    "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+    "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
     "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
     "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
     "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
@@ -812,10 +818,6 @@
     "https://www.ad-hoc-news.de/boerse/news/nebenwerte/h-c-wainwright-raises-target-for-calumet-stock-to-usd-75-00/70229293",
     "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
     "https://www.tradingview.com/news/cointelegraph:b919ad2f0094b:0-okx-nyse-parent-file-to-launch-tokenized-us-stock-platform/",
-    "https://www.newswire.co.kr/newsRead.php?no=1043962",
-    "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-rally-4930987",
-    "https://en.bloomingbit.io/feed/news/121584",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/citizens-upgrades-radiant-logistics-stock-after-a-stronger-quarter/70229008",
-    "https://uk.finance.yahoo.com/quote/9866.HK/latest-news/"
+    "https://www.newswire.co.kr/newsRead.php?no=1043962"
   ]
 }
