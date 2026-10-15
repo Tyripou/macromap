@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T11:27:00.326Z",
+  "updatedAt": "2026-10-15T16:59:27.467Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -63,19 +63,29 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T13:06:24.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : mega-caps, Apple.",
-        "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works"
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T12:35:24.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T12:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin, copper, stocks, yields all fall; gold rises",
@@ -95,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T04:25:15.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T04:13:56.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65"
       }
     ],
     "gold": [
@@ -147,19 +137,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : gold.",
         "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T15:11:15.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : gold.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3"
       }
     ],
     "btc-risk-appetite": [
+      {
+        "kind": "catalyst",
+        "headline": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T15:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
+      },
       {
         "kind": "catalyst",
         "headline": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
@@ -189,19 +179,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : liquidation.",
         "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T19:46:15.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says"
       }
     ],
     "btc-regulation": [
+      {
+        "kind": "catalyst",
+        "headline": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T15:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto rules, Congress.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
+      },
       {
         "kind": "catalyst",
         "headline": "Thailand opens door to locally listed bitcoin and ether ETFs",
@@ -421,6 +411,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+    "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+    "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
     "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
     "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
     "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
@@ -817,9 +810,6 @@
     "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up",
     "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
     "https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/",
-    "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes",
-    "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
-    "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
-    "https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm"
+    "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes"
   ]
 }
