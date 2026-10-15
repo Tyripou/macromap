@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:36:51.873Z",
+  "updatedAt": "2026-10-15T11:27:00.326Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -78,6 +78,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin, copper, stocks, yields all fall; gold rises",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T11:15:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T10:52:11.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
         "date": "Oct 15, 2026",
         "publishedAt": "2026-10-15T04:25:15.000Z",
@@ -95,29 +115,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T15:05:15.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, Crypto.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T12:33:56.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower"
       }
     ],
     "gold": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin, copper, stocks, yields all fall; gold rises",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T11:15:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : gold, gold rises.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises"
+      },
       {
         "kind": "catalyst",
         "headline": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
@@ -213,16 +223,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : oil drops.",
         "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: Bitcoin adds to declines, testing $80,000 level",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T10:44:47.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : oil prices.",
-        "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify"
       }
     ],
     "btc-etf-flows": [
@@ -255,16 +255,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin ETFs.",
         "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
-        "date": "Oct 8, 2026",
-        "publishedAt": "2026-10-08T11:15:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin ETF.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months"
       }
     ],
     "dxy": [
@@ -416,9 +406,28 @@
         "why": "L'article évoque : Fed.",
         "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs"
       }
+    ],
+    "treasury-supply": [
+      {
+        "kind": "catalyst",
+        "headline": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+        "date": "Oct 15, 2026",
+        "publishedAt": "2026-10-15T06:17:58.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : national debt.",
+        "link": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+    "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+    "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
+    "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+    "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+    "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+    "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
     "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
     "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
     "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
@@ -811,13 +820,6 @@
     "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes",
     "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
     "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
-    "https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm",
-    "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-    "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-    "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/h-c-wainwright-raises-target-for-calumet-stock-to-usd-75-00/70229293",
-    "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
-    "https://www.tradingview.com/news/cointelegraph:b919ad2f0094b:0-okx-nyse-parent-file-to-launch-tokenized-us-stock-platform/",
-    "https://www.newswire.co.kr/newsRead.php?no=1043962"
+    "https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm"
   ]
 }
