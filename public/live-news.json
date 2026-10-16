@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T21:21:59.602Z",
+  "updatedAt": "2026-10-16T04:30:31.356Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -31,16 +31,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoins.",
         "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-        "date": "Oct 9, 2026",
-        "publishedAt": "2026-10-09T04:21:36.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoins.",
-        "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds"
       }
     ],
     "nasdaq": [
@@ -66,6 +56,16 @@
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+        "date": "Oct 16, 2026",
+        "publishedAt": "2026-10-16T04:14:22.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound"
+      },
       {
         "kind": "catalyst",
         "headline": "At the White House, crypto policy vacancy looms large",
@@ -95,16 +95,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto.",
         "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin, copper, stocks, yields all fall; gold rises",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T11:15:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises"
       }
     ],
     "gold": [
@@ -201,18 +191,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto rules.",
         "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs"
-      }
-    ],
-    "oil": [
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-        "date": "Oct 9, 2026",
-        "publishedAt": "2026-10-09T03:27:38.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : oil drops.",
-        "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes"
       }
     ],
     "btc-etf-flows": [
@@ -411,6 +389,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
     "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
     "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
     "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
@@ -809,7 +788,6 @@
     "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher",
     "https://www.fool.com/investing/2026/10/02/my-honest-opinion-of-shiba-inu/",
     "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up",
-    "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
-    "https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/"
+    "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html"
   ]
 }
