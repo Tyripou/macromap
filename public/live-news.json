@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T11:21:57.797Z",
+  "updatedAt": "2026-10-16T16:38:00.788Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -377,6 +377,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
     "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
     "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
     "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
@@ -775,7 +776,6 @@
     "https://www.thestate.com/news/article317494203.html",
     "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/commercial-metals-stock-heads-into-october-15-earnings-with-buyback/70231348",
-    "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red",
-    "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year"
+    "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red"
   ]
 }
