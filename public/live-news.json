@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-16T04:30:31.356Z",
+  "updatedAt": "2026-10-16T11:21:57.797Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Circle targets 40 new markets as stablecoin demand grows globally",
+        "date": "Oct 16, 2026",
+        "publishedAt": "2026-10-16T10:54:35.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally"
+      },
       {
         "kind": "catalyst",
         "headline": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
@@ -58,6 +68,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+        "date": "Oct 16, 2026",
+        "publishedAt": "2026-10-16T10:52:26.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, BTC, crypto.",
+        "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
+        "date": "Oct 16, 2026",
+        "publishedAt": "2026-10-16T09:48:14.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, Crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
         "date": "Oct 16, 2026",
         "publishedAt": "2026-10-16T04:14:22.000Z",
@@ -75,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto.",
         "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T12:35:24.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T12:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone"
       }
     ],
     "gold": [
@@ -159,19 +169,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-        "date": "Oct 9, 2026",
-        "publishedAt": "2026-10-09T11:09:04.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : liquidation.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure"
       }
     ],
     "btc-regulation": [
+      {
+        "kind": "catalyst",
+        "headline": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+        "date": "Oct 16, 2026",
+        "publishedAt": "2026-10-16T09:36:21.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : CFTC.",
+        "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing"
+      },
       {
         "kind": "catalyst",
         "headline": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
@@ -181,19 +191,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto rules, Congress.",
         "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Thailand opens door to locally listed bitcoin and ether ETFs",
-        "date": "Oct 9, 2026",
-        "publishedAt": "2026-10-09T10:16:55.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto rules.",
-        "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs"
       }
     ],
     "btc-etf-flows": [
+      {
+        "kind": "catalyst",
+        "headline": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
+        "date": "Oct 16, 2026",
+        "publishedAt": "2026-10-16T09:48:14.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : ETF outflows.",
+        "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue"
+      },
       {
         "kind": "catalyst",
         "headline": "Altcoins rally on thin trading as bitcoin holds below $83,500",
@@ -213,16 +223,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : spot ETFs.",
         "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
-        "date": "Oct 9, 2026",
-        "publishedAt": "2026-10-09T06:51:32.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin ETFs.",
-        "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows"
       }
     ],
     "dxy": [
@@ -235,18 +235,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : dollar, dollar strength.",
         "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge"
-      }
-    ],
-    "middle-east": [
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-        "date": "Oct 9, 2026",
-        "publishedAt": "2026-10-09T10:44:22.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Iran.",
-        "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms"
       }
     ],
     "g-usd": [
@@ -389,6 +377,17 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
+    "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+    "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+    "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
+    "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+    "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+    "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+    "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+    "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+    "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+    "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
     "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
     "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
     "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
@@ -777,17 +776,6 @@
     "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/commercial-metals-stock-heads-into-october-15-earnings-with-buyback/70231348",
     "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red",
-    "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
-    "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-    "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
-    "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
-    "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-    "https://www.fool.com/investing/2026/10/02/3-superior-cryptocurrencies-to-buy-and-hold-for-10/",
-    "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain",
-    "https://www.fool.com/investing/2026/10/02/heres-why-im-buying-chainlink-link-right-now/",
-    "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher",
-    "https://www.fool.com/investing/2026/10/02/my-honest-opinion-of-shiba-inu/",
-    "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up",
-    "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html"
+    "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year"
   ]
 }
