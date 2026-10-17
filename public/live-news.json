@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-17T10:42:03.204Z",
+  "updatedAt": "2026-10-17T15:33:01.026Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+        "date": "Oct 17, 2026",
+        "publishedAt": "2026-10-17T12:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds"
+      },
       {
         "kind": "catalyst",
         "headline": "Circle targets 40 new markets as stablecoin demand grows globally",
@@ -117,16 +127,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : gold.",
         "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Tokenized commodities look beyond gold as lending and oil open new markets",
-        "date": "Oct 10, 2026",
-        "publishedAt": "2026-10-10T12:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : gold.",
-        "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets"
       }
     ],
     "btc-risk-appetite": [
@@ -367,6 +367,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+    "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+    "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
     "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
     "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
     "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
@@ -763,9 +766,6 @@
     "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
     "https://www.businesstoday.in/amp/markets/stocks/story/tcs-infosys-hcl-tech-wipro-techm-3-takeaways-from-accentures-q4-results-top-picks-559576-2026-10-05",
     "https://kalkine.ca/news/technology/draganfly-stock-faces-mounting-pressure-as-weak-sentiment-raises-downside-risk-october-2-2026",
-    "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-    "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa",
-    "https://www.thestate.com/news/article317494203.html",
-    "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week"
+    "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement"
   ]
 }
