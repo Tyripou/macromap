@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T23:34:43.903Z",
+  "updatedAt": "2026-10-17T03:36:23.042Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -31,16 +31,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-        "date": "Oct 10, 2026",
-        "publishedAt": "2026-10-10T03:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoins.",
-        "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa"
       }
     ],
     "nasdaq": [
@@ -66,6 +56,16 @@
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+        "date": "Oct 17, 2026",
+        "publishedAt": "2026-10-17T02:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
+      },
       {
         "kind": "catalyst",
         "headline": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
@@ -95,16 +95,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "At the White House, crypto policy vacancy looms large",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T18:48:02.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large"
       }
     ],
     "gold": [
@@ -377,6 +367,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
     "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
     "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
     "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
@@ -775,7 +766,6 @@
     "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa",
     "https://www.thestate.com/news/article317494203.html",
     "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/commercial-metals-stock-heads-into-october-15-earnings-with-buyback/70231348",
-    "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/commercial-metals-stock-heads-into-october-15-earnings-with-buyback/70231348"
   ]
 }
