@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:23:47.049Z",
+  "updatedAt": "2026-10-17T10:42:03.204Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -58,6 +58,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+        "date": "Oct 17, 2026",
+        "publishedAt": "2026-10-17T06:39:48.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
         "date": "Oct 17, 2026",
         "publishedAt": "2026-10-17T02:30:00.000Z",
@@ -85,16 +95,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, Crypto.",
         "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-        "date": "Oct 16, 2026",
-        "publishedAt": "2026-10-16T04:14:22.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound"
       }
     ],
     "gold": [
@@ -367,6 +367,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
     "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
     "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
     "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
@@ -765,7 +766,6 @@
     "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
     "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa",
     "https://www.thestate.com/news/article317494203.html",
-    "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/commercial-metals-stock-heads-into-october-15-earnings-with-buyback/70231348"
+    "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week"
   ]
 }
