@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:51:03.413Z",
+  "updatedAt": "2026-10-18T20:41:07.211Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "The White House's crypto chief departs: State of Crypto",
+        "date": "Oct 18, 2026",
+        "publishedAt": "2026-10-18T18:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+        "date": "Oct 18, 2026",
+        "publishedAt": "2026-10-18T16:33:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
         "date": "Oct 18, 2026",
         "publishedAt": "2026-10-18T14:00:00.000Z",
@@ -85,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-        "date": "Oct 17, 2026",
-        "publishedAt": "2026-10-17T06:39:48.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-        "date": "Oct 17, 2026",
-        "publishedAt": "2026-10-17T02:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
       }
     ],
     "gold": [
@@ -130,6 +130,16 @@
       }
     ],
     "btc-risk-appetite": [
+      {
+        "kind": "catalyst",
+        "headline": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+        "date": "Oct 18, 2026",
+        "publishedAt": "2026-10-18T16:33:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last"
+      },
       {
         "kind": "catalyst",
         "headline": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
@@ -377,6 +387,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+    "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+    "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
     "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
     "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
     "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
@@ -773,9 +786,6 @@
     "https://www.indexbox.io/blog/dte-energy-completes-100mw-cold-creek-solar-park-in-michigan/",
     "https://kalkinemedia.com/uk/stocks/dividend/can-diageo-lsedge-protect-its-payout-while-a-new-chief-rewires-the-business-this-week-with-ftse-100-in-focus",
     "https://www.stocktitan.net/sec-filings/HDB/6-k-hdfc-bank-ltd-current-report-foreign-issuer-5ce6e11c9985.html",
-    "https://www.prnewswire.com/in/news-releases/philip-morris-india-and-litterati-collaborate-to-address-littering-through-evidence-based-solutions-302898313.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/citi-trends-stock-fell-3-02-percent-as-q2-sales-grew/70232228",
-    "https://www.marketscreener.com/news/goldman-sachs-adjusts-price-target-on-citigroup-to-156-from-169-maintains-buy-rating-ce785ddbd089ff22",
-    "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign"
+    "https://www.prnewswire.com/in/news-releases/philip-morris-india-and-litterati-collaborate-to-address-littering-through-evidence-based-solutions-302898313.html"
   ]
 }
