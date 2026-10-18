@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-17T23:07:11.118Z",
+  "updatedAt": "2026-10-18T04:31:14.692Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+        "date": "Oct 18, 2026",
+        "publishedAt": "2026-10-18T01:06:35.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin, USDC.",
+        "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
+      },
       {
         "kind": "catalyst",
         "headline": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoins.",
         "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
-        "date": "Oct 12, 2026",
-        "publishedAt": "2026-10-12T11:02:38.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis"
       }
     ],
     "nasdaq": [
@@ -367,6 +367,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
     "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
     "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
     "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
@@ -765,7 +766,6 @@
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-raises-dividend-and-texas-instruments-stock-costs-eur/70231980",
     "https://www.cnbc.com/2026/10/05/harley-davidson-has-struggled-in-recent-years-citi-says-buy-the-stock.html",
     "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-    "https://www.businesstoday.in/amp/markets/stocks/story/tcs-infosys-hcl-tech-wipro-techm-3-takeaways-from-accentures-q4-results-top-picks-559576-2026-10-05",
-    "https://kalkine.ca/news/technology/draganfly-stock-faces-mounting-pressure-as-weak-sentiment-raises-downside-risk-october-2-2026"
+    "https://www.businesstoday.in/amp/markets/stocks/story/tcs-infosys-hcl-tech-wipro-techm-3-takeaways-from-accentures-q4-results-top-picks-559576-2026-10-05"
   ]
 }
