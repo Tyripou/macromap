@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-18T11:02:35.408Z",
+  "updatedAt": "2026-10-18T15:51:03.413Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+        "date": "Oct 18, 2026",
+        "publishedAt": "2026-10-18T14:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash"
+      },
       {
         "kind": "catalyst",
         "headline": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T08:48:11.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoins.",
-        "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore"
       }
     ],
     "nasdaq": [
@@ -68,6 +68,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+        "date": "Oct 18, 2026",
+        "publishedAt": "2026-10-18T14:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+        "date": "Oct 18, 2026",
+        "publishedAt": "2026-10-18T13:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook"
+      },
+      {
+        "kind": "catalyst",
         "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
         "date": "Oct 17, 2026",
         "publishedAt": "2026-10-17T06:39:48.000Z",
@@ -85,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-        "date": "Oct 16, 2026",
-        "publishedAt": "2026-10-16T10:52:26.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, BTC, crypto.",
-        "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
-        "date": "Oct 16, 2026",
-        "publishedAt": "2026-10-16T09:48:14.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, Crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue"
       }
     ],
     "gold": [
@@ -377,6 +377,10 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+    "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+    "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+    "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
     "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
     "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
     "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
@@ -772,10 +776,6 @@
     "https://www.prnewswire.com/in/news-releases/philip-morris-india-and-litterati-collaborate-to-address-littering-through-evidence-based-solutions-302898313.html",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/citi-trends-stock-fell-3-02-percent-as-q2-sales-grew/70232228",
     "https://www.marketscreener.com/news/goldman-sachs-adjusts-price-target-on-citigroup-to-156-from-169-maintains-buy-rating-ce785ddbd089ff22",
-    "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign",
-    "https://www.reuters.com/business/energy/conocophillips-sees-oil-price-floor-rising-70-barrel-chairman-says-2026-10-05/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/texas-instruments-raises-dividend-and-texas-instruments-stock-costs-eur/70231980",
-    "https://www.cnbc.com/2026/10/05/harley-davidson-has-struggled-in-recent-years-citi-says-buy-the-stock.html",
-    "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead"
+    "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign"
   ]
 }
