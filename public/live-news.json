@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:38:41.778Z",
+  "updatedAt": "2026-10-19T13:11:39.193Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -46,6 +46,16 @@
     "nasdaq": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T10:26:33.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
         "date": "Oct 19, 2026",
         "publishedAt": "2026-10-19T03:36:58.000Z",
@@ -73,19 +83,29 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T04:18:20.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures"
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T09:12:39.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, Crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T06:23:16.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131"
+      },
       {
         "kind": "catalyst",
         "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
@@ -105,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto.",
         "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
-        "date": "Oct 18, 2026",
-        "publishedAt": "2026-10-18T16:33:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-        "date": "Oct 18, 2026",
-        "publishedAt": "2026-10-18T14:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash"
       }
     ],
     "gold": [
@@ -223,50 +223,18 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : ETF outflows.",
         "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-        "date": "Oct 12, 2026",
-        "publishedAt": "2026-10-12T10:20:54.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin ETFs, spot bitcoin ETFs.",
-        "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
-        "date": "Oct 12, 2026",
-        "publishedAt": "2026-10-12T04:49:30.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : spot ETFs.",
-        "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls"
       }
     ],
     "dxy": [
       {
         "kind": "catalyst",
-        "headline": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-        "date": "Oct 12, 2026",
-        "publishedAt": "2026-10-12T11:21:11.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : dollar, dollar strength.",
-        "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge"
-      }
-    ],
-    "g-usd": [
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
-        "date": "Oct 12, 2026",
-        "publishedAt": "2026-10-12T11:21:11.000Z",
+        "headline": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T10:03:47.000Z",
         "source": "CoinDesk",
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : dollar.",
-        "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge"
+        "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg"
       }
     ],
     "valuations": [
@@ -292,6 +260,16 @@
       }
     ],
     "equities": [
+      {
+        "kind": "catalyst",
+        "headline": "Live updates: Bitcoin edges higher as U.S. stocks rebound early Monday",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T11:05:54.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : U.S. stocks.",
+        "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound"
+      },
       {
         "kind": "catalyst",
         "headline": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
@@ -321,16 +299,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T11:56:04.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares"
       }
     ],
     "bonds": [
@@ -404,9 +372,32 @@
         "why": "L'article évoque : national debt.",
         "link": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai"
       }
+    ],
+    "usd": [
+      {
+        "kind": "catalyst",
+        "headline": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T10:03:47.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : dollar.",
+        "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
+    "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
+    "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
+    "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+    "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+    "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
+    "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
+    "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+    "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+    "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+    "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
     "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
     "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
     "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
@@ -795,17 +786,6 @@
     "https://www.mysanantonio.com/business/article/kroger-princeton-texas-22447852.php",
     "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
     "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-massmutual-private-wealth-trust-fsb-2026-10-05/",
-    "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
-    "https://simplywall.st/stocks/us/telecom/nyse-vz/verizon-communications/news/dont-race-out-to-buy-verizon-communications-inc-nysevz-just",
-    "https://www.benzinga.com/news/26/10/62156927/krispy-kreme-q2-2026-earnings-call-transcript",
-    "https://www.marketscreener.com/news/wells-fargo-adjusts-price-target-on-mcdonald-s-to-270-from-300-maintains-overweight-rating-ce785ddbd08af020",
-    "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
-    "https://ca.investing.com/news/stock-market-news/evercore-isi-cuts-align-technology-stock-rating-on-weak-demand-93CH-4865350",
-    "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-    "https://sg.finance.yahoo.com/news/morgan-stanley-bullish-continental-tyre-103822405.html",
-    "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
-    "https://www.investing.com/news/analyst-ratings/evercore-isi-cuts-align-technology-stock-rating-on-weak-demand-93CH-4931494",
-    "https://us.fashionnetwork.com/news/Hermes-gets-rare-sell-calls-as-goldman-ubs-see-weaker-growth,1873056.html",
-    "https://www.indexbox.io/blog/dte-energy-completes-100mw-cold-creek-solar-park-in-michigan/"
+    "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy"
   ]
 }
