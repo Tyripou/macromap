@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-18T23:10:54.673Z",
+  "updatedAt": "2026-10-19T04:38:41.778Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T02:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins, USDC.",
+        "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears"
+      },
       {
         "kind": "catalyst",
         "headline": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
@@ -31,19 +41,29 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Circle targets 40 new markets as stablecoin demand grows globally",
-        "date": "Oct 16, 2026",
-        "publishedAt": "2026-10-16T10:54:35.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally"
       }
     ],
     "nasdaq": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T03:36:58.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+        "date": "Oct 18, 2026",
+        "publishedAt": "2026-10-18T23:28:06.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing"
+      },
       {
         "kind": "catalyst",
         "headline": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
@@ -66,6 +86,16 @@
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T02:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears"
+      },
       {
         "kind": "catalyst",
         "headline": "The White House's crypto chief departs: State of Crypto",
@@ -95,16 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto.",
         "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-        "date": "Oct 18, 2026",
-        "publishedAt": "2026-10-18T13:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook"
       }
     ],
     "gold": [
@@ -130,6 +150,16 @@
       }
     ],
     "btc-risk-appetite": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T03:36:58.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : risk appetite, Nasdaq.",
+        "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates"
+      },
       {
         "kind": "catalyst",
         "headline": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
@@ -159,16 +189,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : liquidations.",
         "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T04:18:20.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures"
       }
     ],
     "btc-regulation": [
@@ -387,6 +407,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+    "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+    "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
     "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
     "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
     "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
@@ -783,9 +806,6 @@
     "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
     "https://www.investing.com/news/analyst-ratings/evercore-isi-cuts-align-technology-stock-rating-on-weak-demand-93CH-4931494",
     "https://us.fashionnetwork.com/news/Hermes-gets-rare-sell-calls-as-goldman-ubs-see-weaker-growth,1873056.html",
-    "https://www.indexbox.io/blog/dte-energy-completes-100mw-cold-creek-solar-park-in-michigan/",
-    "https://kalkinemedia.com/uk/stocks/dividend/can-diageo-lsedge-protect-its-payout-while-a-new-chief-rewires-the-business-this-week-with-ftse-100-in-focus",
-    "https://www.stocktitan.net/sec-filings/HDB/6-k-hdfc-bank-ltd-current-report-foreign-issuer-5ce6e11c9985.html",
-    "https://www.prnewswire.com/in/news-releases/philip-morris-india-and-litterati-collaborate-to-address-littering-through-evidence-based-solutions-302898313.html"
+    "https://www.indexbox.io/blog/dte-energy-completes-100mw-cold-creek-solar-park-in-michigan/"
   ]
 }
