@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-19T13:11:39.193Z",
+  "updatedAt": "2026-10-19T20:34:55.866Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T20:21:13.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin, Tether.",
+        "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes"
+      },
       {
         "kind": "catalyst",
         "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin, USDC.",
         "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-        "date": "Oct 17, 2026",
-        "publishedAt": "2026-10-17T12:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds"
       }
     ],
     "nasdaq": [
@@ -88,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T16:47:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T14:58:40.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses"
+      },
+      {
+        "kind": "catalyst",
         "headline": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
         "date": "Oct 19, 2026",
         "publishedAt": "2026-10-19T09:12:39.000Z",
@@ -105,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, BTC.",
         "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-        "date": "Oct 19, 2026",
-        "publishedAt": "2026-10-19T02:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "The White House's crypto chief departs: State of Crypto",
-        "date": "Oct 18, 2026",
-        "publishedAt": "2026-10-18T18:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto"
       }
     ],
     "gold": [
@@ -192,6 +192,16 @@
       }
     ],
     "btc-regulation": [
+      {
+        "kind": "catalyst",
+        "headline": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+        "date": "Oct 19, 2026",
+        "publishedAt": "2026-10-19T16:47:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : CFTC.",
+        "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures"
+      },
       {
         "kind": "catalyst",
         "headline": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
@@ -387,6 +397,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+    "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+    "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
     "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
     "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
     "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
@@ -783,9 +796,6 @@
     "https://www.benzinga.com/news/26/10/62157829/esab-q2-2026-earnings-call-complete-transcript",
     "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
     "https://finance.yahoo.com/markets/stocks/articles/invested-1000-united-rentals-decade-113002567.html",
-    "https://www.mysanantonio.com/business/article/kroger-princeton-texas-22447852.php",
-    "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
-    "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-shares-sold-by-massmutual-private-wealth-trust-fsb-2026-10-05/",
-    "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy"
+    "https://www.mysanantonio.com/business/article/kroger-princeton-texas-22447852.php"
   ]
 }
