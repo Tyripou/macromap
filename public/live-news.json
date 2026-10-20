@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:15:18.476Z",
+  "updatedAt": "2026-10-20T23:51:57.988Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -329,28 +329,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : S&P.",
         "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T21:52:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing"
-      }
-    ],
-    "bonds": [
-      {
-        "kind": "catalyst",
-        "headline": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T21:52:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Treasuries, government bonds.",
-        "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing"
       }
     ],
     "rate-expectations": [
@@ -439,6 +417,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
     "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
     "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
     "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
@@ -837,7 +816,6 @@
     "https://www.theglobeandmail.com/investing/markets/stocks/WFC/pressreleases/4960472/jpmorgan-chase-earned-more-in-2025-than-bank-of-america-and-wells-fargo-combined-can-the-stock-keep-outrunning-them/",
     "https://finance.yahoo.com/healthcare/articles/zacks-analyst-blog-highlights-abbott-122900171.html",
     "https://247wallst.com/investing/2026/10/05/here-are-mondays-top-wall-street-analyst-research-calls-align-technology-autonation-estee-lauder-harley-davidson-hubspot-microsoft-mosaic-ryder-system-wells-fargo-company-and-more/?tpid=1673869&tv=link&tc=in_content",
-    "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
-    "https://www.fool.com/investing/2026/10/05/prediction-this-cryptocurrency-will-skyrocket-in-p/"
+    "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point"
   ]
 }
