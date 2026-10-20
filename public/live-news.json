@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:19:01.274Z",
+  "updatedAt": "2026-10-20T08:30:34.115Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -88,6 +88,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+        "date": "Oct 20, 2026",
+        "publishedAt": "2026-10-20T08:24:01.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock"
+      },
+      {
+        "kind": "catalyst",
         "headline": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
         "date": "Oct 19, 2026",
         "publishedAt": "2026-10-19T16:47:00.000Z",
@@ -115,16 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, Crypto.",
         "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-        "date": "Oct 19, 2026",
-        "publishedAt": "2026-10-19T06:23:16.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131"
       }
     ],
     "gold": [
@@ -179,16 +179,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T05:27:17.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : liquidations.",
-        "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million"
       }
     ],
     "btc-regulation": [
@@ -224,6 +214,16 @@
       }
     ],
     "btc-etf-flows": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+        "date": "Oct 20, 2026",
+        "publishedAt": "2026-10-20T08:24:01.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin ETFs, FBTC.",
+        "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock"
+      },
       {
         "kind": "catalyst",
         "headline": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
@@ -397,6 +397,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
     "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
     "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
     "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
@@ -795,7 +796,6 @@
     "https://www.investing.com/news/analyst-ratings/guggenheim-cuts-mcdonalds-stock-price-target-to-250-on-weaker-us-sales-93CH-4931688",
     "https://www.benzinga.com/news/26/10/62157829/esab-q2-2026-earnings-call-complete-transcript",
     "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-    "https://finance.yahoo.com/markets/stocks/articles/invested-1000-united-rentals-decade-113002567.html",
-    "https://www.mysanantonio.com/business/article/kroger-princeton-texas-22447852.php"
+    "https://finance.yahoo.com/markets/stocks/articles/invested-1000-united-rentals-decade-113002567.html"
   ]
 }
