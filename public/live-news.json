@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T14:17:59.353Z",
+  "updatedAt": "2026-10-20T19:15:18.476Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -88,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+        "date": "Oct 20, 2026",
+        "publishedAt": "2026-10-20T17:02:31.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+        "date": "Oct 20, 2026",
+        "publishedAt": "2026-10-20T14:28:39.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
         "date": "Oct 20, 2026",
         "publishedAt": "2026-10-20T11:14:21.000Z",
@@ -105,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, BTC.",
         "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T08:24:01.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-        "date": "Oct 19, 2026",
-        "publishedAt": "2026-10-19T16:47:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures"
       }
     ],
     "gold": [
@@ -297,16 +297,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : valuation.",
         "link": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-        "date": "Oct 13, 2026",
-        "publishedAt": "2026-10-13T15:52:09.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : valuations.",
-        "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants"
       }
     ],
     "equities": [
@@ -449,6 +439,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+    "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+    "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
     "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
     "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
     "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
@@ -845,9 +838,6 @@
     "https://finance.yahoo.com/healthcare/articles/zacks-analyst-blog-highlights-abbott-122900171.html",
     "https://247wallst.com/investing/2026/10/05/here-are-mondays-top-wall-street-analyst-research-calls-align-technology-autonation-estee-lauder-harley-davidson-hubspot-microsoft-mosaic-ryder-system-wells-fargo-company-and-more/?tpid=1673869&tv=link&tc=in_content",
     "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
-    "https://www.fool.com/investing/2026/10/05/prediction-this-cryptocurrency-will-skyrocket-in-p/",
-    "https://www.traveldailynews.com/hotels-lodging/largest-hotel-groups-worldwide/",
-    "https://ca.investing.com/news/stock-market-news/global-payments-analysis-is-oversold-signal-enough-to-buy-the-stock-93CH-4865455",
-    "https://uk.finance.yahoo.com/news/heres-why-hold-dow-stock-112700328.html"
+    "https://www.fool.com/investing/2026/10/05/prediction-this-cryptocurrency-will-skyrocket-in-p/"
   ]
 }
