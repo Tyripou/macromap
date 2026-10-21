@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T23:51:57.988Z",
+  "updatedAt": "2026-10-21T04:44:10.125Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -88,6 +88,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T04:07:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
+      },
+      {
+        "kind": "catalyst",
         "headline": "The Coinbase allegations expose Bitcoin's corporate governance gap",
         "date": "Oct 20, 2026",
         "publishedAt": "2026-10-20T17:02:31.000Z",
@@ -115,16 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T11:10:40.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade"
       }
     ],
     "gold": [
@@ -331,18 +331,6 @@
         "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange"
       }
     ],
-    "rate-expectations": [
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T03:50:54.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : rate hikes.",
-        "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027"
-      }
-    ],
     "spx": [
       {
         "kind": "catalyst",
@@ -414,9 +402,24 @@
         "why": "L'article évoque : Brent, oil prices, crude.",
         "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111"
       }
+    ],
+    "earnings": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T04:07:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : earnings.",
+        "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+    "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+    "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
     "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
     "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
     "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
@@ -813,9 +816,6 @@
     "https://www.nlrbedge.com/p/10052026-more-starbucks-unfair-labor",
     "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation",
     "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-    "https://www.theglobeandmail.com/investing/markets/stocks/WFC/pressreleases/4960472/jpmorgan-chase-earned-more-in-2025-than-bank-of-america-and-wells-fargo-combined-can-the-stock-keep-outrunning-them/",
-    "https://finance.yahoo.com/healthcare/articles/zacks-analyst-blog-highlights-abbott-122900171.html",
-    "https://247wallst.com/investing/2026/10/05/here-are-mondays-top-wall-street-analyst-research-calls-align-technology-autonation-estee-lauder-harley-davidson-hubspot-microsoft-mosaic-ryder-system-wells-fargo-company-and-more/?tpid=1673869&tv=link&tc=in_content",
-    "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point"
+    "https://www.theglobeandmail.com/investing/markets/stocks/WFC/pressreleases/4960472/jpmorgan-chase-earned-more-in-2025-than-bank-of-america-and-wells-fargo-combined-can-the-stock-keep-outrunning-them/"
   ]
 }
