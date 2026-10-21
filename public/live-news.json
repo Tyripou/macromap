@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-10-21T11:46:58.063Z",
+  "updatedAt": "2026-10-21T17:11:06.670Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T15:00:53.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T12:10:39.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins.",
+        "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact"
+      },
       {
         "kind": "catalyst",
         "headline": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
@@ -21,26 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Tether.",
         "link": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T11:25:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-        "date": "Oct 19, 2026",
-        "publishedAt": "2026-10-19T20:21:13.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin, Tether.",
-        "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes"
       }
     ],
     "nasdaq": [
@@ -73,19 +73,29 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T14:08:43.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption"
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "Trump to throw spotlight on overseas crypto abuses at White House event",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T16:23:44.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T15:00:53.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
@@ -105,26 +115,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, Crypto.",
         "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-        "date": "Oct 21, 2026",
-        "publishedAt": "2026-10-21T04:07:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T17:02:31.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap"
       }
     ],
     "gold": [
@@ -147,16 +137,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : gold, gold rises.",
         "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T15:05:15.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : gold.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio"
       }
     ],
     "btc-risk-appetite": [
@@ -202,6 +182,16 @@
       }
     ],
     "btc-regulation": [
+      {
+        "kind": "catalyst",
+        "headline": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T12:12:36.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : SEC.",
+        "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity"
+      },
       {
         "kind": "catalyst",
         "headline": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
@@ -297,16 +287,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : valuations.",
         "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T14:49:32.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : valuation.",
-        "link": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares"
       }
     ],
     "equities": [
@@ -339,18 +319,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut"
-      }
-    ],
-    "cpi": [
-      {
-        "kind": "catalyst",
-        "headline": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T12:33:56.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : CPI.",
-        "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower"
       }
     ],
     "fed": [
@@ -412,9 +380,28 @@
         "why": "L'article évoque : earnings.",
         "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
       }
+    ],
+    "boj-japan": [
+      {
+        "kind": "catalyst",
+        "headline": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T12:10:39.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : yen.",
+        "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+    "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+    "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+    "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+    "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
+    "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+    "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
     "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
     "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
     "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
@@ -807,13 +794,6 @@
     "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
     "https://qz.com/conocophillips-chair-oil-price-floor-70-barrel-100526",
     "https://au.finance.yahoo.com/news/morgan-stanley-cuts-autonation-group-133756534.html",
-    "https://www.marketscreener.com/news/citigroup-shortens-analyst-program-to-two-years-from-three-ce785dd8d88af02d",
-    "https://www.marketbeat.com/instant-alerts/analyst-wells-fargo-company-issues-pessimistic-forecast-for-constellation-brands-nyse-stz-stock-price-2026-10-05/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-tree-stock-gets-a-usd-140-target-after-loop-upgrade/70233239",
-    "https://finance.yahoo.com/markets/stocks/articles/alibaba-vs-uber-technologies-stock-133250647.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-cuts-target-for-haleon-stock-from-gbp-315-to-gbp-295/70232829",
-    "https://pluang.com/en/news-feed/weyerhaeuser-harga-saham-diskon-dari-nilai-hutan",
-    "https://www.tradingview.com/news/stocktwits:8a8e76901094b:0-mcdonald-s-stock-draws-fresh-target-cuts-wells-fargo-says-analyst-day-message-is-still-hard-to-digest/",
-    "https://www.benzinga.com/news/26/10/62161185/keurig-dr-pepper-q2-2026-earnings-call-transcript"
+    "https://www.marketscreener.com/news/citigroup-shortens-analyst-program-to-two-years-from-three-ce785dd8d88af02d"
   ]
 }
