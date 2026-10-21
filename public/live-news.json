@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-10-21T04:44:10.125Z",
+  "updatedAt": "2026-10-21T11:46:58.063Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T11:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T08:47:11.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Tether.",
+        "link": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural"
+      },
       {
         "kind": "catalyst",
         "headline": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
@@ -21,26 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin, Tether.",
         "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-        "date": "Oct 19, 2026",
-        "publishedAt": "2026-10-19T02:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoins, USDC.",
-        "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-        "date": "Oct 18, 2026",
-        "publishedAt": "2026-10-18T14:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash"
       }
     ],
     "nasdaq": [
@@ -88,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T11:15:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T10:34:37.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, Crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
         "date": "Oct 21, 2026",
         "publishedAt": "2026-10-21T04:07:07.000Z",
@@ -105,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T14:28:39.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T11:14:21.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month"
       }
     ],
     "gold": [
@@ -160,6 +160,16 @@
       }
     ],
     "btc-risk-appetite": [
+      {
+        "kind": "catalyst",
+        "headline": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T10:34:37.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : tech stocks.",
+        "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
@@ -302,6 +312,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+        "date": "Oct 21, 2026",
+        "publishedAt": "2026-10-21T05:25:57.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin edges higher as U.S. stocks rebound early Monday",
         "date": "Oct 19, 2026",
         "publishedAt": "2026-10-19T11:05:54.000Z",
@@ -319,28 +339,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T10:38:47.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : S&P.",
-        "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange"
-      }
-    ],
-    "spx": [
-      {
-        "kind": "catalyst",
-        "headline": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
-        "date": "Oct 14, 2026",
-        "publishedAt": "2026-10-14T10:38:47.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : S&P 500.",
-        "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange"
       }
     ],
     "cpi": [
@@ -417,6 +415,15 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+    "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+    "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
+    "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
+    "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+    "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks",
+    "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+    "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
+    "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
     "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
     "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
     "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
@@ -807,15 +814,6 @@
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-cuts-target-for-haleon-stock-from-gbp-315-to-gbp-295/70232829",
     "https://pluang.com/en/news-feed/weyerhaeuser-harga-saham-diskon-dari-nilai-hutan",
     "https://www.tradingview.com/news/stocktwits:8a8e76901094b:0-mcdonald-s-stock-draws-fresh-target-cuts-wells-fargo-says-analyst-day-message-is-still-hard-to-digest/",
-    "https://www.benzinga.com/news/26/10/62161185/keurig-dr-pepper-q2-2026-earnings-call-transcript",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/bernstein-raises-target-for-quanta-services-stock-to-usd-775-00/70233373",
-    "https://www.proactiveinvestors.com/companies/news/1099573/unilever-on-jp-morgan-positive-watch-as-haleon-faces-caution-1099573.html",
-    "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
-    "https://sg.finance.yahoo.com/news/siri-overhaul-help-apple-aapl-124652463.html",
-    "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys",
-    "https://www.nlrbedge.com/p/10052026-more-starbucks-unfair-labor",
-    "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation",
-    "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-    "https://www.theglobeandmail.com/investing/markets/stocks/WFC/pressreleases/4960472/jpmorgan-chase-earned-more-in-2025-than-bank-of-america-and-wells-fargo-combined-can-the-stock-keep-outrunning-them/"
+    "https://www.benzinga.com/news/26/10/62161185/keurig-dr-pepper-q2-2026-earnings-call-transcript"
   ]
 }
