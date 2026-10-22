@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-22T11:50:09.788Z",
+  "updatedAt": "2026-10-22T17:09:13.459Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Crypto for Advisors: Stablecoins are ready for prime time",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T14:58:31.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Stablecoins.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time"
+      },
       {
         "kind": "catalyst",
         "headline": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-        "date": "Oct 21, 2026",
-        "publishedAt": "2026-10-21T08:47:11.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Tether.",
-        "link": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural"
       }
     ],
     "nasdaq": [
@@ -88,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Crypto for Advisors: Stablecoins are ready for prime time",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T14:58:31.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T14:37:12.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
         "date": "Oct 22, 2026",
         "publishedAt": "2026-10-22T11:20:04.000Z",
@@ -105,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, BTC.",
         "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-        "date": "Oct 22, 2026",
-        "publishedAt": "2026-10-22T04:41:59.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-        "date": "Oct 22, 2026",
-        "publishedAt": "2026-10-22T03:51:34.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves"
       }
     ],
     "gold": [
@@ -169,16 +169,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T15:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
       }
     ],
     "btc-regulation": [
@@ -211,16 +201,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : CFTC.",
         "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T15:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto rules, Congress.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules"
       }
     ],
     "btc-etf-flows": [
@@ -381,6 +361,11 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+    "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+    "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+    "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+    "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
     "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
     "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
     "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
@@ -775,11 +760,6 @@
     "https://ca.investing.com/news/stock-market-news/clear-street-initiates-bitzero-stock-with-buy-rating-on-power-assets-93CH-4865509",
     "https://www.tradingview.com/news/tradingview:0a099fbbf6a4f:0-weekly-recap-coinbase-coin-clearinghouse-approval-and-analyst-targets/",
     "https://www.tokenpost.com/news/investing/26843",
-    "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
-    "https://www.marketwatch.com/data-news/most-big-cryptocurrencies-rise-as-cardano-climbs-27a177b3-345a1faa3e65",
-    "https://www.streetinsider.com/Corporate+News/DataMeds+AI+files+new+DBAs+and+completes+meme+coin+token+distribution/27144979.html",
-    "https://www.stocktitan.net/news/MEDS/datameds-ai-files-db-as-datameds-si-and-corexa-health-si-and-reminds-vw1cf6w9mf0w.html",
-    "https://seekingalpha.com/article/4951923-mara-the-bitcoin-no-longer-covers-the-debt",
-    "https://pluang.com/en/news-feed/sec-setujui-etf-ethereum-3x-apa-artinya"
+    "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption"
   ]
 }
