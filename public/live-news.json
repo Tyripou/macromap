@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T17:09:13.459Z",
+  "updatedAt": "2026-10-22T21:34:29.194Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -88,6 +88,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T18:30:57.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Crypto for Advisors: Stablecoins are ready for prime time",
         "date": "Oct 22, 2026",
         "publishedAt": "2026-10-22T14:58:31.000Z",
@@ -115,16 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, Crypto.",
         "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-        "date": "Oct 22, 2026",
-        "publishedAt": "2026-10-22T06:24:10.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme"
       }
     ],
     "gold": [
@@ -361,6 +361,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
     "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
     "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
     "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
@@ -759,7 +760,6 @@
     "https://www.stocktitan.net/sec-filings/PCSA/8-k-a-processa-pharmaceuticals-inc-amends-material-event-report-6e3f22e94a50.html",
     "https://ca.investing.com/news/stock-market-news/clear-street-initiates-bitzero-stock-with-buy-rating-on-power-assets-93CH-4865509",
     "https://www.tradingview.com/news/tradingview:0a099fbbf6a4f:0-weekly-recap-coinbase-coin-clearinghouse-approval-and-analyst-targets/",
-    "https://www.tokenpost.com/news/investing/26843",
-    "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption"
+    "https://www.tokenpost.com/news/investing/26843"
   ]
 }
