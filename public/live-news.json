@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T21:41:46.915Z",
+  "updatedAt": "2026-10-22T04:42:21.325Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -78,6 +78,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T04:41:59.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T03:51:34.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Trump to throw spotlight on overseas crypto abuses at White House event",
         "date": "Oct 21, 2026",
         "publishedAt": "2026-10-21T16:23:44.000Z",
@@ -95,26 +115,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Crypto.",
         "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-        "date": "Oct 21, 2026",
-        "publishedAt": "2026-10-21T11:15:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-        "date": "Oct 21, 2026",
-        "publishedAt": "2026-10-21T10:34:37.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, Crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date"
       }
     ],
     "gold": [
@@ -226,6 +226,16 @@
     "btc-etf-flows": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T04:41:59.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin ETFs.",
+        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
         "date": "Oct 20, 2026",
         "publishedAt": "2026-10-20T11:14:21.000Z",
@@ -253,16 +263,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin ETFs, FBTC.",
         "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
-        "date": "Oct 16, 2026",
-        "publishedAt": "2026-10-16T09:48:14.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : ETF outflows.",
-        "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue"
       }
     ],
     "dxy": [
@@ -319,18 +319,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut"
-      }
-    ],
-    "fed": [
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T03:57:45.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Fed.",
-        "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs"
       }
     ],
     "treasury-supply": [
@@ -395,6 +383,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+    "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+    "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
     "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
     "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
     "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
@@ -791,9 +782,6 @@
     "https://www.benzinga.com/crypto/cryptocurrency/26/10/62154401/brian-armstrong-citi-coinbase-partnership-crypto-banking",
     "https://www.gurufocus.com/news/9108947/sp-global-ratings-launches-new-digital-asset-lending-risk-framework-spgi-stock-shows-attractive-valuation",
     "https://www.tradingkey.com/news/market-movers/262200153-market-movers-wdc-20261005",
-    "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-    "https://qz.com/conocophillips-chair-oil-price-floor-70-barrel-100526",
-    "https://au.finance.yahoo.com/news/morgan-stanley-cuts-autonation-group-133756534.html",
-    "https://www.marketscreener.com/news/citigroup-shortens-analyst-program-to-two-years-from-three-ce785dd8d88af02d"
+    "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year"
   ]
 }
