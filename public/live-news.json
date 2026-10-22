@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T04:42:21.325Z",
+  "updatedAt": "2026-10-22T11:50:09.788Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -46,6 +46,16 @@
     "nasdaq": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T10:50:04.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
         "date": "Oct 19, 2026",
         "publishedAt": "2026-10-19T10:26:33.000Z",
@@ -78,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T11:20:04.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, Crypto.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T06:24:10.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
         "date": "Oct 22, 2026",
         "publishedAt": "2026-10-22T04:41:59.000Z",
@@ -95,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, BTC.",
         "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Trump to throw spotlight on overseas crypto abuses at White House event",
-        "date": "Oct 21, 2026",
-        "publishedAt": "2026-10-21T16:23:44.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-        "date": "Oct 21, 2026",
-        "publishedAt": "2026-10-21T15:00:53.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Crypto.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain"
       }
     ],
     "gold": [
@@ -127,16 +137,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : gold.",
         "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin, copper, stocks, yields all fall; gold rises",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T11:15:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : gold, gold rises.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises"
       }
     ],
     "btc-risk-appetite": [
@@ -226,6 +226,16 @@
     "btc-etf-flows": [
       {
         "kind": "catalyst",
+        "headline": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T11:20:04.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : ETF flows.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
         "date": "Oct 22, 2026",
         "publishedAt": "2026-10-22T04:41:59.000Z",
@@ -253,16 +263,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : spot ETF, ETF inflow.",
         "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T08:24:01.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin ETFs, FBTC.",
-        "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock"
       }
     ],
     "dxy": [
@@ -321,18 +321,6 @@
         "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut"
       }
     ],
-    "treasury-supply": [
-      {
-        "kind": "catalyst",
-        "headline": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
-        "date": "Oct 15, 2026",
-        "publishedAt": "2026-10-15T06:17:58.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : national debt.",
-        "link": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai"
-      }
-    ],
     "usd": [
       {
         "kind": "catalyst",
@@ -346,6 +334,16 @@
       }
     ],
     "oil": [
+      {
+        "kind": "catalyst",
+        "headline": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T08:49:08.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Brent, crude, barrel.",
+        "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market"
+      },
       {
         "kind": "catalyst",
         "headline": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
@@ -383,6 +381,13 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+    "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+    "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+    "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+    "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+    "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+    "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
     "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
     "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
     "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
@@ -775,13 +780,6 @@
     "https://www.streetinsider.com/Corporate+News/DataMeds+AI+files+new+DBAs+and+completes+meme+coin+token+distribution/27144979.html",
     "https://www.stocktitan.net/news/MEDS/datameds-ai-files-db-as-datameds-si-and-corexa-health-si-and-reminds-vw1cf6w9mf0w.html",
     "https://seekingalpha.com/article/4951923-mara-the-bitcoin-no-longer-covers-the-debt",
-    "https://pluang.com/en/news-feed/sec-setujui-etf-ethereum-3x-apa-artinya",
-    "https://www.timothysykes.com/news/stablecoin-development-corporation-sdev-news-2026_10_05-3/",
-    "https://kalkine.ca/news/technology/bitzero-holdings-stock-under-pressure-after-456-decline-technology-sector-faces-renewed-downside-risk",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/fathom-holdings-stock-fell-12-percent-on-october-2/70231001",
-    "https://www.benzinga.com/crypto/cryptocurrency/26/10/62154401/brian-armstrong-citi-coinbase-partnership-crypto-banking",
-    "https://www.gurufocus.com/news/9108947/sp-global-ratings-launches-new-digital-asset-lending-risk-framework-spgi-stock-shows-attractive-valuation",
-    "https://www.tradingkey.com/news/market-movers/262200153-market-movers-wdc-20261005",
-    "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year"
+    "https://pluang.com/en/news-feed/sec-setujui-etf-ethereum-3x-apa-artinya"
   ]
 }
