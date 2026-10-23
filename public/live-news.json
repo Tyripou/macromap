@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-22T21:34:29.194Z",
+  "updatedAt": "2026-10-23T04:47:17.038Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+        "date": "Oct 22, 2026",
+        "publishedAt": "2026-10-22T22:43:36.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Tether.",
+        "link": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm"
+      },
       {
         "kind": "catalyst",
         "headline": "Crypto for Advisors: Stablecoins are ready for prime time",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoins.",
         "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-        "date": "Oct 21, 2026",
-        "publishedAt": "2026-10-21T11:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban"
       }
     ],
     "nasdaq": [
@@ -88,6 +88,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+        "date": "Oct 23, 2026",
+        "publishedAt": "2026-10-23T03:13:01.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100"
+      },
+      {
+        "kind": "catalyst",
         "headline": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
         "date": "Oct 22, 2026",
         "publishedAt": "2026-10-22T18:30:57.000Z",
@@ -115,19 +125,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Crypto.",
         "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-        "date": "Oct 22, 2026",
-        "publishedAt": "2026-10-22T11:20:04.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, Crypto.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble"
       }
     ],
     "gold": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+        "date": "Oct 23, 2026",
+        "publishedAt": "2026-10-23T03:13:01.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : gold.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100"
+      },
       {
         "kind": "catalyst",
         "headline": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
@@ -361,6 +371,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+    "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+    "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
     "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
     "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
     "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
@@ -757,9 +770,6 @@
     "https://stockstotrade.com/news/stablecoin-development-corporation-sdev-news-2026_10_05/",
     "https://www.tradingview.com/news/stocktwits:c2b8e2fe5094b:0-cardano-is-outpacing-bitcoin-and-xrp-here-s-what-s-driving-ada-higher/",
     "https://www.stocktitan.net/news/CSHR/coin-shares-survey-digital-assets-now-held-by-a-majority-of-affluent-qsrg9rmvcczd.html",
-    "https://www.stocktitan.net/sec-filings/PCSA/8-k-a-processa-pharmaceuticals-inc-amends-material-event-report-6e3f22e94a50.html",
-    "https://ca.investing.com/news/stock-market-news/clear-street-initiates-bitzero-stock-with-buy-rating-on-power-assets-93CH-4865509",
-    "https://www.tradingview.com/news/tradingview:0a099fbbf6a4f:0-weekly-recap-coinbase-coin-clearinghouse-approval-and-analyst-targets/",
-    "https://www.tokenpost.com/news/investing/26843"
+    "https://www.stocktitan.net/sec-filings/PCSA/8-k-a-processa-pharmaceuticals-inc-amends-material-event-report-6e3f22e94a50.html"
   ]
 }
