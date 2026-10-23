@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T11:36:42.747Z",
+  "updatedAt": "2026-10-23T17:05:29.718Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -88,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+        "date": "Oct 23, 2026",
+        "publishedAt": "2026-10-23T13:58:56.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+        "date": "Oct 23, 2026",
+        "publishedAt": "2026-10-23T12:03:53.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
         "date": "Oct 23, 2026",
         "publishedAt": "2026-10-23T11:22:33.000Z",
@@ -105,29 +125,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-        "date": "Oct 23, 2026",
-        "publishedAt": "2026-10-23T03:13:01.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-        "date": "Oct 22, 2026",
-        "publishedAt": "2026-10-22T18:30:57.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech"
       }
     ],
     "gold": [
+      {
+        "kind": "catalyst",
+        "headline": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+        "date": "Oct 23, 2026",
+        "publishedAt": "2026-10-23T13:58:56.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : gold.",
+        "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
@@ -361,6 +371,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+    "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
     "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
     "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
     "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
@@ -758,8 +770,6 @@
     "https://finance.yahoo.com/markets/crypto/articles/microstrategy-buys-just-334-bitcoin-120429922.html",
     "https://finance.yahoo.com/markets/crypto/articles/p-global-brings-wall-street-180300731.html",
     "https://scanx.trade/stock-market-news/cryptocurrencies/morgan-stanley-files-for-ethereum-and-solana-etfs-with-0-14-fee/45646647",
-    "https://kalkinemedia.com/us/news/announcements/defi-development-corp-reports-weekly-sol-treasury-growth-and-september-30-preliminary-estimates",
-    "https://www.moomoo.com/news/post/1000609075/strategy-mstrus-reported-21-billion-in-unrealized-gains-on-digital",
-    "https://www.benzinga.com/crypto/cryptocurrency/26/10/62161795/strategy-buys-334-bitcoin-but-strive-bought-2000-whats-going-on"
+    "https://kalkinemedia.com/us/news/announcements/defi-development-corp-reports-weekly-sol-treasury-growth-and-september-30-preliminary-estimates"
   ]
 }
