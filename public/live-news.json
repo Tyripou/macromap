@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T04:34:39.659Z",
+  "updatedAt": "2026-10-24T10:57:40.640Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -371,6 +371,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
     "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
     "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
     "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
@@ -769,7 +770,6 @@
     "https://ambcrypto.com/cardano-jumps-10-to-5-month-high-can-ada-shorts-fuel-0-30-move/",
     "https://finance.yahoo.com/markets/crypto/articles/microstrategy-buys-just-334-bitcoin-120429922.html",
     "https://finance.yahoo.com/markets/crypto/articles/p-global-brings-wall-street-180300731.html",
-    "https://scanx.trade/stock-market-news/cryptocurrencies/morgan-stanley-files-for-ethereum-and-solana-etfs-with-0-14-fee/45646647",
-    "https://kalkinemedia.com/us/news/announcements/defi-development-corp-reports-weekly-sol-treasury-growth-and-september-30-preliminary-estimates"
+    "https://scanx.trade/stock-market-news/cryptocurrencies/morgan-stanley-files-for-ethereum-and-solana-etfs-with-0-14-fee/45646647"
   ]
 }
