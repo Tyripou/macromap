@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T16:16:17.172Z",
+  "updatedAt": "2026-10-25T20:49:31.277Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -179,16 +179,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : risk appetite, Nasdaq.",
         "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
-        "date": "Oct 18, 2026",
-        "publishedAt": "2026-10-18T16:33:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last"
       }
     ],
     "btc-regulation": [
