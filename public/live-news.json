@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T11:25:39.202Z",
+  "updatedAt": "2026-10-25T16:16:17.172Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -88,6 +88,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+        "date": "Oct 25, 2026",
+        "publishedAt": "2026-10-25T13:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
         "date": "Oct 24, 2026",
         "publishedAt": "2026-10-24T16:00:00.000Z",
@@ -115,16 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, BTC.",
         "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-        "date": "Oct 24, 2026",
-        "publishedAt": "2026-10-24T14:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/"
       }
     ],
     "gold": [
@@ -361,6 +361,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+    "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
     "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
     "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
     "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
@@ -758,8 +760,6 @@
     "https://simplywall.st/stocks/us/software/nasdaq-riot/riot-platforms/news/should-loan-payoff-require-action-from-riot-platforms-riot-i",
     "https://pluang.com/en/news-feed/cardano-golden-cross-terakhir-turun-42-persen",
     "https://za.investing.com/news/stock-market-news/clear-street-initiates-bitzero-stock-with-buy-rating-on-power-assets-93CH-4489702",
-    "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
-    "https://www.grayscale.com/the-stack/btc-s-hidden-risk-the-out-of-market-opportunity-cost",
-    "https://fortune.com/2026/10/05/hyperliquid-cryptos-dat-death-spiral-industrys-digital-asset-treasury/"
+    "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers"
   ]
 }
