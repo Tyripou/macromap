@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T04:38:59.117Z",
+  "updatedAt": "2026-10-25T11:25:39.202Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -299,16 +299,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : U.S. stocks.",
         "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-        "date": "Oct 18, 2026",
-        "publishedAt": "2026-10-18T07:13:32.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut"
       }
     ],
     "usd": [
