@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-27T08:57:43.362Z",
+  "updatedAt": "2026-10-27T15:20:46.138Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T11:37:52.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year"
+      },
       {
         "kind": "catalyst",
         "headline": "OCC calls on community banks to enter the stablecoin payments market",
@@ -31,19 +41,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-        "date": "Oct 23, 2026",
-        "publishedAt": "2026-10-23T08:57:34.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoins.",
-        "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom"
       }
     ],
     "nasdaq": [
+      {
+        "kind": "catalyst",
+        "headline": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T14:21:10.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
@@ -56,6 +66,26 @@
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T11:40:50.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, crypto.",
+        "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T11:32:45.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins"
+      },
       {
         "kind": "catalyst",
         "headline": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
@@ -75,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto.",
         "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-        "date": "Oct 26, 2026",
-        "publishedAt": "2026-10-26T11:53:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-        "date": "Oct 26, 2026",
-        "publishedAt": "2026-10-26T11:24:33.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms"
       }
     ],
     "gold": [
@@ -117,16 +127,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : gold.",
         "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T11:10:40.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : gold.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade"
       }
     ],
     "btc-risk-appetite": [
@@ -173,26 +173,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin ETFs.",
         "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T11:14:21.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : ETF inflows.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T10:22:55.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : spot ETF, ETF inflow.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection"
       }
     ],
     "valuations": [
@@ -205,19 +185,29 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : valuations.",
         "link": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T09:32:24.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : valuations.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111"
       }
     ],
     "equities": [
+      {
+        "kind": "catalyst",
+        "headline": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T14:21:10.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T14:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock"
+      },
       {
         "kind": "catalyst",
         "headline": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
@@ -239,16 +229,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Brent, crude, barrel.",
         "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-        "date": "Oct 20, 2026",
-        "publishedAt": "2026-10-20T09:32:24.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Brent, oil prices, crude.",
-        "link": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111"
       }
     ],
     "earnings": [
@@ -276,6 +256,16 @@
     "boj-japan": [
       {
         "kind": "catalyst",
+        "headline": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T11:37:52.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : yen.",
+        "link": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
         "date": "Oct 26, 2026",
         "publishedAt": "2026-10-26T09:14:47.000Z",
@@ -296,6 +286,16 @@
       }
     ],
     "fed": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T11:32:45.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : the Fed, Fed.",
+        "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
@@ -331,6 +331,16 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+    "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+    "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+    "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+    "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+    "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+    "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+    "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+    "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+    "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
     "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
     "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
     "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
@@ -720,16 +730,6 @@
     "https://ca.investing.com/news/stock-market-news/bofa-raises-raymond-james-stock-price-target-to-198-on-higher-nii-93CH-4865616",
     "https://ca.investing.com/news/stock-market-news/bofa-raises-charles-schwab-stock-price-target-on-higher-revenue-outlook-93CH-4865564",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/j-b-hunt-warns-on-earnings-for-j-b-hunt-transport-stock/70232203",
-    "https://www.tradingview.com/news/zacks:08556284d094b:0-beat-the-market-like-zacks-thermo-fisher-cricut-shopify-in-focus/",
-    "https://www.streetinsider.com/Analyst+Comments/Charles+Schwab+Corp.+(SCHW)+PT+Raised+to+$95+at+BofA+Securities/27145226.html",
-    "https://uk.finance.yahoo.com/news/barclays-shares-good-value-15-091027860.html",
-    "https://www.marketscreener.com/news/goldman-sachs-adjusts-m-t-bank-price-target-to-240-from-255-maintains-neutral-rating-ce785dd8d88bf224",
-    "https://www.abfjournal.com/middle-market-debt-weekly-fed-hikes-10-year-treasury-hovers-near-5-3/",
-    "https://www.newsquawk.com/headlines/european-sp-global-services-pmi-final-sep-530-vs-exp-53-prev-516",
-    "https://uk.finance.yahoo.com/news/lloyds-shares-just-fell-13-075100330.html",
-    "https://kalkinemedia.com/us/stocks/financial/what-will-decide-the-next-move-in-ally-financial-nyseally",
-    "https://www.valuethemarkets.com/news/taylor-devices-nasdaq-tayd-reports-q1-sales-decline",
-    "https://ng.investing.com/news/stock-market-news/morgan-stanley-upgrades-wells-fargo-stock-rating-on-profitability-outlook-93CH-2720838",
-    "https://in.investing.com/news/stock-market-news/morgan-stanley-upgrades-wells-fargo-stock-rating-on-profitability-outlook-93CH-5617661"
+    "https://www.tradingview.com/news/zacks:08556284d094b:0-beat-the-market-like-zacks-thermo-fisher-cricut-shopify-in-focus/"
   ]
 }
