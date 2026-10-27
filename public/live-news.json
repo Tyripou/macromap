@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-10-27T15:20:46.138Z",
+  "updatedAt": "2026-10-27T22:12:15.719Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T16:59:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins, USDT.",
+        "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T16:35:29.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform"
+      },
       {
         "kind": "catalyst",
         "headline": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
@@ -21,26 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-        "date": "Oct 26, 2026",
-        "publishedAt": "2026-10-26T14:23:41.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-        "date": "Oct 23, 2026",
-        "publishedAt": "2026-10-23T10:22:56.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users"
       }
     ],
     "nasdaq": [
@@ -68,6 +68,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T20:32:21.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T16:59:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC, crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
         "date": "Oct 27, 2026",
         "publishedAt": "2026-10-27T11:40:50.000Z",
@@ -85,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, crypto.",
         "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-        "date": "Oct 26, 2026",
-        "publishedAt": "2026-10-26T16:05:12.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-        "date": "Oct 26, 2026",
-        "publishedAt": "2026-10-26T14:51:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029"
       }
     ],
     "gold": [
@@ -142,6 +142,16 @@
       }
     ],
     "btc-regulation": [
+      {
+        "kind": "catalyst",
+        "headline": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T20:41:33.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Clarity Act, SEC.",
+        "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top"
+      },
       {
         "kind": "catalyst",
         "headline": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
@@ -328,9 +338,27 @@
         "why": "L'article évoque : ECB.",
         "link": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead"
       }
+    ],
+    "usd": [
+      {
+        "kind": "catalyst",
+        "headline": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+        "date": "Oct 27, 2026",
+        "publishedAt": "2026-10-27T20:41:33.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : U.S. dollar, dollar.",
+        "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+    "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+    "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+    "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+    "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+    "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
     "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
     "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
     "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
@@ -724,12 +752,6 @@
     "https://finance.yahoo.com/real-estate/articles/ice-mortgage-monitor-arm-demand-130000637.html",
     "https://www.stocktitan.net/news/ICE/ice-mortgage-monitor-arm-demand-hits-nearly-four-year-high-on-rising-pqxkfsyobqgx.html",
     "https://www.fastmarkets.com/insights/structural-pressures-define-brazil-steel-outlook-says-arcelormittal-brasil-president-exclusive/",
-    "https://seekingalpha.com/news/4650151-morgan-stanley-cools-on-auto-dealers-cuts-ratings-on-an-and-gpi",
-    "https://finance.yahoo.com/video/pepsico-delta-air-lines-earnings-120000956.html",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/citizens-downgrades-arbor-realty-trust-stock-to-market-perform/70231775",
-    "https://ca.investing.com/news/stock-market-news/bofa-raises-raymond-james-stock-price-target-to-198-on-higher-nii-93CH-4865616",
-    "https://ca.investing.com/news/stock-market-news/bofa-raises-charles-schwab-stock-price-target-on-higher-revenue-outlook-93CH-4865564",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/j-b-hunt-warns-on-earnings-for-j-b-hunt-transport-stock/70232203",
-    "https://www.tradingview.com/news/zacks:08556284d094b:0-beat-the-market-like-zacks-thermo-fisher-cricut-shopify-in-focus/"
+    "https://seekingalpha.com/news/4650151-morgan-stanley-cools-on-auto-dealers-cuts-ratings-on-an-and-gpi"
   ]
 }
