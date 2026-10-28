@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T22:12:15.719Z",
+  "updatedAt": "2026-10-28T05:40:33.325Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T05:28:13.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T04:15:20.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
         "date": "Oct 27, 2026",
         "publishedAt": "2026-10-27T20:32:21.000Z",
@@ -85,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, BTC, crypto.",
         "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
-        "date": "Oct 27, 2026",
-        "publishedAt": "2026-10-27T11:40:50.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-        "date": "Oct 27, 2026",
-        "publishedAt": "2026-10-27T11:32:45.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins"
       }
     ],
     "gold": [
@@ -217,16 +217,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-        "date": "Oct 21, 2026",
-        "publishedAt": "2026-10-21T05:25:57.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin"
       }
     ],
     "oil": [
@@ -251,16 +241,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : earnings.",
         "link": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-        "date": "Oct 21, 2026",
-        "publishedAt": "2026-10-21T04:07:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : earnings.",
-        "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11"
       }
     ],
     "boj-japan": [
@@ -296,6 +276,16 @@
       }
     ],
     "fed": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T04:15:20.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Fed.",
+        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
@@ -353,6 +343,10 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+    "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+    "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+    "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
     "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
     "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
     "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
@@ -748,10 +742,6 @@
     "https://www.tradingview.com/news/zacks:1f8b1f26d094b:0-lennar-plunges-22-ytd-can-the-stock-rebound-in-the-near-future/",
     "https://finance.yahoo.com/markets/stocks/articles/legacy-housing-legh-trimming-position-135259863.html",
     "https://www.tradingview.com/news/benzinga:7522ce132094b:0-highest-yielding-hyperscaler-bonds-in-october-2026-spacex-joins-oracle-above-7-5/",
-    "https://www.tradingview.com/news/invezz:0a00caa3f094b:0-these-3-stocks-are-worth-buying-after-recent-employment-data/",
-    "https://finance.yahoo.com/real-estate/articles/ice-mortgage-monitor-arm-demand-130000637.html",
-    "https://www.stocktitan.net/news/ICE/ice-mortgage-monitor-arm-demand-hits-nearly-four-year-high-on-rising-pqxkfsyobqgx.html",
-    "https://www.fastmarkets.com/insights/structural-pressures-define-brazil-steel-outlook-says-arcelormittal-brasil-president-exclusive/",
-    "https://seekingalpha.com/news/4650151-morgan-stanley-cools-on-auto-dealers-cuts-ratings-on-an-and-gpi"
+    "https://www.tradingview.com/news/invezz:0a00caa3f094b:0-these-3-stocks-are-worth-buying-after-recent-employment-data/"
   ]
 }
