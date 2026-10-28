@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T12:52:25.666Z",
+  "updatedAt": "2026-10-28T20:15:08.108Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Crypto isn’t a partisan fight, proven by data",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T18:11:31.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T16:01:36.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
         "date": "Oct 28, 2026",
         "publishedAt": "2026-10-28T11:32:31.000Z",
@@ -85,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, BTC.",
         "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T05:28:13.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T04:15:20.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8"
       }
     ],
     "gold": [
@@ -176,6 +176,26 @@
       }
     ],
     "equities": [
+      {
+        "kind": "catalyst",
+        "headline": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T17:02:57.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T13:14:37.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks"
+      },
       {
         "kind": "catalyst",
         "headline": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
@@ -256,6 +276,26 @@
     "fed": [
       {
         "kind": "catalyst",
+        "headline": "Fed leaves interest rates unchanged, as expected",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T18:00:42.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Fed.",
+        "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Federal Reserve issues FOMC statement",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T18:00:00.000Z",
+        "source": "Federal Reserve (politique monétaire)",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Federal Reserve.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Dissent and more: 3 things to watch for at the Fed meeting",
         "date": "Oct 28, 2026",
         "publishedAt": "2026-10-28T11:57:26.000Z",
@@ -273,26 +313,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Federal Reserve, Fed.",
         "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T04:15:20.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Fed.",
-        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-        "date": "Oct 27, 2026",
-        "publishedAt": "2026-10-27T11:32:45.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : the Fed, Fed.",
-        "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins"
       }
     ],
     "ecb-europe": [
@@ -330,9 +350,51 @@
         "why": "L'article évoque : S&P 500.",
         "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15"
       }
+    ],
+    "fomc": [
+      {
+        "kind": "catalyst",
+        "headline": "Fed leaves interest rates unchanged, as expected",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T18:00:42.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : leaves interest rates unchanged.",
+        "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Federal Reserve issues FOMC statement",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T18:00:00.000Z",
+        "source": "Federal Reserve (politique monétaire)",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : FOMC.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+      }
+    ],
+    "btc-risk-appetite": [
+      {
+        "kind": "catalyst",
+        "headline": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+        "date": "Oct 28, 2026",
+        "publishedAt": "2026-10-28T17:02:57.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+    "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
+    "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+    "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+    "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+    "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+    "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
     "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
     "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
     "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
@@ -724,14 +786,6 @@
     "https://stockstotrade.com/news/vale-sa-vale-news-2026_10_05-2/",
     "https://seekingalpha.com/news/4650397-oil-price-floor-likely-rising-to-70bbl-conocophillips-chairman-says",
     "https://www.benzinga.com/news/politics/26/10/62176496/nancy-pelosi-new-1-million-transaction-but-not-a-stock",
-    "https://www.thetrucker.com/trucking-news/business/xpo-opens-two-new-service-centers-in-key-freight-markets",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/u-haul-stock-fell-1-28-percent-on-october-5/70237180",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/truist-cuts-vornado-realty-trust-stock-target-from-usd-39-00-to-usd-35-00/70234850",
-    "https://www.theglobeandmail.com/investing/markets/stocks/O/pressreleases/4967750/3-dividend-stocks-to-buy-in-october-that-have-never-cut-their-payouts/",
-    "https://kalkinemedia.com/us/stocks/midcap/why-is-toll-brothers-nysetol-stock-in-focus-as-luxury-homes-draw-coverage",
-    "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-5-why-skyworks-solutions-swks-shares-are-trading-lower-today",
-    "https://www.tradingkey.com/news/market-movers/262200515-market-movers-bsbr-20261005",
-    "https://scanx.trade/stock-market-news/companies/exelon-hold-q3fy26-earnings-call-october-30-2026/52762111",
-    "https://www.investing.com/news/company-news/schwab-trading-activity-index-rises-in-september-93CH-4932616"
+    "https://www.thetrucker.com/trucking-news/business/xpo-opens-two-new-service-centers-in-key-freight-markets"
   ]
 }
