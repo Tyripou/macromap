@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-29T09:56:27.826Z",
+  "updatedAt": "2026-10-29T18:27:29.484Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+        "date": "Oct 29, 2026",
+        "publishedAt": "2026-10-29T16:35:43.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks"
+      },
       {
         "kind": "catalyst",
         "headline": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
@@ -31,19 +41,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Stablecoins.",
         "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-        "date": "Oct 27, 2026",
-        "publishedAt": "2026-10-27T16:59:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoins, USDT.",
-        "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash"
       }
     ],
     "nasdaq": [
+      {
+        "kind": "catalyst",
+        "headline": "Live updates: Bitcoin gives up gains as Nasdaq slides to session low",
+        "date": "Oct 29, 2026",
+        "publishedAt": "2026-10-29T10:41:39.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings"
+      },
       {
         "kind": "catalyst",
         "headline": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
@@ -53,19 +63,29 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-        "date": "Oct 22, 2026",
-        "publishedAt": "2026-10-22T10:50:04.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines"
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+        "date": "Oct 29, 2026",
+        "publishedAt": "2026-10-29T14:15:46.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+        "date": "Oct 29, 2026",
+        "publishedAt": "2026-10-29T13:55:42.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times"
+      },
       {
         "kind": "catalyst",
         "headline": "The chart bitcoin traders should be paying attention to",
@@ -85,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, crypto.",
         "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T21:13:44.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto isn’t a partisan fight, proven by data",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T18:11:31.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Crypto.",
-        "link": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data"
       }
     ],
     "gold": [
@@ -144,13 +144,13 @@
     "btc-etf-flows": [
       {
         "kind": "catalyst",
-        "headline": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-        "date": "Oct 22, 2026",
-        "publishedAt": "2026-10-22T11:20:04.000Z",
+        "headline": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+        "date": "Oct 29, 2026",
+        "publishedAt": "2026-10-29T14:15:46.000Z",
         "source": "CoinDesk",
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : ETF flows.",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble"
+        "why": "L'article évoque : bitcoin ETF, spot bitcoin ETF.",
+        "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers"
       }
     ],
     "valuations": [
@@ -208,6 +208,16 @@
       }
     ],
     "earnings": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+        "date": "Oct 29, 2026",
+        "publishedAt": "2026-10-29T11:11:48.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : earnings.",
+        "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump"
+      },
       {
         "kind": "catalyst",
         "headline": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
@@ -354,6 +364,16 @@
     "btc-risk-appetite": [
       {
         "kind": "catalyst",
+        "headline": "Live updates: Bitcoin gives up gains as Nasdaq slides to session low",
+        "date": "Oct 29, 2026",
+        "publishedAt": "2026-10-29T10:41:39.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
         "date": "Oct 29, 2026",
         "publishedAt": "2026-10-29T03:32:43.000Z",
@@ -375,6 +395,27 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
+    "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
+    "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+    "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
+    "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
+    "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
+    "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+    "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
+    "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
+    "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans",
+    "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking",
+    "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
+    "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud",
+    "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
+    "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
+    "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
+    "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump",
+    "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
+    "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+    "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+    "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
     "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
     "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
     "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
@@ -753,27 +794,6 @@
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/crh-stock-faces-fresh-target-cuts-as-q2-revenue-rises-5-6-percent/70237579",
     "https://za.investing.com/news/stock-market-news/compass-point-lowers-frontview-reit-stock-price-target-on-rates-93CH-4490148",
     "https://seekingalpha.com/article/4952084-why-it-s-so-frustrating-being-a-micron-bull-these-days",
-    "https://www.benzinga.com/news/26/10/62180277/here-s-how-much-1000-invested-mckesson-20-years-ago-would-be-worth-today",
-    "https://thehustle.co/news/from-what-babies-wear-to-who-they-are-carters-big-shift",
-    "https://www.gurufocus.com/news/9110406/clevelandcliffs-inc-clf-stock-up-78-but-gf-value-says-overvalued-gf-score-77100",
-    "https://www.mynbc5.com/article/globalfoundries-new-solar-battery-system/74038672",
-    "https://simplywall.st/stocks/se/tech/sto-eric-b/telefonaktiebolaget-lm-ericsson-shares/news/what-ericsson-holders-had-to-stomach-and-where-that-fight-is/amp",
-    "https://www.wavy.com/video/power-outages-continue-monday-as-dominion-energy-blames-salt-spray-from-noreaster/",
-    "https://simplywall.st/stocks/us/insurance/nasdaq-acgl/arch-capital-group/news/arch-capital-group-acgl-stock-could-be-a-bargain-as-earnings",
-    "https://www.advisorhub.com/bofa-sees-the-end-of-easy-money-made-from-the-ai-spending-trade/",
-    "https://www.marketbeat.com/instant-alerts/filing-5341-dominos-pizza-inc-dpz-shares-purchased-by-kennon-green-company-llc-2026-10-05/",
-    "https://ca.finance.yahoo.com/news/news-day-cenovus-suncor-deals-212610342.html",
-    "https://kalkinemedia.com/ca/retirement-planning/manulife-financial-corporation-tsxmfc-will-retirement-products-drive-growth",
-    "https://www.marketbeat.com/instant-alerts/analyst-ubs-group-has-lowered-expectations-for-wells-fargo-company-nyse-wfc-stock-price-2026-10-05/",
-    "https://www.marketbeat.com/instant-alerts/analyst-the-goldman-sachs-group-nyse-gs-stock-price-target-cut-by-ubs-group-2026-10-05/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/mohawk-industries-stock-reports-6-8-percent-revenue-growth/70237679",
-    "https://kalkinemedia.com/ca/stocks/gold/eldorado-gold-tsxeld-is-skouries-production-finally-near",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/thor-industries-stock-falls-4-07-percent-as-profits-weaken/70236780",
-    "https://kalkinemedia.com/ca/stocks/gold/kinross-gold-corporation-tsxk-can-strength-offset-lower-guidance",
-    "https://seekingalpha.com/news/4650375-intercontinental-exchange-cut-to-hold-at-td-cowen-as-stock-remain-range-bound",
-    "https://www.gurufocus.com/news/9110094/franklin-templeton-ben-reports-2-decline-in-september-aum-amid-market-headwinds",
-    "https://ca.investing.com/news/stock-market-news/form-4-security-national-financial-for-5-october-93CH-4866451",
-    "https://kalkinemedia.com/ca/stocks/gold/agnico-eagle-mines-limited-tsxaem-will-quarterly-impress",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/banco-bilbao-vizcaya-argentaria-stock-fell-4-03-percent-on-october-5/70237359"
+    "https://www.benzinga.com/news/26/10/62180277/here-s-how-much-1000-invested-mckesson-20-years-ago-would-be-worth-today"
   ]
 }
