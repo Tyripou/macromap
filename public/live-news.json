@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:27:29.484Z",
+  "updatedAt": "2026-10-30T00:58:23.151Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+        "date": "Oct 29, 2026",
+        "publishedAt": "2026-10-29T21:12:45.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, crypto.",
+        "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
         "date": "Oct 29, 2026",
         "publishedAt": "2026-10-29T14:15:46.000Z",
@@ -95,16 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-        "date": "Oct 29, 2026",
-        "publishedAt": "2026-10-29T03:32:43.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
       }
     ],
     "gold": [
@@ -395,6 +395,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+    "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+    "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
     "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
     "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
     "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
@@ -791,9 +794,6 @@
     "https://www.hartenergy.com/energy-market-transactions/crude-oil/he-eif-conocophillips-lance/",
     "https://www.ad-hoc-news.de/boerse/news/nebenwerte/kewaunee-reports-lower-sales-kewaunee-scientific-stock-sits-27-38-percent/70237866",
     "https://www.bizjournals.com/boston/news/2026/10/05/astrazeneca-cambridge-rd-hub-opens.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/crh-stock-faces-fresh-target-cuts-as-q2-revenue-rises-5-6-percent/70237579",
-    "https://za.investing.com/news/stock-market-news/compass-point-lowers-frontview-reit-stock-price-target-on-rates-93CH-4490148",
-    "https://seekingalpha.com/article/4952084-why-it-s-so-frustrating-being-a-micron-bull-these-days",
-    "https://www.benzinga.com/news/26/10/62180277/here-s-how-much-1000-invested-mckesson-20-years-ago-would-be-worth-today"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/crh-stock-faces-fresh-target-cuts-as-q2-revenue-rises-5-6-percent/70237579"
   ]
 }
