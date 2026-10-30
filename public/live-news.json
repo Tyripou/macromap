@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T09:58:54.649Z",
+  "updatedAt": "2026-10-30T17:59:35.903Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -78,6 +78,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Here's how big bitcoin traders responded after the Binance hack hit",
+        "date": "Oct 30, 2026",
+        "publishedAt": "2026-10-30T11:51:26.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+        "date": "Oct 30, 2026",
+        "publishedAt": "2026-10-30T11:09:24.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, Crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Strategy CFO resigns as company posts record quarterly profit. MSTR stock falls 6%",
         "date": "Oct 30, 2026",
         "publishedAt": "2026-10-30T09:41:07.000Z",
@@ -95,38 +115,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, crypto.",
         "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
-        "date": "Oct 29, 2026",
-        "publishedAt": "2026-10-29T21:12:45.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, crypto.",
-        "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-        "date": "Oct 29, 2026",
-        "publishedAt": "2026-10-29T14:15:46.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers"
-      }
-    ],
-    "gold": [
-      {
-        "kind": "catalyst",
-        "headline": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-        "date": "Oct 23, 2026",
-        "publishedAt": "2026-10-23T13:58:56.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : gold.",
-        "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports"
       }
     ],
     "btc-regulation": [
@@ -168,6 +156,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+        "date": "Oct 30, 2026",
+        "publishedAt": "2026-10-30T14:13:34.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
         "date": "Oct 29, 2026",
         "publishedAt": "2026-10-29T03:21:24.000Z",
@@ -195,16 +193,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-        "date": "Oct 27, 2026",
-        "publishedAt": "2026-10-27T14:21:10.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
       }
     ],
     "earnings": [
@@ -364,6 +352,26 @@
     "btc-risk-appetite": [
       {
         "kind": "catalyst",
+        "headline": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+        "date": "Oct 30, 2026",
+        "publishedAt": "2026-10-30T14:13:34.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+        "date": "Oct 30, 2026",
+        "publishedAt": "2026-10-30T11:09:24.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : liquidations.",
+        "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin gives up gains as Nasdaq slides to session low",
         "date": "Oct 29, 2026",
         "publishedAt": "2026-10-29T10:41:39.000Z",
@@ -381,20 +389,16 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : risk-off, liquidations.",
         "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T17:02:57.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55"
       }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+    "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
+    "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
+    "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
+    "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+    "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
     "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
     "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
     "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
@@ -788,12 +792,6 @@
     "https://www.supplychaindive.com/news/costco-cfo-doubles-down-on-tariff-strategy-winks-at-churro-comeback/832022/",
     "https://www.wcax.com/video/2026/10/05/globalfoundries-brings-massive-solar-array-battery-storage-online-essex-junction/",
     "https://www.ad-hoc-news.de/boerse/news/corporate-news/snap-on-stock-gets-a-usd-485-target-as-quarterly-sales-grow/70236642",
-    "https://www.gurufocus.com/news/9110560/td-cowen-downgrades-intercontinental-exchange-ice-to-hold-amid-macro-concerns",
-    "https://www.globenewswire.com/news-release/2026/10/05/3374787/3080/en/levi-korsinsky-reminds-fuelcell-energy-investors-of-the-pending-class-action-lawsuit-with-a-lead-plaintiff-deadline-of-november-10-2026-fcel.html",
-    "https://www.japantimes.co.jp/business/2026/10/06/companies/boeing-turning-page/",
-    "https://simplywall.st/stocks/us/consumer-retailing/nyse-kr/kroger/news/will-new-rewards-card-change-kroger-kr-narrative",
-    "https://au.finance.yahoo.com/news/waste-management-wm-landfill-moat-022350704.html",
-    "https://intellectia.ai/news/stock/greenbrier-strongly-disputes-utlx-antidumping-allegations",
-    "https://www.ndtvprofit.com/markets/stock-picks-today-axis-bank-hdfc-bank-trent-marico-and-more-on-brokerages-radar-12143601"
+    "https://www.gurufocus.com/news/9110560/td-cowen-downgrades-intercontinental-exchange-ice-to-hold-amid-macro-concerns"
   ]
 }
