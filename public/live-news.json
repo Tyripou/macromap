@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:58:23.151Z",
+  "updatedAt": "2026-10-30T09:58:54.649Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -46,6 +46,16 @@
     "nasdaq": [
       {
         "kind": "catalyst",
+        "headline": "Live updates: Binance finds more breaches in $6.3 billion hack; AI spending fears hit tech",
+        "date": "Oct 30, 2026",
+        "publishedAt": "2026-10-30T08:36:52.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : QQQ.",
+        "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin gives up gains as Nasdaq slides to session low",
         "date": "Oct 29, 2026",
         "publishedAt": "2026-10-29T10:41:39.000Z",
@@ -68,6 +78,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Strategy CFO resigns as company posts record quarterly profit. MSTR stock falls 6%",
+        "date": "Oct 30, 2026",
+        "publishedAt": "2026-10-30T09:41:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, BTC, MSTR.",
+        "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+        "date": "Oct 30, 2026",
+        "publishedAt": "2026-10-30T06:22:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
         "date": "Oct 29, 2026",
         "publishedAt": "2026-10-29T21:12:45.000Z",
@@ -85,26 +115,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
-        "date": "Oct 29, 2026",
-        "publishedAt": "2026-10-29T13:55:42.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "The chart bitcoin traders should be paying attention to",
-        "date": "Oct 29, 2026",
-        "publishedAt": "2026-10-29T07:44:44.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to"
       }
     ],
     "gold": [
@@ -117,16 +127,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : gold.",
         "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-        "date": "Oct 23, 2026",
-        "publishedAt": "2026-10-23T03:13:01.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : gold.",
-        "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100"
       }
     ],
     "btc-regulation": [
@@ -395,6 +395,16 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
+    "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
+    "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
+    "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+    "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
+    "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+    "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+    "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+    "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+    "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
     "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
     "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
     "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
@@ -784,16 +794,6 @@
     "https://simplywall.st/stocks/us/consumer-retailing/nyse-kr/kroger/news/will-new-rewards-card-change-kroger-kr-narrative",
     "https://au.finance.yahoo.com/news/waste-management-wm-landfill-moat-022350704.html",
     "https://intellectia.ai/news/stock/greenbrier-strongly-disputes-utlx-antidumping-allegations",
-    "https://www.ndtvprofit.com/markets/stock-picks-today-axis-bank-hdfc-bank-trent-marico-and-more-on-brokerages-radar-12143601",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/great-southern-bancorp-stock-sits-4-15-percent-below-its-high/70238078",
-    "https://pbn.com/citizens-financial-group-survey-finds-credit-card-rewards-increasingly-shape-spending/?amp=1",
-    "https://www.bloomberg.com/news/articles/2026-10-06/citi-strategist-says-jgbs-becoming-appealing-as-yields-near-peak",
-    "https://www.gurufocus.com/news/9109623/chd-maintained-by-wells-fargo-price-target-lowered-to-105",
-    "https://www.marketscreener.com/news/warner-bros-discovery-inc-nasdaqgs-wbd-dropped-from-s-p-global-1200-ce785dd8dc89f622",
-    "https://simplywall.st/stocks/us/transportation/nyse-dal/delta-air-lines/news/delta-air-lines-dal-why-is-it-back-in-the-spotlight",
-    "https://www.hartenergy.com/energy-market-transactions/crude-oil/he-eif-conocophillips-lance/",
-    "https://www.ad-hoc-news.de/boerse/news/nebenwerte/kewaunee-reports-lower-sales-kewaunee-scientific-stock-sits-27-38-percent/70237866",
-    "https://www.bizjournals.com/boston/news/2026/10/05/astrazeneca-cambridge-rd-hub-opens.html",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/crh-stock-faces-fresh-target-cuts-as-q2-revenue-rises-5-6-percent/70237579"
+    "https://www.ndtvprofit.com/markets/stock-picks-today-axis-bank-hdfc-bank-trent-marico-and-more-on-brokerages-radar-12143601"
   ]
 }
