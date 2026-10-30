@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T17:59:35.903Z",
+  "updatedAt": "2026-10-30T22:17:08.070Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -393,6 +393,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
     "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
     "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
     "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
@@ -791,7 +792,6 @@
     "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
     "https://www.supplychaindive.com/news/costco-cfo-doubles-down-on-tariff-strategy-winks-at-churro-comeback/832022/",
     "https://www.wcax.com/video/2026/10/05/globalfoundries-brings-massive-solar-array-battery-storage-online-essex-junction/",
-    "https://www.ad-hoc-news.de/boerse/news/corporate-news/snap-on-stock-gets-a-usd-485-target-as-quarterly-sales-grow/70236642",
-    "https://www.gurufocus.com/news/9110560/td-cowen-downgrades-intercontinental-exchange-ice-to-hold-amid-macro-concerns"
+    "https://www.ad-hoc-news.de/boerse/news/corporate-news/snap-on-stock-gets-a-usd-485-target-as-quarterly-sales-grow/70236642"
   ]
 }
