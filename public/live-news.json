@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:25:58.049Z",
+  "updatedAt": "2026-10-31T19:16:28.411Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -88,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+        "date": "Oct 31, 2026",
+        "publishedAt": "2026-10-31T18:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+        "date": "Oct 31, 2026",
+        "publishedAt": "2026-10-31T12:49:47.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
         "date": "Oct 31, 2026",
         "publishedAt": "2026-10-31T05:01:32.000Z",
@@ -105,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-        "date": "Oct 30, 2026",
-        "publishedAt": "2026-10-30T11:09:24.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, Crypto.",
-        "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Strategy CFO resigns as company posts record quarterly profit. MSTR stock falls 6%",
-        "date": "Oct 30, 2026",
-        "publishedAt": "2026-10-30T09:41:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, BTC, MSTR.",
-        "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6"
       }
     ],
     "btc-regulation": [
@@ -372,6 +372,16 @@
     "btc-risk-appetite": [
       {
         "kind": "catalyst",
+        "headline": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+        "date": "Oct 31, 2026",
+        "publishedAt": "2026-10-31T12:49:47.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
         "date": "Oct 30, 2026",
         "publishedAt": "2026-10-30T14:13:34.000Z",
@@ -399,20 +409,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-        "date": "Oct 29, 2026",
-        "publishedAt": "2026-10-29T03:32:43.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : risk-off, liquidations.",
-        "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
       }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+    "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+    "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+    "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+    "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+    "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+    "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+    "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+    "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
     "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
     "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
     "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
@@ -803,15 +812,6 @@
     "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
     "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
     "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
-    "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
-    "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
-    "https://kalkine.ca/company/nyse-uso/",
-    "https://www.stocktitan.net/sec-filings/USO/8-k-united-states-oil-fund-lp-reports-material-event-9a2fd7b8ec31.html",
-    "https://www.tradingview.com/news/tradingview:6b73b89f4ae5e:0-united-states-oil-fund-posts-84-0m-net-income-nav-per-share-133-38-for-aug-2026/",
-    "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
-    "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
-    "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-    "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
-    "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs"
+    "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm"
   ]
 }
