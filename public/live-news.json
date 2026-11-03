@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:01:31.711Z",
+  "updatedAt": "2026-11-03T23:21:40.920Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -88,6 +88,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+        "date": "Nov 3, 2026",
+        "publishedAt": "2026-11-03T22:14:44.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
         "date": "Nov 3, 2026",
         "publishedAt": "2026-11-03T11:28:00.000Z",
@@ -115,19 +125,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
-        "date": "Nov 3, 2026",
-        "publishedAt": "2026-11-03T04:48:17.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
       }
     ],
     "btc-regulation": [
+      {
+        "kind": "catalyst",
+        "headline": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+        "date": "Nov 3, 2026",
+        "publishedAt": "2026-11-03T22:14:44.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : CFTC.",
+        "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version"
+      },
       {
         "kind": "catalyst",
         "headline": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
@@ -147,16 +157,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto legislation.",
         "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-        "date": "Oct 27, 2026",
-        "publishedAt": "2026-10-27T20:41:33.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Clarity Act, SEC.",
-        "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top"
       }
     ],
     "btc-etf-flows": [
@@ -206,6 +206,16 @@
     "equities": [
       {
         "kind": "catalyst",
+        "headline": "What happens if North Korea steals Wall Street's tokenized assets next",
+        "date": "Nov 3, 2026",
+        "publishedAt": "2026-11-03T23:00:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next"
+      },
+      {
+        "kind": "catalyst",
         "headline": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
         "date": "Nov 3, 2026",
         "publishedAt": "2026-11-03T12:01:05.000Z",
@@ -233,16 +243,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T17:02:57.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55"
       }
     ],
     "earnings": [
@@ -319,18 +319,6 @@
         "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision"
       }
     ],
-    "usd": [
-      {
-        "kind": "catalyst",
-        "headline": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-        "date": "Oct 27, 2026",
-        "publishedAt": "2026-10-27T20:41:33.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : U.S. dollar, dollar.",
-        "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top"
-      }
-    ],
     "spx": [
       {
         "kind": "catalyst",
@@ -368,6 +356,16 @@
     "btc-risk-appetite": [
       {
         "kind": "catalyst",
+        "headline": "What happens if North Korea steals Wall Street's tokenized assets next",
+        "date": "Nov 3, 2026",
+        "publishedAt": "2026-11-03T23:00:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street.",
+        "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next"
+      },
+      {
+        "kind": "catalyst",
         "headline": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
         "date": "Nov 3, 2026",
         "publishedAt": "2026-11-03T15:02:13.000Z",
@@ -395,20 +393,13 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-        "date": "Oct 30, 2026",
-        "publishedAt": "2026-10-30T11:09:24.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : liquidations.",
-        "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower"
       }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+    "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+    "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
     "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
     "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
     "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
@@ -805,9 +796,6 @@
     "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
     "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
     "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-    "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-    "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
-    "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
-    "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard"
+    "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins"
   ]
 }
