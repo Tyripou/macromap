@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:42:01.400Z",
+  "updatedAt": "2026-11-03T06:45:11.547Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -46,6 +46,16 @@
     "nasdaq": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+        "date": "Nov 3, 2026",
+        "publishedAt": "2026-11-03T04:48:17.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
+      },
+      {
+        "kind": "catalyst",
         "headline": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
         "date": "Oct 31, 2026",
         "publishedAt": "2026-10-31T00:48:56.000Z",
@@ -73,19 +83,29 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-        "date": "Oct 27, 2026",
-        "publishedAt": "2026-10-27T14:21:10.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+        "date": "Nov 3, 2026",
+        "publishedAt": "2026-11-03T05:36:56.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+        "date": "Nov 3, 2026",
+        "publishedAt": "2026-11-03T04:48:17.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
@@ -105,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-        "date": "Nov 2, 2026",
-        "publishedAt": "2026-11-02T05:18:12.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, BTC.",
-        "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-        "date": "Nov 2, 2026",
-        "publishedAt": "2026-11-02T04:42:22.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack"
       }
     ],
     "btc-regulation": [
@@ -401,6 +401,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+    "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+    "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
     "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
     "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
     "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
@@ -797,9 +800,6 @@
     "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
     "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
     "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-    "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-    "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
-    "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next"
+    "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity"
   ]
 }
