@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-11-03T23:21:40.920Z",
+  "updatedAt": "2026-11-04T06:18:03.100Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+        "date": "Nov 4, 2026",
+        "publishedAt": "2026-11-04T05:14:12.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Tether.",
+        "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
+      },
       {
         "kind": "catalyst",
         "headline": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : exchange outflows.",
         "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
-        "date": "Nov 2, 2026",
-        "publishedAt": "2026-11-02T12:37:24.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens"
       }
     ],
     "nasdaq": [
@@ -88,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
+        "date": "Nov 4, 2026",
+        "publishedAt": "2026-11-04T06:16:40.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+        "date": "Nov 4, 2026",
+        "publishedAt": "2026-11-04T05:14:12.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
+      },
+      {
+        "kind": "catalyst",
         "headline": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
         "date": "Nov 3, 2026",
         "publishedAt": "2026-11-03T22:14:44.000Z",
@@ -105,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, crypto.",
         "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
-        "date": "Nov 3, 2026",
-        "publishedAt": "2026-11-03T11:12:12.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
-        "date": "Nov 3, 2026",
-        "publishedAt": "2026-11-03T05:36:56.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows"
       }
     ],
     "btc-regulation": [
@@ -397,6 +397,14 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
+    "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+    "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+    "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+    "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
+    "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
+    "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+    "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
     "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
     "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
     "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
@@ -788,14 +796,6 @@
     "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
     "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
     "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-    "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-    "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
-    "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
-    "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-    "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
-    "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
-    "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
-    "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-    "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins"
+    "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds"
   ]
 }
