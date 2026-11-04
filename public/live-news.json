@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-11-04T17:14:08.260Z",
+  "updatedAt": "2026-11-04T23:39:24.920Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+        "date": "Nov 4, 2026",
+        "publishedAt": "2026-11-04T22:55:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins.",
+        "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
+      },
       {
         "kind": "catalyst",
         "headline": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Tether.",
         "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-        "date": "Nov 2, 2026",
-        "publishedAt": "2026-11-02T18:13:57.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : exchange outflows.",
-        "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze"
       }
     ],
     "nasdaq": [
@@ -88,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+        "date": "Nov 4, 2026",
+        "publishedAt": "2026-11-04T22:51:42.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
+        "date": "Nov 4, 2026",
+        "publishedAt": "2026-11-04T20:29:12.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
         "date": "Nov 4, 2026",
         "publishedAt": "2026-11-04T14:00:53.000Z",
@@ -105,29 +125,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
-        "date": "Nov 4, 2026",
-        "publishedAt": "2026-11-04T06:16:40.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-        "date": "Nov 4, 2026",
-        "publishedAt": "2026-11-04T05:14:12.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
       }
     ],
     "btc-regulation": [
+      {
+        "kind": "catalyst",
+        "headline": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+        "date": "Nov 4, 2026",
+        "publishedAt": "2026-11-04T22:55:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : SEC, crypto rules.",
+        "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
+      },
       {
         "kind": "catalyst",
         "headline": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
@@ -157,16 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : CFTC.",
         "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-        "date": "Nov 1, 2026",
-        "publishedAt": "2026-11-01T19:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto legislation.",
-        "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
       }
     ],
     "btc-etf-flows": [
@@ -287,50 +287,6 @@
         "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump"
       }
     ],
-    "fed": [
-      {
-        "kind": "catalyst",
-        "headline": "Fed leaves interest rates unchanged, as expected",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T18:00:42.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Fed.",
-        "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Federal Reserve issues FOMC statement",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T18:00:00.000Z",
-        "source": "Federal Reserve (politique monétaire)",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Federal Reserve.",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
-      }
-    ],
-    "fomc": [
-      {
-        "kind": "catalyst",
-        "headline": "Fed leaves interest rates unchanged, as expected",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T18:00:42.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : leaves interest rates unchanged.",
-        "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Federal Reserve issues FOMC statement",
-        "date": "Oct 28, 2026",
-        "publishedAt": "2026-10-28T18:00:00.000Z",
-        "source": "Federal Reserve (politique monétaire)",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : FOMC.",
-        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
-      }
-    ],
     "btc-risk-appetite": [
       {
         "kind": "catalyst",
@@ -375,6 +331,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+    "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+    "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
     "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
     "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
     "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
@@ -771,9 +730,6 @@
     "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
     "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
     "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-    "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-    "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-    "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-    "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky"
+    "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa"
   ]
 }
