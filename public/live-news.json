@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T23:39:24.920Z",
+  "updatedAt": "2026-11-05T06:44:04.787Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -88,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+        "date": "Nov 5, 2026",
+        "publishedAt": "2026-11-05T05:13:45.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+        "date": "Nov 5, 2026",
+        "publishedAt": "2026-11-05T04:11:33.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin, BTC, Crypto.",
+        "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
         "date": "Nov 4, 2026",
         "publishedAt": "2026-11-04T22:51:42.000Z",
@@ -105,29 +125,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Crypto.",
         "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
-        "date": "Nov 4, 2026",
-        "publishedAt": "2026-11-04T14:00:53.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-        "date": "Nov 4, 2026",
-        "publishedAt": "2026-11-04T10:38:58.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains"
       }
     ],
     "btc-regulation": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+        "date": "Nov 5, 2026",
+        "publishedAt": "2026-11-05T05:13:45.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto legislation.",
+        "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound"
+      },
       {
         "kind": "catalyst",
         "headline": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
@@ -157,16 +167,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : CFTC.",
         "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-        "date": "Nov 3, 2026",
-        "publishedAt": "2026-11-03T15:02:13.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : CFTC.",
-        "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street"
       }
     ],
     "btc-etf-flows": [
@@ -331,6 +331,11 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+    "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+    "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+    "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+    "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
     "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
     "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
     "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
@@ -725,11 +730,6 @@
     "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
     "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
     "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-    "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-    "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-    "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-    "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-    "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-    "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa"
+    "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets"
   ]
 }
