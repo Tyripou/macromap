@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:44:59.002Z",
+  "updatedAt": "2026-11-06T23:06:40.007Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -78,6 +78,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+        "date": "Nov 6, 2026",
+        "publishedAt": "2026-11-06T20:09:18.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
         "date": "Nov 6, 2026",
         "publishedAt": "2026-11-06T11:58:40.000Z",
@@ -105,16 +115,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, BTC.",
         "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-        "date": "Nov 5, 2026",
-        "publishedAt": "2026-11-05T16:49:08.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : BTC, crypto.",
-        "link": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection"
       }
     ],
     "btc-regulation": [
@@ -301,6 +301,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+    "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
     "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
     "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
     "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
@@ -698,8 +700,6 @@
     "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-    "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-    "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-    "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares"
+    "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion"
   ]
 }
