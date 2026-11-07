@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T23:06:40.007Z",
+  "updatedAt": "2026-11-07T05:56:38.893Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -63,16 +63,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-        "date": "Oct 31, 2026",
-        "publishedAt": "2026-10-31T00:48:56.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters"
       }
     ],
     "btc": [
@@ -189,18 +179,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin ETFs, ETF outflow.",
         "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now"
-      }
-    ],
-    "valuations": [
-      {
-        "kind": "catalyst",
-        "headline": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-        "date": "Oct 31, 2026",
-        "publishedAt": "2026-10-31T00:48:56.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : valuation.",
-        "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters"
       }
     ],
     "equities": [
