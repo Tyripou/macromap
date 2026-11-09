@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:02:27.242Z",
+  "updatedAt": "2026-11-09T06:23:44.559Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+        "date": "Nov 9, 2026",
+        "publishedAt": "2026-11-09T04:54:39.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+        "date": "Nov 9, 2026",
+        "publishedAt": "2026-11-09T03:21:49.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility"
+      },
+      {
+        "kind": "catalyst",
         "headline": "What the election results mean for crypto: State of Crypto",
         "date": "Nov 8, 2026",
         "publishedAt": "2026-11-08T19:30:00.000Z",
@@ -85,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, BTC.",
         "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-        "date": "Nov 7, 2026",
-        "publishedAt": "2026-11-07T19:13:16.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-        "date": "Nov 7, 2026",
-        "publishedAt": "2026-11-07T17:36:46.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
       }
     ],
     "btc-regulation": [
@@ -279,6 +279,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+    "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+    "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
     "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
     "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
     "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
@@ -675,9 +678,6 @@
     "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
     "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
     "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-    "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
-    "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
-    "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-    "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027"
+    "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now"
   ]
 }
