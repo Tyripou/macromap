@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T06:23:44.559Z",
+  "updatedAt": "2026-11-09T19:47:23.841Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -46,6 +46,16 @@
     "nasdaq": [
       {
         "kind": "catalyst",
+        "headline": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
+        "date": "Nov 9, 2026",
+        "publishedAt": "2026-11-09T10:51:48.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq, Nvidia.",
+        "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
         "date": "Nov 5, 2026",
         "publishedAt": "2026-11-05T10:57:11.000Z",
@@ -68,6 +78,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+        "date": "Nov 9, 2026",
+        "publishedAt": "2026-11-09T16:19:45.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin bulls can't rely on ETF flows",
+        "date": "Nov 9, 2026",
+        "publishedAt": "2026-11-09T12:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
         "date": "Nov 9, 2026",
         "publishedAt": "2026-11-09T04:54:39.000Z",
@@ -85,26 +115,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "What the election results mean for crypto: State of Crypto",
-        "date": "Nov 8, 2026",
-        "publishedAt": "2026-11-08T19:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-        "date": "Nov 8, 2026",
-        "publishedAt": "2026-11-08T12:55:59.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000"
       }
     ],
     "btc-regulation": [
@@ -152,6 +162,16 @@
     "btc-etf-flows": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin bulls can't rely on ETF flows",
+        "date": "Nov 9, 2026",
+        "publishedAt": "2026-11-09T12:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : ETF flows.",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
         "date": "Nov 5, 2026",
         "publishedAt": "2026-11-05T11:30:00.000Z",
@@ -169,19 +189,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : spot ETFs, ETF outflows.",
         "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
-        "date": "Nov 2, 2026",
-        "publishedAt": "2026-11-02T06:46:41.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin ETFs, ETF outflow.",
-        "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now"
       }
     ],
     "equities": [
+      {
+        "kind": "catalyst",
+        "headline": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+        "date": "Nov 9, 2026",
+        "publishedAt": "2026-11-09T13:40:06.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Wall Street, stock market.",
+        "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race"
+      },
       {
         "kind": "catalyst",
         "headline": "Wall Street rethinks AI data center boom as Texas election raises new risks",
@@ -216,6 +236,16 @@
     "earnings": [
       {
         "kind": "catalyst",
+        "headline": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+        "date": "Nov 9, 2026",
+        "publishedAt": "2026-11-09T09:33:27.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : earnings.",
+        "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
         "date": "Nov 4, 2026",
         "publishedAt": "2026-11-04T12:33:54.000Z",
@@ -223,19 +253,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : earnings.",
         "link": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
-        "date": "Nov 2, 2026",
-        "publishedAt": "2026-11-02T14:29:33.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : earnings.",
-        "link": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook"
       }
     ],
     "btc-risk-appetite": [
+      {
+        "kind": "catalyst",
+        "headline": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
+        "date": "Nov 9, 2026",
+        "publishedAt": "2026-11-09T10:51:48.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin is resilient, but leverage is missing and demand still tepid",
@@ -265,20 +295,25 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "What happens if North Korea steals Wall Street's tokenized assets next",
-        "date": "Nov 3, 2026",
-        "publishedAt": "2026-11-03T23:00:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next"
       }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+    "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+    "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+    "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+    "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+    "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+    "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
+    "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+    "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
+    "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
+    "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+    "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+    "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
+    "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+    "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
     "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
     "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
     "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
@@ -663,21 +698,6 @@
     "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
     "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
     "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
-    "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
-    "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
-    "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
-    "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-    "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-    "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
-    "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
-    "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
-    "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
-    "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
-    "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
-    "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
-    "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
-    "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
-    "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-    "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now"
+    "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models"
   ]
 }
