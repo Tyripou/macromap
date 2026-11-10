@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-10T14:51:38.337Z",
+  "updatedAt": "2026-11-10T21:17:43.701Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+        "date": "Nov 10, 2026",
+        "publishedAt": "2026-11-10T17:32:22.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Will stablecoins survive once the banks catch up?",
+        "date": "Nov 10, 2026",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins.",
+        "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up"
+      },
       {
         "kind": "catalyst",
         "headline": "Stablecoin growth has stalled. The payments boom hasn't",
@@ -21,26 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoins.",
         "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-        "date": "Nov 6, 2026",
-        "publishedAt": "2026-11-06T08:04:52.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-        "date": "Nov 4, 2026",
-        "publishedAt": "2026-11-04T22:55:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoins.",
-        "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
       }
     ],
     "nasdaq": [
@@ -66,6 +66,16 @@
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+        "date": "Nov 10, 2026",
+        "publishedAt": "2026-11-10T17:07:22.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Crypto.",
+        "link": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
@@ -95,16 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-        "date": "Nov 9, 2026",
-        "publishedAt": "2026-11-09T16:19:45.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees"
       }
     ],
     "btc-regulation": [
@@ -311,6 +311,13 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+    "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+    "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+    "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+    "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+    "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+    "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
     "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
     "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
     "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
@@ -703,13 +710,6 @@
     "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
     "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
     "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-    "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-    "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-    "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-    "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-    "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-    "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
-    "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
-    "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers"
+    "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing"
   ]
 }
