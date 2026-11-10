@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T19:47:23.841Z",
+  "updatedAt": "2026-11-10T03:33:28.536Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -78,6 +78,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+        "date": "Nov 10, 2026",
+        "publishedAt": "2026-11-10T03:22:26.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough"
+      },
+      {
+        "kind": "catalyst",
         "headline": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
         "date": "Nov 9, 2026",
         "publishedAt": "2026-11-09T16:19:45.000Z",
@@ -105,16 +115,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-        "date": "Nov 9, 2026",
-        "publishedAt": "2026-11-09T03:21:49.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility"
       }
     ],
     "btc-regulation": [
@@ -160,6 +160,16 @@
       }
     ],
     "btc-etf-flows": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+        "date": "Nov 10, 2026",
+        "publishedAt": "2026-11-10T03:22:26.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : spot ETF.",
+        "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin bulls can't rely on ETF flows",
@@ -299,6 +309,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+    "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
     "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
     "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
     "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
@@ -696,8 +708,6 @@
     "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
     "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
     "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-    "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
-    "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
-    "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models"
+    "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm"
   ]
 }
