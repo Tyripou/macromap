@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-11-11T14:26:14.498Z",
+  "updatedAt": "2026-11-11T21:56:43.941Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+        "date": "Nov 11, 2026",
+        "publishedAt": "2026-11-11T16:00:45.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending"
+      },
       {
         "kind": "catalyst",
         "headline": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Stablecoin.",
         "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "The crypto industry has found new ways to grow. Making money from them is another story",
-        "date": "Nov 6, 2026",
-        "publishedAt": "2026-11-06T15:26:38.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoins.",
-        "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story"
       }
     ],
     "nasdaq": [
@@ -110,6 +110,16 @@
     "btc-regulation": [
       {
         "kind": "catalyst",
+        "headline": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+        "date": "Nov 11, 2026",
+        "publishedAt": "2026-11-11T16:00:45.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : GENIUS Act.",
+        "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
         "date": "Nov 5, 2026",
         "publishedAt": "2026-11-05T12:50:57.000Z",
@@ -137,16 +147,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : SEC, crypto rules.",
         "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
-        "date": "Nov 4, 2026",
-        "publishedAt": "2026-11-04T16:11:29.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Clarity Act.",
-        "link": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin"
       }
     ],
     "btc-etf-flows": [
@@ -201,16 +201,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street, stock market.",
         "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-        "date": "Nov 4, 2026",
-        "publishedAt": "2026-11-04T16:08:14.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom"
       }
     ],
     "earnings": [
@@ -255,16 +245,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-        "date": "Nov 4, 2026",
-        "publishedAt": "2026-11-04T16:08:14.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom"
       }
     ],
     "cpi": [
@@ -303,6 +283,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
     "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
     "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
     "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
@@ -701,7 +682,6 @@
     "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
     "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
     "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-    "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-    "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets"
+    "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown"
   ]
 }
