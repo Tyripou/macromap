@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T21:17:43.701Z",
+  "updatedAt": "2026-11-11T06:14:46.156Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -211,16 +211,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "What happens if North Korea steals Wall Street's tokenized assets next",
-        "date": "Nov 3, 2026",
-        "publishedAt": "2026-11-03T23:00:07.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next"
       }
     ],
     "earnings": [
