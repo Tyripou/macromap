@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:34:42.570Z",
+  "updatedAt": "2026-11-12T23:37:29.316Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -58,6 +58,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+        "date": "Nov 12, 2026",
+        "publishedAt": "2026-11-12T22:55:52.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin weakness erases September's bullish signal",
         "date": "Nov 12, 2026",
         "publishedAt": "2026-11-12T12:15:00.000Z",
@@ -85,16 +95,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-        "date": "Nov 12, 2026",
-        "publishedAt": "2026-11-12T05:22:31.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor"
       }
     ],
     "btc-regulation": [
@@ -230,9 +230,37 @@
         "why": "L'article évoque : valuation.",
         "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation"
       }
+    ],
+    "fomc": [
+      {
+        "kind": "catalyst",
+        "headline": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+        "date": "Nov 12, 2026",
+        "publishedAt": "2026-11-12T17:45:00.000Z",
+        "source": "Federal Reserve (politique monétaire)",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Federal Open Market Committee.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+      }
+    ],
+    "fed": [
+      {
+        "kind": "catalyst",
+        "headline": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+        "date": "Nov 12, 2026",
+        "publishedAt": "2026-11-12T17:45:00.000Z",
+        "source": "Federal Reserve (politique monétaire)",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Federal Reserve.",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+    "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+    "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
     "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
     "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
     "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
@@ -628,10 +656,6 @@
     "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
     "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
     "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-    "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
-    "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-    "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-    "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
-    "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead"
+    "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains"
   ]
 }
