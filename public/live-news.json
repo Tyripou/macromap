@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T17:11:42.275Z",
+  "updatedAt": "2026-11-13T23:31:15.907Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+        "date": "Nov 13, 2026",
+        "publishedAt": "2026-11-13T23:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+        "date": "Nov 13, 2026",
+        "publishedAt": "2026-11-13T18:39:58.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
         "date": "Nov 13, 2026",
         "publishedAt": "2026-11-13T16:01:27.000Z",
@@ -85,26 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin, BTC.",
         "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-        "date": "Nov 13, 2026",
-        "publishedAt": "2026-11-13T06:03:41.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-        "date": "Nov 13, 2026",
-        "publishedAt": "2026-11-13T03:37:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"
       }
     ],
     "btc-regulation": [
@@ -208,6 +208,16 @@
     "btc-risk-appetite": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+        "date": "Nov 13, 2026",
+        "publishedAt": "2026-11-13T18:39:58.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : risk-off.",
+        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
         "date": "Nov 9, 2026",
         "publishedAt": "2026-11-09T10:51:48.000Z",
@@ -301,6 +311,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+    "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
     "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
     "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
     "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
@@ -698,8 +710,6 @@
     "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
     "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
     "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-    "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
-    "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
-    "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade"
+    "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy"
   ]
 }
