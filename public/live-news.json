@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T23:37:29.316Z",
+  "updatedAt": "2026-11-13T06:42:27.302Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -58,6 +58,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+        "date": "Nov 13, 2026",
+        "publishedAt": "2026-11-13T06:03:41.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+        "date": "Nov 13, 2026",
+        "publishedAt": "2026-11-13T03:37:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"
+      },
+      {
+        "kind": "catalyst",
         "headline": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
         "date": "Nov 12, 2026",
         "publishedAt": "2026-11-12T22:55:52.000Z",
@@ -75,26 +95,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-        "date": "Nov 12, 2026",
-        "publishedAt": "2026-11-12T11:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-        "date": "Nov 12, 2026",
-        "publishedAt": "2026-11-12T07:00:37.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine"
       }
     ],
     "btc-regulation": [
@@ -110,6 +110,16 @@
       }
     ],
     "btc-etf-flows": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+        "date": "Nov 13, 2026",
+        "publishedAt": "2026-11-13T05:45:26.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin ETFs.",
+        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin dips with Nvidia as ETF outflows reach day five",
@@ -139,16 +149,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : ETF outflows.",
         "link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin lags stock rebound in advance of U.S. inflation report",
-        "date": "Nov 10, 2026",
-        "publishedAt": "2026-11-10T11:24:10.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : spot ETFs.",
-        "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report"
       }
     ],
     "equities": [
@@ -254,9 +254,25 @@
         "why": "L'article évoque : Federal Reserve.",
         "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
       }
+    ],
+    "dxy": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+        "date": "Nov 13, 2026",
+        "publishedAt": "2026-11-13T03:37:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Dollar Index, Dollar.",
+        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+    "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+    "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+    "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
     "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
     "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
     "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
@@ -652,10 +668,6 @@
     "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
     "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
     "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
-    "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
-    "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-    "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-    "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-    "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains"
+    "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses"
   ]
 }
