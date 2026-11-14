@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:31:15.907Z",
+  "updatedAt": "2026-11-14T06:19:41.596Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+        "date": "Nov 14, 2026",
+        "publishedAt": "2026-11-14T04:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : BTC.",
+        "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
         "date": "Nov 13, 2026",
         "publishedAt": "2026-11-13T23:30:00.000Z",
@@ -95,16 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-        "date": "Nov 13, 2026",
-        "publishedAt": "2026-11-13T11:52:25.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion"
       }
     ],
     "btc-regulation": [
@@ -311,6 +311,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+    "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
     "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
     "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
     "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
@@ -708,8 +710,6 @@
     "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
     "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
     "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
-    "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
-    "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-    "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy"
+    "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre"
   ]
 }
