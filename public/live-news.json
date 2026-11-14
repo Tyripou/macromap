@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:48:12.782Z",
+  "updatedAt": "2026-11-14T22:22:15.879Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+        "date": "Nov 14, 2026",
+        "publishedAt": "2026-11-14T16:33:29.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
         "date": "Nov 14, 2026",
         "publishedAt": "2026-11-14T13:00:00.000Z",
@@ -95,16 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : BTC.",
         "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-        "date": "Nov 13, 2026",
-        "publishedAt": "2026-11-13T23:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
       }
     ],
     "btc-regulation": [
@@ -323,6 +323,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+    "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
     "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
     "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
     "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
@@ -720,8 +722,6 @@
     "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
     "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
     "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-    "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
-    "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-    "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance"
+    "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
   ]
 }
