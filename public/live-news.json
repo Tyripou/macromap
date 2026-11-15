@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-11-14T22:22:15.879Z",
+  "updatedAt": "2026-11-15T06:27:50.436Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+        "date": "Nov 15, 2026",
+        "publishedAt": "2026-11-15T02:50:57.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+      },
       {
         "kind": "catalyst",
         "headline": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
@@ -31,16 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
-        "date": "Nov 11, 2026",
-        "publishedAt": "2026-11-11T16:00:45.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending"
       }
     ],
     "nasdaq": [
@@ -66,6 +66,16 @@
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+        "date": "Nov 15, 2026",
+        "publishedAt": "2026-11-15T02:50:57.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
@@ -95,16 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-        "date": "Nov 14, 2026",
-        "publishedAt": "2026-11-14T04:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : BTC.",
-        "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
       }
     ],
     "btc-regulation": [
@@ -323,6 +323,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
     "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
     "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
     "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
@@ -721,7 +722,6 @@
     "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
     "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
     "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-    "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-    "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked"
+    "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday"
   ]
 }
