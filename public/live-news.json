@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-16T06:25:22.997Z",
+  "updatedAt": "2026-11-16T19:35:06.926Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+        "date": "Nov 16, 2026",
+        "publishedAt": "2026-11-16T15:54:11.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+        "date": "Nov 15, 2026",
+        "publishedAt": "2026-11-15T07:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoins.",
+        "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs"
+      },
       {
         "kind": "catalyst",
         "headline": "XRP crashes to its lowest since November 2024 as money leaves crypto",
@@ -21,26 +41,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoins.",
         "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "UK bank Griffin raises $20 million to expand into stablecoin payments",
-        "date": "Nov 12, 2026",
-        "publishedAt": "2026-11-12T12:04:42.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
-        "date": "Nov 12, 2026",
-        "publishedAt": "2026-11-12T09:07:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin.",
-        "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million"
       }
     ],
     "nasdaq": [
@@ -53,19 +53,29 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Nasdaq.",
         "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
-        "date": "Nov 9, 2026",
-        "publishedAt": "2026-11-09T10:51:48.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Nasdaq, Nvidia.",
-        "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average"
       }
     ],
     "btc": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+        "date": "Nov 16, 2026",
+        "publishedAt": "2026-11-16T11:03:14.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+        "date": "Nov 16, 2026",
+        "publishedAt": "2026-11-16T07:51:15.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
@@ -85,29 +95,19 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Crypto.",
         "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-        "date": "Nov 15, 2026",
-        "publishedAt": "2026-11-15T14:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Crypto.",
-        "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-        "date": "Nov 15, 2026",
-        "publishedAt": "2026-11-15T02:50:57.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : crypto.",
-        "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
       }
     ],
     "btc-regulation": [
+      {
+        "kind": "catalyst",
+        "headline": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+        "date": "Nov 16, 2026",
+        "publishedAt": "2026-11-16T09:23:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto rules.",
+        "link": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead"
+      },
       {
         "kind": "catalyst",
         "headline": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
@@ -181,31 +181,29 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Wall Street.",
         "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-        "date": "Nov 9, 2026",
-        "publishedAt": "2026-11-09T13:40:06.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street, stock market.",
-        "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race"
-      }
-    ],
-    "earnings": [
-      {
-        "kind": "catalyst",
-        "headline": "U.S. inflation, corporate earnings: Crypto Week Ahead",
-        "date": "Nov 9, 2026",
-        "publishedAt": "2026-11-09T09:33:27.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : earnings.",
-        "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead"
       }
     ],
     "btc-risk-appetite": [
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+        "date": "Nov 16, 2026",
+        "publishedAt": "2026-11-16T11:03:14.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : liquidations.",
+        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Live updates: Bitcoin holds near weekend lows as Nasdaq extends decline to more than 2%",
+        "date": "Nov 16, 2026",
+        "publishedAt": "2026-11-16T09:34:18.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
+      },
       {
         "kind": "catalyst",
         "headline": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
@@ -215,16 +213,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : risk-off.",
         "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
-        "date": "Nov 9, 2026",
-        "publishedAt": "2026-11-09T10:51:48.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Nasdaq.",
-        "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average"
       }
     ],
     "cpi": [
@@ -264,6 +252,16 @@
     "fomc": [
       {
         "kind": "catalyst",
+        "headline": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+        "date": "Nov 16, 2026",
+        "publishedAt": "2026-11-16T09:23:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : FOMC, FOMC minutes.",
+        "link": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
         "date": "Nov 12, 2026",
         "publishedAt": "2026-11-12T17:45:00.000Z",
@@ -274,6 +272,16 @@
       }
     ],
     "fed": [
+      {
+        "kind": "catalyst",
+        "headline": "Warsh, Opening Remarks",
+        "date": "Nov 16, 2026",
+        "publishedAt": "2026-11-16T17:00:00.000Z",
+        "source": "Federal Reserve (discours)",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Federal Reserve.",
+        "link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm"
+      },
       {
         "kind": "catalyst",
         "headline": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
@@ -320,9 +328,39 @@
         "why": "L'article évoque : government bonds.",
         "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale"
       }
+    ],
+    "ecb-europe": [
+      {
+        "kind": "catalyst",
+        "headline": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+        "date": "Nov 15, 2026",
+        "publishedAt": "2026-11-15T07:00:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : ECB, Lagarde.",
+        "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+    "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+    "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+    "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+    "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
+    "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+    "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
+    "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
+    "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+    "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+    "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+    "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
+    "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
+    "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
+    "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
+    "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+    "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+    "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
     "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
     "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
     "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
@@ -704,24 +742,6 @@
     "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
     "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
     "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-    "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
-    "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-    "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-    "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-    "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-    "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-    "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
-    "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-    "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-    "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-    "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-    "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-    "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-    "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-    "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-    "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
-    "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
-    "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
-    "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks"
+    "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market"
   ]
 }
