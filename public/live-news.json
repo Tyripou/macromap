@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T22:47:36.619Z",
+  "updatedAt": "2026-11-16T06:25:22.997Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+        "date": "Nov 16, 2026",
+        "publishedAt": "2026-11-16T05:01:17.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Did prediction markets call the U.S. midterm election?: State of Crypto",
         "date": "Nov 15, 2026",
         "publishedAt": "2026-11-15T19:30:00.000Z",
@@ -95,16 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : crypto.",
         "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
-        "date": "Nov 14, 2026",
-        "publishedAt": "2026-11-14T16:33:29.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
       }
     ],
     "btc-regulation": [
@@ -323,6 +323,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+    "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
     "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
     "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
     "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
@@ -720,8 +722,6 @@
     "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
     "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
     "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
-    "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks",
-    "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-    "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed"
+    "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks"
   ]
 }
