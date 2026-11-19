@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T20:29:08.008Z",
+  "updatedAt": "2026-11-19T02:32:40.835Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -68,6 +68,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+        "date": "Nov 18, 2026",
+        "publishedAt": "2026-11-18T22:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : crypto.",
+        "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe"
+      },
+      {
+        "kind": "catalyst",
         "headline": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
         "date": "Nov 18, 2026",
         "publishedAt": "2026-11-18T15:38:38.000Z",
@@ -95,16 +105,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
-        "date": "Nov 18, 2026",
-        "publishedAt": "2026-11-18T07:27:48.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, crypto.",
-        "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
       }
     ],
     "btc-regulation": [
@@ -413,6 +413,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+    "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
     "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
     "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
@@ -810,8 +812,6 @@
     "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
     "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
     "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-    "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-    "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-    "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms"
+    "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo"
   ]
 }
