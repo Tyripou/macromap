@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-11-19T02:32:40.835Z",
+  "updatedAt": "2026-11-19T11:37:12.672Z",
   "byFactor": {
     "btc-crypto-liquidity": [
+      {
+        "kind": "catalyst",
+        "headline": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+        "date": "Nov 19, 2026",
+        "publishedAt": "2026-11-19T11:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : stablecoin.",
+        "link": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk"
+      },
       {
         "kind": "catalyst",
         "headline": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
@@ -31,19 +41,29 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoin.",
         "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
-        "date": "Nov 15, 2026",
-        "publishedAt": "2026-11-15T07:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoins.",
-        "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs"
       }
     ],
     "nasdaq": [
+      {
+        "kind": "catalyst",
+        "headline": "Anthropic’s $107 billion raise set to top SpaceX’s IPO as tokenized stocks gain traction",
+        "date": "Nov 19, 2026",
+        "publishedAt": "2026-11-19T11:06:13.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+        "date": "Nov 19, 2026",
+        "publishedAt": "2026-11-19T10:48:26.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Nasdaq.",
+        "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech"
+      },
       {
         "kind": "catalyst",
         "headline": "Live updates: Bitcoin gives up small gains as stocks again head lower",
@@ -68,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+        "date": "Nov 19, 2026",
+        "publishedAt": "2026-11-19T10:48:26.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, crypto.",
+        "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+        "date": "Nov 19, 2026",
+        "publishedAt": "2026-11-19T04:46:10.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
         "date": "Nov 18, 2026",
         "publishedAt": "2026-11-18T22:30:00.000Z",
@@ -85,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, BTC.",
         "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-        "date": "Nov 18, 2026",
-        "publishedAt": "2026-11-18T12:53:34.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
-        "date": "Nov 18, 2026",
-        "publishedAt": "2026-11-18T10:58:36.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike"
       }
     ],
     "btc-regulation": [
@@ -149,16 +169,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin ETFs.",
         "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-        "date": "Nov 12, 2026",
-        "publishedAt": "2026-11-12T11:30:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin ETFs, spot bitcoin ETFs, ETF outflows.",
-        "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five"
       }
     ],
     "equities": [
@@ -260,6 +270,16 @@
     "fed": [
       {
         "kind": "catalyst",
+        "headline": "Fed's rate hike push may be a mistake. Here's why",
+        "date": "Nov 19, 2026",
+        "publishedAt": "2026-11-19T06:23:19.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : the Fed, Fed.",
+        "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Barr, Investing in America’s Underserved Communities",
         "date": "Nov 18, 2026",
         "publishedAt": "2026-11-18T18:35:00.000Z",
@@ -287,16 +307,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Fed.",
         "link": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Warsh, Opening Remarks",
-        "date": "Nov 16, 2026",
-        "publishedAt": "2026-11-16T17:00:00.000Z",
-        "source": "Federal Reserve (discours)",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Federal Reserve.",
-        "link": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm"
       }
     ],
     "dxy": [
@@ -392,6 +402,16 @@
     "rate-expectations": [
       {
         "kind": "catalyst",
+        "headline": "Fed's rate hike push may be a mistake. Here's why",
+        "date": "Nov 19, 2026",
+        "publishedAt": "2026-11-19T06:23:19.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : rate hike.",
+        "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
         "date": "Nov 18, 2026",
         "publishedAt": "2026-11-18T10:58:36.000Z",
@@ -410,9 +430,31 @@
         "why": "L'article évoque : rate hike.",
         "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says"
       }
+    ],
+    "valuations": [
+      {
+        "kind": "catalyst",
+        "headline": "Anthropic’s $107 billion raise set to top SpaceX’s IPO as tokenized stocks gain traction",
+        "date": "Nov 19, 2026",
+        "publishedAt": "2026-11-19T11:06:13.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : valuation.",
+        "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul"
+      }
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+    "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
+    "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
+    "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
+    "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+    "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+    "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+    "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+    "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+    "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
     "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
     "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
@@ -802,16 +844,6 @@
     "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
     "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
     "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
-    "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
-    "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
-    "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
-    "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
-    "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-    "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-    "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-    "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-    "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-    "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-    "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo"
+    "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says"
   ]
 }
