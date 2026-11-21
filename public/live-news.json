@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T02:11:54.226Z",
+  "updatedAt": "2026-11-21T10:58:45.701Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -88,6 +88,26 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+        "date": "Nov 21, 2026",
+        "publishedAt": "2026-11-21T06:16:42.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
+      },
+      {
+        "kind": "catalyst",
+        "headline": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+        "date": "Nov 21, 2026",
+        "publishedAt": "2026-11-21T04:10:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin, BTC.",
+        "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
         "date": "Nov 20, 2026",
         "publishedAt": "2026-11-20T18:13:52.000Z",
@@ -105,26 +125,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : Bitcoin.",
         "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Here's what's crashing gold and likely weighing on bitcoin too",
-        "date": "Nov 20, 2026",
-        "publishedAt": "2026-11-20T06:12:15.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-        "date": "Nov 20, 2026",
-        "publishedAt": "2026-11-20T05:32:25.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, BTC.",
-        "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive"
       }
     ],
     "btc-regulation": [
@@ -463,6 +463,9 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+    "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+    "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
     "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
     "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
     "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
@@ -859,9 +862,6 @@
     "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
     "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
     "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
-    "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
-    "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
-    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-    "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55"
+    "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data"
   ]
 }
