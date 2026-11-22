@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T01:16:59.201Z",
+  "updatedAt": "2026-11-22T11:20:56.552Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -329,16 +329,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : ECB, Lagarde.",
         "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
-        "date": "Nov 15, 2026",
-        "publishedAt": "2026-11-15T07:00:00.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : ECB, Lagarde.",
-        "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs"
       }
     ],
     "earnings": [
