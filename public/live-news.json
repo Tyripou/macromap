@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T16:52:07.581Z",
+  "updatedAt": "2026-11-27T01:43:20.043Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -11,16 +11,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : stablecoins.",
         "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-        "date": "Nov 19, 2026",
-        "publishedAt": "2026-11-19T19:53:42.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : stablecoin, USDC.",
-        "link": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report"
       }
     ],
     "nasdaq": [
@@ -68,6 +58,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+        "date": "Nov 26, 2026",
+        "publishedAt": "2026-11-26T17:30:00.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : bitcoin.",
+        "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
         "date": "Nov 26, 2026",
         "publishedAt": "2026-11-26T16:50:23.000Z",
@@ -95,16 +95,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin, Crypto.",
         "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
-        "date": "Nov 25, 2026",
-        "publishedAt": "2026-11-25T15:59:44.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin, Crypto.",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan"
       }
     ],
     "btc-etf-flows": [
@@ -369,6 +359,7 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
     "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
     "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
     "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
@@ -767,7 +758,6 @@
     "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
     "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
     "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
-    "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
-    "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead"
+    "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany"
   ]
 }
