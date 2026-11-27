@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T12:15:11.373Z",
+  "updatedAt": "2026-11-27T21:20:34.920Z",
   "byFactor": {
     "btc-crypto-liquidity": [
       {
@@ -78,6 +78,16 @@
     "btc": [
       {
         "kind": "catalyst",
+        "headline": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+        "date": "Nov 27, 2026",
+        "publishedAt": "2026-11-27T12:16:07.000Z",
+        "source": "CoinDesk",
+        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
+        "why": "L'article évoque : Bitcoin.",
+        "link": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13"
+      },
+      {
+        "kind": "catalyst",
         "headline": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
         "date": "Nov 27, 2026",
         "publishedAt": "2026-11-27T11:45:47.000Z",
@@ -105,16 +115,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : bitcoin.",
         "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
-        "date": "Nov 26, 2026",
-        "publishedAt": "2026-11-26T16:50:23.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Bitcoin.",
-        "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases"
       }
     ],
     "btc-etf-flows": [
@@ -137,16 +137,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : spot ETF, ETF outflows.",
         "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
-        "date": "Nov 20, 2026",
-        "publishedAt": "2026-11-20T13:35:33.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bitcoin ETF.",
-        "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"
       }
     ],
     "equities": [
@@ -159,26 +149,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : equities, selloff.",
         "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-        "date": "Nov 20, 2026",
-        "publishedAt": "2026-11-20T18:13:52.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : bear market.",
-        "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-        "date": "Nov 20, 2026",
-        "publishedAt": "2026-11-20T14:54:30.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : Wall Street.",
-        "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street"
       }
     ],
     "btc-risk-appetite": [
@@ -275,16 +245,6 @@
         "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
         "why": "L'article évoque : ECB, Lagarde.",
         "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin"
-      },
-      {
-        "kind": "catalyst",
-        "headline": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-        "date": "Nov 20, 2026",
-        "publishedAt": "2026-11-20T13:11:49.000Z",
-        "source": "CoinDesk",
-        "summary": "Article rattaché automatiquement à ce facteur par mots-clés.",
-        "why": "L'article évoque : ECB, Lagarde.",
-        "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market"
       }
     ],
     "rate-expectations": [
@@ -359,6 +319,8 @@
     ]
   },
   "seen": [
+    "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+    "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
     "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
     "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
     "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
@@ -756,8 +718,6 @@
     "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
     "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
     "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
-    "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
-    "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
-    "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
+    "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says"
   ]
 }
